@@ -12,7 +12,7 @@ Pozdější merovejští králové ztráceli moc. Důležití byli **majordomov�
 
 ## Karel Veliký
 
-Pipinův syn **Karel Veliký** vládl v letech 768–814 a rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**.
+Pipinův syn **Karel Veliký** vládl v letech 768–814 a rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
 
 Karelův syn **Ludvík Pobožný** vládl po jeho smrti. Jeho synové bojovali o moc a **verdunskou smlouvou roku 843** si říši rozdělili:
 

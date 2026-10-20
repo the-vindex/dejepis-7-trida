@@ -9,6 +9,7 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 3. Podle čeho poznáš byzantský sloh? — **Kopule, mozaiky a ikony.**
 4. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
 5. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**
+6. Co se stalo roku 1054? — **Velké schizma: církev v Konstantinopoli se rozešla s Římem.**
 
 ## Franská říše
 
@@ -19,6 +20,7 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 5. Co znamená rok 800? — **Korunovace Karla Velikého císařem.**
 6. Co je karolinská renesance? — **Rozkvět vzdělanosti za Karla Velikého; vzniklo písmo karolinská minuskula.**
 7. Co se stalo roku 843 a kdo dostal jakou část? — **Verdunská smlouva: Karel Holý západ, Lothar I. střed, Ludvík Němec východ.**
+8. Jaký dar dostal Karel Veliký od chalífy Harúna ar-Rašída? — **Slona jménem Abú al-Abbás.**
 
 ## Arabská říše a islám
 
@@ -27,8 +29,9 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 3. Co znamená hidžra a kdy se odehrála? — **Odchod Mohameda z Mekky do Medíny roku 622.**
 4. Kdo vedl muslimskou obec po Mohamedovi? — **Chalífové.**
 5. Co je minaret? — **Věž u mešity, z níž se svolává k modlitbě.**
-6. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
-7. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
+6. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
+7. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
+8. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
 
 ## Středověká společnost a církev
 
@@ -43,10 +46,11 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 
 ## Svatá říše římská
 
-1. Kdo byl Jindřich I. Ptáčník? — **Východofranský král, vládl 919–936.**
-2. Kdo vyhrál bitvu na Lechu roku 955? — **Ota I. Veliký.**
-3. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
-4. Kdo byli kurfiřti a kolik jich bylo? — **Knížata, která volila římského krále; sedm: tři duchovní a čtyři světští.**
-5. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
-6. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
-7. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
+1. Co se stalo roku 843 a jak to souvisí se Svatou říší římskou? — **Franská říše se rozdělila; z východofranské části později vznikla Svatá říše římská.**
+2. Kdo byl Jindřich I. Ptáčník? — **Východofranský král, vládl 919–936.**
+3. Kdo vyhrál bitvu na Lechu roku 955? — **Ota I. Veliký.**
+4. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
+5. Kdo byli kurfiřti a kolik jich bylo? — **Knížata, která volila římského krále; sedm: tři duchovní a čtyři světští.**
+6. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
+7. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+8. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**

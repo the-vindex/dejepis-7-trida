@@ -4,7 +4,7 @@
 
 ## Pokračování římské říše
 
-Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**.
+Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**. Církev v Konstantinopoli se postupně vzdalovala Římu a roku **1054** se obě strany rozešly: nastalo **velké schizma**.
 
 ## Justinián I. a právo
 

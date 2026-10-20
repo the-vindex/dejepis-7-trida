@@ -11,7 +11,7 @@ krátce a česky. Web s obrázky: https://the-vindex.github.io/dejepis-7-trida/
 
 ### Pokračování římské říše
 
-Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**.
+Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**. Církev v Konstantinopoli se postupně vzdalovala Římu a roku **1054** se obě strany rozešly: nastalo **velké schizma**.
 
 ### Justinián I. a právo
 
@@ -57,7 +57,7 @@ Pozdější merovejští králové ztráceli moc. Důležití byli **majordomov�
 
 ### Karel Veliký
 
-Pipinův syn **Karel Veliký** vládl v letech 768–814 a rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**.
+Pipinův syn **Karel Veliký** vládl v letech 768–814 a rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
 
 Karelův syn **Ludvík Pobožný** vládl po jeho smrti. Jeho synové bojovali o moc a **verdunskou smlouvou roku 843** si říši rozdělili:
 
@@ -240,6 +240,8 @@ Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření
 
 ## Časová osa
 
+Událost může patřit do dvou linií i dvou témat (oddělené čárkou); první téma je hlavní.
+
 Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země.
 
 | Rok | Událost | Linie | Kapitola |
@@ -249,16 +251,16 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 527–565 | Vláda Justiniána I.: zákoník a chrám Hagia Sofia | byzanc | byzantska-rise |
 | 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
 | 632 | Smrt Mohameda; muslimy vedou chalífové | islám | arabska-rise-a-islam |
-| 732 | Karel Martel poráží Araby u Poitiers | říše | franska-rise |
+| 732 | Karel Martel poráží Araby u Poitiers | říše, islám | franska-rise, arabska-rise-a-islam |
 | 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
-| 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám | arabska-rise-a-islam |
+| 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám, říše | arabska-rise-a-islam, franska-rise |
 | 800 | Karel Veliký korunován císařem | říše | franska-rise |
-| 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise |
+| 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
 | 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
 | 919 | Jindřich I. Ptáčník východofranským králem | říše | svata-rise-rimska |
 | 955 | Ota I. poráží Maďary na řece Lech | říše | svata-rise-rimska |
 | 962 | Ota I. korunován císařem: vzniká Svatá říše římská | říše | svata-rise-rimska |
-| 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma |
+| 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma, byzantska-rise |
 | 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
 | 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
 | 1356 | Zlatá bula Karla IV. určuje sedm kurfiřtů | čechy | svata-rise-rimska |
@@ -275,6 +277,7 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 3. Podle čeho poznáš byzantský sloh? — **Kopule, mozaiky a ikony.**
 4. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
 5. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**
+6. Co se stalo roku 1054? — **Velké schizma: církev v Konstantinopoli se rozešla s Římem.**
 
 ### Franská říše
 
@@ -285,6 +288,7 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 5. Co znamená rok 800? — **Korunovace Karla Velikého císařem.**
 6. Co je karolinská renesance? — **Rozkvět vzdělanosti za Karla Velikého; vzniklo písmo karolinská minuskula.**
 7. Co se stalo roku 843 a kdo dostal jakou část? — **Verdunská smlouva: Karel Holý západ, Lothar I. střed, Ludvík Němec východ.**
+8. Jaký dar dostal Karel Veliký od chalífy Harúna ar-Rašída? — **Slona jménem Abú al-Abbás.**
 
 ### Arabská říše a islám
 
@@ -293,8 +297,9 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 3. Co znamená hidžra a kdy se odehrála? — **Odchod Mohameda z Mekky do Medíny roku 622.**
 4. Kdo vedl muslimskou obec po Mohamedovi? — **Chalífové.**
 5. Co je minaret? — **Věž u mešity, z níž se svolává k modlitbě.**
-6. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
-7. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
+6. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
+7. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
+8. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
 
 ### Středověká společnost a církev
 
@@ -309,10 +314,11 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 
 ### Svatá říše římská
 
-1. Kdo byl Jindřich I. Ptáčník? — **Východofranský král, vládl 919–936.**
-2. Kdo vyhrál bitvu na Lechu roku 955? — **Ota I. Veliký.**
-3. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
-4. Kdo byli kurfiřti a kolik jich bylo? — **Knížata, která volila římského krále; sedm: tři duchovní a čtyři světští.**
-5. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
-6. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
-7. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
+1. Co se stalo roku 843 a jak to souvisí se Svatou říší římskou? — **Franská říše se rozdělila; z východofranské části později vznikla Svatá říše římská.**
+2. Kdo byl Jindřich I. Ptáčník? — **Východofranský král, vládl 919–936.**
+3. Kdo vyhrál bitvu na Lechu roku 955? — **Ota I. Veliký.**
+4. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
+5. Kdo byli kurfiřti a kolik jich bylo? — **Knížata, která volila římského krále; sedm: tři duchovní a čtyři světští.**
+6. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
+7. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+8. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**

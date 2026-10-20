@@ -93,8 +93,18 @@ def md_to_html(text):
 
 
 def timeline():
-    rows = re.findall(r"^\| ([\d–]+) \| (.+?) \| (\S+) \| (\S+) \|$", read("procvicovani/casova-osa.md"), re.M)
-    return [{"year": y, "text": t, "lane": LANES[l][0], "chapter": c} for y, t, l, c in rows]
+    # an event can belong to two lanes and two topics ("říše, islám"); the first one is its home
+    rows = re.findall(r"^\| ([\d–]+) \| (.+?) \| ([^|]+?) \| ([^|]+?) \|$", read("procvicovani/casova-osa.md"), re.M)
+    events = []
+    for y, t, ls, cs in rows:
+        lanes = [LANES[x.strip()][0] for x in ls.split(",")]
+        chapters = [x.strip() for x in cs.split(",")]
+        events.append({"year": y, "text": t, "lane": lanes[0], "lanes": lanes, "chapter": chapters[0], "chapters": chapters})
+    return events
+
+
+def topic_link(stem):
+    return f'<a href="{stem}.html">{html.escape(title_of(read(f"ucivo/{stem}.md")))}</a>'
 
 
 def questions():
@@ -105,8 +115,14 @@ def questions():
     return out
 
 
-def chips(events):
-    return "".join(f'<li class="{e["lane"]}"><b>{e["year"]}</b> {html.escape(e["text"])}</li>' for e in events)
+def chips(events, stem):
+    out = ""
+    for e in events:
+        others = [c for c in e["chapters"] if c != stem]
+        also = f'<span class="also">i v tématu {", ".join(topic_link(c) for c in others)}</span>' if others else ""
+        lane = CHAPTERS[stem][1] if CHAPTERS[stem][1] in e["lanes"] else e["lane"]  # colour of this topic where it fits
+        out += f'<li class="{lane}"><b>{e["year"]}</b> {html.escape(e["text"])}{also}</li>'
+    return out
 
 
 def quiz_html(items):
@@ -125,8 +141,8 @@ def build_chapters(events, qs):
         if "<h2>Zápis ze sešitu</h2>" in body:
             body, sesit = body.split("<h2>Zápis ze sešitu</h2>", 1)
             sesit = '<section class="notebook"><h2>Zápis ze sešitu</h2>' + sesit + "</section>"
-        mine = [e for e in events if e["chapter"] == stem]
-        dates = f'<ol class="chips" aria-label="Letopočty tématu">{chips(mine)}</ol>' if mine else ""
+        mine = [e for e in events if stem in e["chapters"]]
+        dates = f'<ol class="chips" aria-label="Letopočty tématu">{chips(mine, stem)}</ol>' if mine else ""
         quiz = (f'<section class="quiz"><h2>Vyzkoušej se</h2><p class="hint">Odpověz nahlas, teprve pak otevři odpověď. '
                 f'<a href="opakovani.html#{stem}">Procvičit náhodně</a></p>{quiz_html(qs[title])}</section>') if qs.get(title) else ""
         pn = '<nav class="pager" aria-label="Další témata">'
@@ -153,9 +169,16 @@ def build_index(events):
         if c != century:
             century = c
             rows.append(f'<li class="century"><span>{c}. století</span></li>')
-        rows.append(f'<li class="ev {e["lane"]}" style="--lane:{order.index(e["lane"])}">'
-                    f'<span class="year">{e["year"]}</span><i class="dot"></i>'
-                    f'<a href="{e["chapter"]}.html">{html.escape(e["text"])}</a></li>')
+        idx = [order.index(l) for l in e["lanes"]]
+        dots = "".join(f'<i class="dot {l}" style="--lane:{i}"></i>' for l, i in zip(e["lanes"], idx))
+        if len(idx) > 1:  # where two stories cross, bridge their lanes
+            dots = f'<i class="bridge" style="--a:{min(idx)};--b:{max(idx)}"></i>' + dots
+        text = f'<a href="{e["chapter"]}.html">{html.escape(e["text"])}</a>'
+        if len(e["chapters"]) > 1:
+            text = (f'<span class="what">{html.escape(e["text"])}'
+                    f'<span class="also">témata {", ".join(topic_link(c) for c in e["chapters"])}</span></span>')
+        rows.append(f'<li class="ev {e["lane"]}"><span class="year">{e["year"]}</span>'
+                    f'<span class="lanes">{dots}</span>{text}</li>')
     topics = ""
     for stem, (span, lane) in CHAPTERS.items():
         text = read(f"ucivo/{stem}.md")
@@ -180,7 +203,7 @@ def build_review(events, qs):
         title = title_of(read(f"ucivo/{stem}.md"))
         topics.append({"id": stem, "title": title, "lane": lane,
                        "q": [{"q": q, "a": a} for q, a in qs.get(title, [])],
-                       "dates": [{"y": e["year"], "t": e["text"]} for e in events if e["chapter"] == stem]})
+                       "dates": [{"y": e["year"], "t": e["text"]} for e in events if stem in e["chapters"]]})
     tabs = "".join(f'<a class="tab {t["lane"]}" href="#{t["id"]}" data-id="{t["id"]}">{html.escape(t["title"])}</a>' for t in topics)
     body = f"""<section class="intro"><h1>Opakování</h1>
 <p>Test bývá z jednoho tématu, tak si ho vyber. Otázky chodí náhodně a jen z vybraného tématu.</p></section>

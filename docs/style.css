@@ -65,7 +65,12 @@ main { max-width: 960px; margin: 0 auto; padding: 2rem 16px 3rem; }
     linear-gradient(var(--cz), var(--cz)) calc(3.5 * var(--l) - 1px) 0 / 2px 100% no-repeat; }
 .ev { display: grid; grid-template-columns: var(--y) calc(4 * var(--l)) 1fr; align-items: center; padding: .35rem 0; position: relative; }
 .ev .year { font: 800 1.3rem var(--serif); color: var(--accent); text-align: right; padding-right: .9rem; white-space: nowrap; }
-.ev .dot { width: 14px; height: 14px; border-radius: 50%; background: var(--accent); margin-left: calc(var(--lane) * var(--l) + var(--l) / 2 - 7px); box-shadow: 0 0 0 3px var(--paper); }
+.ev .lanes { position: relative; height: 14px; }
+.ev .dot { position: absolute; top: 0; width: 14px; height: 14px; border-radius: 50%; background: var(--accent); left: calc(var(--lane) * var(--l) + var(--l) / 2 - 7px); box-shadow: 0 0 0 3px var(--paper); }
+.ev .bridge { position: absolute; top: 5px; height: 4px; border-radius: 2px; background: var(--ink); left: calc(var(--a) * var(--l) + var(--l) / 2); width: calc((var(--b) - var(--a)) * var(--l)); }
+.ev .what { padding: .15rem 0 .15rem .7rem; line-height: 1.4; }
+.ev .what .also { display: block; font-size: .95rem; color: var(--muted); }
+.ev .what .also a { padding: 0; color: var(--muted); text-decoration: underline; }
 .ev a { color: var(--ink); text-decoration: none; padding: .15rem 0 .15rem .7rem; line-height: 1.4; }
 .ev a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
 .century { font: italic 500 1.05rem var(--serif); color: var(--muted); margin: 1.1rem 0 .2rem; padding-left: calc(var(--y) + 4 * var(--l) + .7rem); }
@@ -79,6 +84,8 @@ main { max-width: 960px; margin: 0 auto; padding: 2rem 16px 3rem; }
 .lead { font: italic 500 1.3rem/1.55 var(--serif); }
 .chips { list-style: none; padding: 0; margin: 1.4rem 0 .5rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 13.5rem), 1fr)); gap: 8px; }
 .chips li { background: var(--card); border-left: 4px solid var(--accent); border-radius: 3px 8px 8px 3px; padding: .45rem .7rem; font-size: .98rem; line-height: 1.4; }
+.chips .also { display: block; margin-top: .2rem; font-size: .9rem; color: var(--muted); }
+.chips .also a { color: var(--muted); }
 .chips b { display: block; font: 800 1.15rem var(--serif); color: var(--accent); }
 .chapter table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.4rem; font-size: 1.02rem; display: block; overflow-x: auto; }
 .chapter th, .chapter td { text-align: left; padding: .5rem .8rem .5rem 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
@@ -150,7 +157,10 @@ button:disabled { opacity: .45; cursor: default; }
   body { font-size: 1.125rem; }
   .osa { --y: 4.4rem; --l: 13px; }
   .ev .year { font-size: 1.05rem; padding-right: .5rem; }
-  .ev .dot { width: 11px; height: 11px; margin-left: calc(var(--lane) * var(--l) + var(--l) / 2 - 5.5px); }
+  .ev .lanes { height: 11px; }
+  .ev .dot { width: 11px; height: 11px; left: calc(var(--lane) * var(--l) + var(--l) / 2 - 5.5px); }
+  .ev .bridge { top: 4px; height: 3px; }
+  .ev .what { padding-left: .5rem; font-size: 1.02rem; }
   .ev a { font-size: 1.02rem; padding-left: .5rem; }
   .century { padding-left: 0; }
   .remember { padding-left: 1.6rem; box-shadow: inset 1.1rem 0 0 #fff; }
