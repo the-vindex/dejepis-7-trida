@@ -1,5 +1,7 @@
 # Byzantská říše
 
+> **Ve zkratce:** Východní polovina Římské říše přežila pád Západu o tisíc let. Dala Evropě římské právo, chrámy s kopulemi a přes Konstantina a Metoděje i první slovanské písmo.
+
 ## Pokračování římské říše
 
 Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**.
@@ -30,7 +32,20 @@ Roku **1453** dobyli Konstantinopol **Osmanští Turci** a Byzantská říše za
 
 **476 východní Řím pokračuje → 6. století Justinián, zákony a Hagia Sofia → 863 Konstantin a Metoděj s hlaholicí → 1453 dobytí Konstantinopole.**
 
+## Paměťový obraz
+
+Byzanc je pravá věž hradu: začni u rozlomeného sloupu nahoře vlevo a pak jdi pravou věží zdola nahoru.
+
 ![Paměťový hrad: Frankové a Byzanc](../docs/assets/pametovy-hrad.jpg)
+
+| Zastávka | Obraz | Co si vybavit |
+|---|---|---|
+| 1 | Rozlomený římský sloup | **476:** Západořímská říše zaniká, východní pokračuje. |
+| 7 | Kniha zákonů | **Justinián:** uspořádání římského práva v 6. století. |
+| 8 | Kopule a mozaiky | **Hagia Sofia:** byzantské stavitelství a umění. |
+| 9 | Kniha s hlaholicí | **863:** Konstantin a Metoděj přicházejí na Velkou Moravu. |
+| 10 | Brána Konstantinopole | **1453:** Osmané město dobývají, Byzanc zaniká. |
+
 
 ## Zápis ze sešitu
 

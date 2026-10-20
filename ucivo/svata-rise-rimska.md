@@ -1,5 +1,7 @@
 # Svatá říše římská
 
+> **Ve zkratce:** Z východní části Franské říše vznikla roku 962 Svatá říše římská. České země k ní patřily, ale měly vlastní panovníky a od roku 1212 dědičné krále.
+
 ## Vznik říše
 
 ![Jindřich I. Ptáčník (919–936)](../docs/assets/ilustrace/jindrich-ptacnik.jpg)
@@ -35,18 +37,9 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**. Je třeba roz
 
 Po Otonech vládli **sálští panovníci**, mezi nimi **Jindřich IV.**, který vedl s papežstvím **boj o investituru** – spor o právo dosazovat biskupy a další církevní hodnostáře. Později vládli také **Štaufové** (např. **Fridrich I. Barbarossa**).
 
-## Časová osa
+## Paměťový obraz
 
-| Rok | Událost |
-|---|---|
-| **843** | Rozdělení Franské říše |
-| **919** | Jindřich I. se stává východofranským králem |
-| **955** | Bitva na Lechu |
-| **962** | Ota I. korunován císařem |
-| **1054** | Velké schizma |
-| **1085/1086** | Vratislav II. získává titul / korunovace |
-| **1212** | Zlatá bula sicilská |
-| **1356** | Zlatá bula Karla IV.; pravidla volby |
+- **Řeka, koruna a sedm voličů:** Ota I. poráží Maďary na Lechu roku 955, získává císařskou korunu roku 962; později sedm kurfiřtů volí římského krále.
 
 ### Pozor na častou chybu
 

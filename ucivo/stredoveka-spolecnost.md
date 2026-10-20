@@ -1,5 +1,7 @@
 # Středověká společnost a církev
 
+> **Ve zkratce:** Středověká společnost se dělila na ty, kdo se modlí, kdo bojují a kdo pracují. Kláštery nebyly jen místem modlitby, ale i škol, nemocnic a opisování knih.
+
 ## Tři skupiny společnosti
 
 Středověcí autoři často používali zjednodušený model **tří skupin**:
@@ -28,9 +30,13 @@ Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření
 
 **Františkáni a dominikáni** patřili k žebravým řádům a významně působili ve městech.
 
-### Zapamatuj si
+## Zapamatuj si
 
 **Kněz se modlí, rytíř bojuje, rolník pracuje.** V klášteře mnich nejen žije nábožensky, ale také **opisuje rukopisy**.
+
+## Paměťový obraz
+
+- **Hrad a klášter:** kněz se modlí, rytíř bojuje, rolník pracuje; mnich opisuje knihu.
 
 ## Zápis ze sešitu
 

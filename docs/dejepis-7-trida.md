@@ -1,10 +1,53 @@
 # Dějepis – 7. třída: učivo pro AI asistenta
 
 Studijní podklady pro 7. třídu (ZŠ, Česko) podle školního sešitu, s historickými opravami.
-Pokud tě někdo požádá o vyzkoušení: ptej se po jedné otázce, počkej na odpověď, oprav ji
-a vysvětli krátce a česky. Web s obrázky: https://the-vindex.github.io/dejepis-7-trida/
+Test je vždy z jednoho tématu (jedné kapitoly níže). Pokud tě někdo požádá o vyzkoušení,
+zeptej se z jakého tématu, ptej se po jedné otázce, počkej na odpověď, oprav ji a vysvětli
+krátce a česky. Web s obrázky: https://the-vindex.github.io/dejepis-7-trida/
+
+## Byzantská říše
+
+> **Ve zkratce:** Východní polovina Římské říše přežila pád Západu o tisíc let. Dala Evropě římské právo, chrámy s kopulemi a přes Konstantina a Metoděje i první slovanské písmo.
+
+### Pokračování římské říše
+
+Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**.
+
+### Justinián I. a právo
+
+V **6. století** zažila říše za císaře **Justiniána I.** velký mocenský a kulturní rozmach. Nechal uspořádat starší římské zákony a právní texty do souboru známého jako **Corpus iuris civilis**. Ten pomohl zachovat římské právo a později ovlivnil evropskou právní tradici. Sešitové „soubor občanských zákonů“ je školní zkratka: nešlo o dnešní občanský zákoník.
+
+### Umění, vzdělanost a Hagia Sofia
+
+Byzantské umění poznáš podle **kopulí**, **mozaik** a **ikon**. V Konstantinopoli nechal Justinián postavit velkolepý chrám **Hagia Sofia**, tedy chrám Boží Moudrosti. Byzanc byla důležitým střediskem vzdělanosti a její náboženské i umělecké vlivy pronikaly do dalších zemí.
+
+### Konstantin a Metoděj
+
+Z Byzance přišli roku **863** na Velkou Moravu bratři **Konstantin (později Cyril)** a **Metoděj**. Přinesli křesťanské texty ve slovanském jazyce. Konstantin vytvořil pro jejich zápis **hlaholici**. **Cyrilice vznikla později** v prostředí jejich žáků; obrázek v sešitě s popiskem „držící cyrilici“ je tedy zavádějící.
+
+### Konec říše
+
+Roku **1453** dobyli Konstantinopol **Osmanští Turci** a Byzantská říše zanikla. Tvrzení, že město bylo přesně tehdy přejmenováno na Istanbul, je nepřesné: pojmenování Istanbul se užívalo už dříve a mezinárodní úřední podoba názvu se ustálila až mnohem později.
+
+### Zapamatuj si
+
+**476 východní Řím pokračuje → 6. století Justinián, zákony a Hagia Sofia → 863 Konstantin a Metoděj s hlaholicí → 1453 dobytí Konstantinopole.**
+
+### Paměťový obraz
+
+Byzanc je pravá věž hradu: začni u rozlomeného sloupu nahoře vlevo a pak jdi pravou věží zdola nahoru.
+
+| Zastávka | Obraz | Co si vybavit |
+|---|---|---|
+| 1 | Rozlomený římský sloup | **476:** Západořímská říše zaniká, východní pokračuje. |
+| 7 | Kniha zákonů | **Justinián:** uspořádání římského práva v 6. století. |
+| 8 | Kopule a mozaiky | **Hagia Sofia:** byzantské stavitelství a umění. |
+| 9 | Kniha s hlaholicí | **863:** Konstantin a Metoděj přicházejí na Velkou Moravu. |
+| 10 | Brána Konstantinopole | **1453:** Osmané město dobývají, Byzanc zaniká. |
 
 ## Franská říše
+
+> **Ve zkratce:** Frankové vybudovali na troskách Západořímské říše největší křesťanský stát západní Evropy. Vrcholu dosáhli za Karla Velikého; jeho vnuci si říši roku 843 rozdělili a z dílů později vyrostla Francie a Německo.
 
 ### Jak vznikla
 
@@ -37,37 +80,25 @@ Hranice a státy nebyly totožné s těmi dnešními. Středofranská část se 
 
 **Chlodvík sjednocuje a přijímá křest → Martel 732 vítězí u Poitiers → Pipin 751 zakládá královskou vládu Karlovců → Karel Veliký je 800 korunován císařem → vnuci dělí říši 843.**
 
+### Paměťový obraz
+
+Projdi v duchu levou věž hradu odshora dolů a u každé zastávky řekni, co se stalo.
+
+| Zastávka | Obraz | Co si vybavit |
+|---|---|---|
+| 2 | Křtitelnice | **Chlodvík:** sjednocení Franků a přijetí křesťanství. |
+| 3 | Kladivo | **732:** Karel Martel vítězí u Poitiers. |
+| 4 | Trůn | **751:** Pipin Krátký se stává králem; Karlovci. |
+| 5 | Koruna a knihy | **800:** Karel Veliký císařem; školy a karolinská renesance. |
+| 6 | Mapa rozdělená na tři díly | **843:** Karel Holý západ, Lothar střed, Ludvík Němec východ. |
+
 #### Opravy z poznámek
 
 Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté (často kolem 631/632). Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
 
-## Byzantská říše
-
-### Pokračování římské říše
-
-Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**.
-
-### Justinián I. a právo
-
-V **6. století** zažila říše za císaře **Justiniána I.** velký mocenský a kulturní rozmach. Nechal uspořádat starší římské zákony a právní texty do souboru známého jako **Corpus iuris civilis**. Ten pomohl zachovat římské právo a později ovlivnil evropskou právní tradici. Sešitové „soubor občanských zákonů“ je školní zkratka: nešlo o dnešní občanský zákoník.
-
-### Umění, vzdělanost a Hagia Sofia
-
-Byzantské umění poznáš podle **kopulí**, **mozaik** a **ikon**. V Konstantinopoli nechal Justinián postavit velkolepý chrám **Hagia Sofia**, tedy chrám Boží Moudrosti. Byzanc byla důležitým střediskem vzdělanosti a její náboženské i umělecké vlivy pronikaly do dalších zemí.
-
-### Konstantin a Metoděj
-
-Z Byzance přišli roku **863** na Velkou Moravu bratři **Konstantin (později Cyril)** a **Metoděj**. Přinesli křesťanské texty ve slovanském jazyce. Konstantin vytvořil pro jejich zápis **hlaholici**. **Cyrilice vznikla později** v prostředí jejich žáků; obrázek v sešitě s popiskem „držící cyrilici“ je tedy zavádějící.
-
-### Konec říše
-
-Roku **1453** dobyli Konstantinopol **Osmanští Turci** a Byzantská říše zanikla. Tvrzení, že město bylo přesně tehdy přejmenováno na Istanbul, je nepřesné: pojmenování Istanbul se užívalo už dříve a mezinárodní úřední podoba názvu se ustálila až mnohem později.
-
-### Zapamatuj si
-
-**476 východní Řím pokračuje → 6. století Justinián, zákony a Hagia Sofia → 863 Konstantin a Metoděj s hlaholicí → 1453 dobytí Konstantinopole.**
-
 ## Arabská říše a islám
+
+> **Ve zkratce:** V 7. století vzniklo v Arábii nové náboženství, islám. Arabové se za sto let rozšířili od Indu po Španělsko a jejich učenci rozvíjeli matematiku, lékařství i astronomii.
 
 ### Arabský poloostrov a Mohamed
 
@@ -87,68 +118,22 @@ Arabský a širší islámský svět rozvíjel **matematiku, lékařství, astro
 
 **Harún ar-Rašíd** byl abbásovský chalífa (vládl **786–809**). Udržoval diplomatické styky s **Karlem Velikým** a poslal mu slona jménem **Abú al-Abbás**. Vystupuje také v příbězích spojených se sbírkou **Tisíc a jedna noc**, kterou rámcově vypráví **Šeherezáda**.
 
-#### Zapamatuj si
+### Zapamatuj si
 
 **Mohamed → islám → Korán → 622 (hidžra) → chalífové → arabská expanze.**
+
+### Paměťový obraz
+
+- **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
+- **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
 
 #### Ověření proti zápiskům
 
 Rok 622 **není** datum okamžitého vzniku islámu; je to rok hidžry. Náboženství se rozvíjelo již dříve. Datum 732 je spojeno s bitvou u Tours/Poitiers, nikoli se zastavením všech dalších muslimských vojenských akcí v Evropě.
 
-## Středověká společnost a církev
-
-### Tři skupiny společnosti
-
-Středověcí autoři často používali zjednodušený model **tří skupin**:
-
-1. **Duchovenstvo** – ti, kteří se modlí.
-2. **Šlechta** – ti, kteří bojují a chrání.
-3. **Pracující obyvatelé**, zejména rolníci – ti, kteří pracují a zajišťují obživu.
-
-Skutečná středověká společnost však byla pestřejší. Ve městech žili například **řemeslníci, kupci, obchodníci, nádeníci a služebnictvo**.
-
-### Duchovenstvo
-
-V západní církvi stál na vrcholu **papež**. Pod ním působili **arcibiskupové, biskupové a kněží**. **Mniši** a **jeptišky** žili v klášterech podle pravidel řádu.
-
-### Kláštery
-
-Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření, péče o nemocné a **opisování knih**. Díky tomu se zachovalo mnoho starších textů.
-
-| Řád | Co si vybavit |
-|---|---|
-| Benediktini | Kláštery; modlitba a práce (*ora et labora*) |
-| Cisterciáci | Přísný řeholní život; hospodaření |
-| Premonstráti | Klášterní život a duchovní služba |
-| Františkáni | Dobrovolná chudoba, kázání, pomoc lidem |
-| Dominikáni | Kázání, vzdělání, studium teologie |
-
-**Františkáni a dominikáni** patřili k žebravým řádům a významně působili ve městech.
-
-#### Zapamatuj si
-
-**Kněz se modlí, rytíř bojuje, rolník pracuje.** V klášteře mnich nejen žije nábožensky, ale také **opisuje rukopisy**.
-
-## Velké schizma – 1054
-
-### Co znamená schizma?
-
-**Schizma** znamená rozkol nebo rozdělení. Východní a západní část křesťanského světa se po staletí odlišovaly zvyky, jazykem bohoslužeb a názorem na autoritu papeže.
-
-**Roku 1054** došlo k výraznému sporu mezi představiteli Říma a Konstantinopole. Datum se tradičně uvádí jako symbol rozdělení mezi **římskokatolickou (západní)** a **pravoslavnou (východní)** církev. Rozdělení bylo **dlouhodobý proces**, ne okamžitá změna všech komunit v jediném roce.
-
-| Západ | Východ |
-|---|---|
-| Řím | Konstantinopol |
-| Papež | Patriarchové, včetně konstantinopolského |
-| Historicky převládala latina | Historicky významná byla řečtina |
-| Katolická tradice | Pravoslavná tradice |
-
-#### Zapamatuj si
-
-**1054 – jeden křesťanský svět se postupně rozděluje na západní a východní církev.**
-
 ## Svatá říše římská
+
+> **Ve zkratce:** Z východní části Franské říše vznikla roku 962 Svatá říše římská. České země k ní patřily, ale měly vlastní panovníky a od roku 1212 dědičné krále.
 
 ### Vznik říše
 
@@ -180,152 +165,154 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**. Je třeba roz
 
 Po Otonech vládli **sálští panovníci**, mezi nimi **Jindřich IV.**, který vedl s papežstvím **boj o investituru** – spor o právo dosazovat biskupy a další církevní hodnostáře. Později vládli také **Štaufové** (např. **Fridrich I. Barbarossa**).
 
-### Časová osa
+### Paměťový obraz
 
-| Rok | Událost |
-|---|---|
-| **843** | Rozdělení Franské říše |
-| **919** | Jindřich I. se stává východofranským králem |
-| **955** | Bitva na Lechu |
-| **962** | Ota I. korunován císařem |
-| **1054** | Velké schizma |
-| **1085/1086** | Vratislav II. získává titul / korunovace |
-| **1212** | Zlatá bula sicilská |
-| **1356** | Zlatá bula Karla IV.; pravidla volby |
+- **Řeka, koruna a sedm voličů:** Ota I. poráží Maďary na Lechu roku 955, získává císařskou korunu roku 962; později sedm kurfiřtů volí římského krále.
 
 #### Pozor na častou chybu
 
 **Sedm kurfiřtů v pevně kodifikované podobě patří až do 14. století**. Nejde o součást založení říše roku 962. A kurfiřti primárně volili **římského krále**, nikoliv vždy přímo císaře.
 
+## Velké schizma – 1054
+
+> **Ve zkratce:** Roku 1054 se křesťanská církev rozešla na západní, římskokatolickou, a východní, pravoslavnou. Spory mezi Římem a Konstantinopolí ale trvaly už staletí předtím.
+
+### Co znamená schizma?
+
+**Schizma** znamená rozkol nebo rozdělení. Východní a západní část křesťanského světa se po staletí odlišovaly zvyky, jazykem bohoslužeb a názorem na autoritu papeže.
+
+**Roku 1054** došlo k výraznému sporu mezi představiteli Říma a Konstantinopole. Datum se tradičně uvádí jako symbol rozdělení mezi **římskokatolickou (západní)** a **pravoslavnou (východní)** církev. Rozdělení bylo **dlouhodobý proces**, ne okamžitá změna všech komunit v jediném roce.
+
+| Západ | Východ |
+|---|---|
+| Řím | Konstantinopol |
+| Papež | Patriarchové, včetně konstantinopolského |
+| Historicky převládala latina | Historicky významná byla řečtina |
+| Katolická tradice | Pravoslavná tradice |
+
+### Zapamatuj si
+
+**1054 – jeden křesťanský svět se postupně rozděluje na západní a východní církev.**
+
+### Paměťový obraz
+
+- **Dvě poloviny kostela:** papež v Římě, patriarcha v Konstantinopoli, rok 1054.
+
+## Středověká společnost a církev
+
+> **Ve zkratce:** Středověká společnost se dělila na ty, kdo se modlí, kdo bojují a kdo pracují. Kláštery nebyly jen místem modlitby, ale i škol, nemocnic a opisování knih.
+
+### Tři skupiny společnosti
+
+Středověcí autoři často používali zjednodušený model **tří skupin**:
+
+1. **Duchovenstvo** – ti, kteří se modlí.
+2. **Šlechta** – ti, kteří bojují a chrání.
+3. **Pracující obyvatelé**, zejména rolníci – ti, kteří pracují a zajišťují obživu.
+
+Skutečná středověká společnost však byla pestřejší. Ve městech žili například **řemeslníci, kupci, obchodníci, nádeníci a služebnictvo**.
+
+### Duchovenstvo
+
+V západní církvi stál na vrcholu **papež**. Pod ním působili **arcibiskupové, biskupové a kněží**. **Mniši** a **jeptišky** žili v klášterech podle pravidel řádu.
+
+### Kláštery
+
+Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření, péče o nemocné a **opisování knih**. Díky tomu se zachovalo mnoho starších textů.
+
+| Řád | Co si vybavit |
+|---|---|
+| Benediktini | Kláštery; modlitba a práce (*ora et labora*) |
+| Cisterciáci | Přísný řeholní život; hospodaření |
+| Premonstráti | Klášterní život a duchovní služba |
+| Františkáni | Dobrovolná chudoba, kázání, pomoc lidem |
+| Dominikáni | Kázání, vzdělání, studium teologie |
+
+**Františkáni a dominikáni** patřili k žebravým řádům a významně působili ve městech.
+
+### Zapamatuj si
+
+**Kněz se modlí, rytíř bojuje, rolník pracuje.** V klášteře mnich nejen žije nábožensky, ale také **opisuje rukopisy**.
+
+### Paměťový obraz
+
+- **Hrad a klášter:** kněz se modlí, rytíř bojuje, rolník pracuje; mnich opisuje knihu.
+
 ## Časová osa
 
-| Rok | Událost |
-|---|---|
-| 622 | Hidžra – Mohamedův odchod do Medíny |
-| 632 | Smrt Mohameda |
-| 732 | Bitva u Tours/Poitiers |
-| 786–809 | Vláda Harúna ar-Rašída |
-| 843 | Verdunská smlouva, rozdělení Franské říše |
-| 919 | Nástup Jindřicha I. Ptáčníka |
-| 955 | Ota I. vítězí nad Maďary na Lechu |
-| 962 | Korunovace Oty I. císařem |
-| 1054 | Velké schizma (tradiční mezník) |
-| 1085/1086 | Vratislav II.: královský titul / korunovace |
-| 1212 | Zlatá bula sicilská |
-| 1356 | Zlatá bula Karla IV. a kurfiřti |
+Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země.
 
-### Frankové a Byzanc – doplnění
-
-| Datum | Událost |
-|---|---|
-| 476 | Zánik Západořímské říše; Východořímská pokračuje |
-| 6. století | Rozmach Byzance za Justiniána |
-| 732 | Karel Martel vítězí u Poitiers/Tours |
-| 751 | Pipin Krátký králem |
-| 800 | Korunovace Karla Velikého císařem |
-| 843 | Verdunská smlouva a rozdělení Franské říše |
-| 863 | Konstantin a Metoděj přicházejí na Velkou Moravu |
-| 1453 | Dobytí Konstantinopole; konec Byzance |
+| Rok | Událost | Linie | Kapitola |
+|---|---|---|---|
+| 476 | Zánik Západořímské říše; východní, Byzantská říše pokračuje | byzanc | byzantska-rise |
+| 481 | Chlodvík I. se stává králem Franků | říše | franska-rise |
+| 527–565 | Vláda Justiniána I.: zákoník a chrám Hagia Sofia | byzanc | byzantska-rise |
+| 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
+| 632 | Smrt Mohameda; muslimy vedou chalífové | islám | arabska-rise-a-islam |
+| 732 | Karel Martel poráží Araby u Poitiers | říše | franska-rise |
+| 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
+| 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám | arabska-rise-a-islam |
+| 800 | Karel Veliký korunován císařem | říše | franska-rise |
+| 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise |
+| 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
+| 919 | Jindřich I. Ptáčník východofranským králem | říše | svata-rise-rimska |
+| 955 | Ota I. poráží Maďary na řece Lech | říše | svata-rise-rimska |
+| 962 | Ota I. korunován císařem: vzniká Svatá říše římská | říše | svata-rise-rimska |
+| 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma |
+| 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
+| 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
+| 1356 | Zlatá bula Karla IV. určuje sedm kurfiřtů | čechy | svata-rise-rimska |
+| 1453 | Osmané dobývají Konstantinopol; konec Byzance | byzanc | byzantska-rise |
 
 ## Otázky a odpovědi
 
-#### 1. Kdo byl Mohamed?
+Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podívej.
 
-**Odpověď:** Prorocká postava islámu.
+### Byzantská říše
 
-#### 2. Jaká je posvátná kniha islámu?
+1. Kdy zanikla Západořímská říše a co se stalo s východní částí? — **Roku 476; východní, Byzantská říše pokračovala až do roku 1453.**
+2. Proč je důležitý Justinián? — **Nechal uspořádat římské právo; za jeho vlády vznikla Hagia Sofia.**
+3. Podle čeho poznáš byzantský sloh? — **Kopule, mozaiky a ikony.**
+4. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
+5. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**
 
-**Odpověď:** Korán.
+### Franská říše
 
-#### 3. Co znamená hidžra a kdy se odehrála?
-
-**Odpověď:** Odchod Mohameda z Mekky do Medíny roku 622.
-
-#### 4. Kdo vedl muslimskou obec po Mohamedovi?
-
-**Odpověď:** Chalífové.
-
-#### 5. Co je minaret?
-
-**Odpověď:** Věž u mešity, tradičně ke svolávání k modlitbě.
-
-#### 6. Kdo zvítězil u Poitiers/Tours roku 732?
-
-**Odpověď:** Karel Martel.
-
-#### 7. Který chalífa poslal slona Karlu Velikému?
-
-**Odpověď:** Harún ar-Rašíd.
-
-#### 8. Kdo vypráví příběhy Tisíce a jedné noci?
-
-**Odpověď:** Šeherezáda.
-
-#### 9. Jaké jsou tři skupiny dobového modelu středověké společnosti?
-
-**Odpověď:** Duchovenstvo, šlechta, pracující (zejména rolníci).
-
-#### 10. Proč byly kláštery důležité?
-
-**Odpověď:** Opisování knih, uchování vědomostí, vzdělávání, hospodaření, péče o nemocné.
-
-#### 11. Co znamená velké schizma?
-
-**Odpověď:** Dlouhodobý rozkol západní a východní církve, tradiční mezník 1054.
-
-#### 12. Kdo byl Jindřich I. Ptáčník?
-
-**Odpověď:** Východofranský král z otonské dynastie, vládl 919–936.
-
-#### 13. Kdo vyhrál bitvu na Lechu roku 955?
-
-**Odpověď:** Ota I. Veliký.
-
-#### 14. Co se stalo v roce 962?
-
-**Odpověď:** Ota I. byl korunován císařem.
-
-#### 15. Kdo byli kurfiřti?
-
-**Odpověď:** Říšská knížata, která volila římského krále.
-
-#### 16. Kolik bylo tradičních kurfiřtů?
-
-**Odpověď:** Sedm: tři duchovní a čtyři světští.
-
-#### 17. Jak se jmenuje listina Karla IV. z roku 1356?
-
-**Odpověď:** Zlatá bula Karla IV.
-
-#### 18. Co potvrzuje Zlatá bula sicilská z roku 1212?
-
-**Odpověď:** Dědičný královský titul českých panovníků.
-
-### Franská a Byzantská říše
-
-1. Kdo sjednocoval Franky a přijal křesťanství? — **Chlodvík I.**
-2. Kdo byl majordomus? — **Správce královského dvora, který mohl vykonávat skutečnou moc.**
-3. Co se stalo roku 732? — **Karel Martel zvítězil u Poitiers/Tours.**
+1. Kdo sjednotil Franky a přijal křesťanství? — **Chlodvík I. z rodu Merovejců.**
+2. Kdo byl majordomus? — **Správce královského dvora, který za slabých králů vykonával skutečnou moc.**
+3. Kdo zvítězil u Poitiers roku 732 a jakou dostal přezdívku? — **Karel Martel, „Kladivo“.**
 4. Kdo založil královskou vládu Karlovců roku 751? — **Pipin Krátký.**
 5. Co znamená rok 800? — **Korunovace Karla Velikého císařem.**
-6. Proč je důležitý rok 843? — **Vnuci Karla Velikého si říši rozdělili.**
-7. Kdo získal západ, východ a střed? — **Karel Holý, Ludvík Němec a Lothar I.**
-8. Proč je důležitý Justinián? — **Uspořádal římské právo; za jeho vlády vznikla Hagia Sofia.**
-9. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
-10. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**
+6. Co je karolinská renesance? — **Rozkvět vzdělanosti za Karla Velikého; vzniklo písmo karolinská minuskula.**
+7. Co se stalo roku 843 a kdo dostal jakou část? — **Verdunská smlouva: Karel Holý západ, Lothar I. střed, Ludvík Němec východ.**
 
-## Paměťové pomůcky
+### Arabská říše a islám
 
-### Čtyři obrazy
+1. Kdo byl Mohamed? — **Prorok islámu.**
+2. Jaká je posvátná kniha islámu? — **Korán.**
+3. Co znamená hidžra a kdy se odehrála? — **Odchod Mohameda z Mekky do Medíny roku 622.**
+4. Kdo vedl muslimskou obec po Mohamedovi? — **Chalífové.**
+5. Co je minaret? — **Věž u mešity, z níž se svolává k modlitbě.**
+6. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
+7. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
 
-1. **Karavana v poušti**: Mohamed, Mekka, islám, Korán, rok 622, Medína.
-2. **Slon u Karla Velikého**: Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
-3. **Hrad a klášter**: kněz se modlí, rytíř bojuje, rolník pracuje; mnich opisuje knihu.
-4. **Dvě poloviny kostela**: papež v Římě, patriarcha v Konstantinopoli, rok 1054.
-5. **Řeka, koruna a sedm voličů**: Ota I. poráží Maďary na Lechu roku 955, získává císařskou korunu roku 962; později sedm kurfiřtů volí římského krále.
+### Středověká společnost a církev
 
-### Hlavní čísla
+1. Jaké jsou tři skupiny středověké společnosti? — **Duchovenstvo (modlí se), šlechta (bojuje), poddaní (pracují).**
+2. Proč byly kláštery důležité? — **Opisování knih, uchování vědomostí, vzdělávání, hospodaření, péče o nemocné.**
+3. Které řády byly žebravé? — **Františkáni a dominikáni.**
 
-**622 – 732 – 955 – 962 – 1054 – 1085 – 1212 – 1356**
+### Velké schizma – 1054
 
-Nejde o souvislou číselnou řadu: každé datum spoj s konkrétním obrazem nebo příběhem.
+1. Co znamená velké schizma? — **Rozkol západní (římskokatolické) a východní (pravoslavné) církve, tradičně roku 1054.**
+2. Kdo stál v čele západní a kdo východní církve? — **Na západě papež v Římě, na východě patriarcha v Konstantinopoli.**
+
+### Svatá říše římská
+
+1. Kdo byl Jindřich I. Ptáčník? — **Východofranský král, vládl 919–936.**
+2. Kdo vyhrál bitvu na Lechu roku 955? — **Ota I. Veliký.**
+3. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
+4. Kdo byli kurfiřti a kolik jich bylo? — **Knížata, která volila římského krále; sedm: tři duchovní a čtyři světští.**
+5. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
+6. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+7. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**

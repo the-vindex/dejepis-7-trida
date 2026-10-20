@@ -1,5 +1,7 @@
 # Velké schizma – 1054
 
+> **Ve zkratce:** Roku 1054 se křesťanská církev rozešla na západní, římskokatolickou, a východní, pravoslavnou. Spory mezi Římem a Konstantinopolí ale trvaly už staletí předtím.
+
 ## Co znamená schizma?
 
 **Schizma** znamená rozkol nebo rozdělení. Východní a západní část křesťanského světa se po staletí odlišovaly zvyky, jazykem bohoslužeb a názorem na autoritu papeže.
@@ -13,9 +15,13 @@
 | Historicky převládala latina | Historicky významná byla řečtina |
 | Katolická tradice | Pravoslavná tradice |
 
-### Zapamatuj si
+## Zapamatuj si
 
 **1054 – jeden křesťanský svět se postupně rozděluje na západní a východní církev.**
+
+## Paměťový obraz
+
+- **Dvě poloviny kostela:** papež v Římě, patriarcha v Konstantinopoli, rok 1054.
 
 ## Zápis ze sešitu
 

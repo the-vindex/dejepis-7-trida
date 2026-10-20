@@ -1,30 +1,25 @@
 # Časová osa
 
-| Rok | Událost |
-|---|---|
-| 622 | Hidžra – Mohamedův odchod do Medíny |
-| 632 | Smrt Mohameda |
-| 732 | Bitva u Tours/Poitiers |
-| 786–809 | Vláda Harúna ar-Rašída |
-| 843 | Verdunská smlouva, rozdělení Franské říše |
-| 919 | Nástup Jindřicha I. Ptáčníka |
-| 955 | Ota I. vítězí nad Maďary na Lechu |
-| 962 | Korunovace Oty I. císařem |
-| 1054 | Velké schizma (tradiční mezník) |
-| 1085/1086 | Vratislav II.: královský titul / korunovace |
-| 1212 | Zlatá bula sicilská |
-| 1356 | Zlatá bula Karla IV. a kurfiřti |
+Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země.
 
-
-## Frankové a Byzanc – doplnění
-
-| Datum | Událost |
-|---|---|
-| 476 | Zánik Západořímské říše; Východořímská pokračuje |
-| 6. století | Rozmach Byzance za Justiniána |
-| 732 | Karel Martel vítězí u Poitiers/Tours |
-| 751 | Pipin Krátký králem |
-| 800 | Korunovace Karla Velikého císařem |
-| 843 | Verdunská smlouva a rozdělení Franské říše |
-| 863 | Konstantin a Metoděj přicházejí na Velkou Moravu |
-| 1453 | Dobytí Konstantinopole; konec Byzance |
+| Rok | Událost | Linie | Kapitola |
+|---|---|---|---|
+| 476 | Zánik Západořímské říše; východní, Byzantská říše pokračuje | byzanc | byzantska-rise |
+| 481 | Chlodvík I. se stává králem Franků | říše | franska-rise |
+| 527–565 | Vláda Justiniána I.: zákoník a chrám Hagia Sofia | byzanc | byzantska-rise |
+| 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
+| 632 | Smrt Mohameda; muslimy vedou chalífové | islám | arabska-rise-a-islam |
+| 732 | Karel Martel poráží Araby u Poitiers | říše | franska-rise |
+| 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
+| 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám | arabska-rise-a-islam |
+| 800 | Karel Veliký korunován císařem | říše | franska-rise |
+| 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise |
+| 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
+| 919 | Jindřich I. Ptáčník východofranským králem | říše | svata-rise-rimska |
+| 955 | Ota I. poráží Maďary na řece Lech | říše | svata-rise-rimska |
+| 962 | Ota I. korunován císařem: vzniká Svatá říše římská | říše | svata-rise-rimska |
+| 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma |
+| 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
+| 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
+| 1356 | Zlatá bula Karla IV. určuje sedm kurfiřtů | čechy | svata-rise-rimska |
+| 1453 | Osmané dobývají Konstantinopol; konec Byzance | byzanc | byzantska-rise |

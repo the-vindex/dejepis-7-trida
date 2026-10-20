@@ -1,5 +1,7 @@
 # Arabská říše a islám
 
+> **Ve zkratce:** V 7. století vzniklo v Arábii nové náboženství, islám. Arabové se za sto let rozšířili od Indu po Španělsko a jejich učenci rozvíjeli matematiku, lékařství i astronomii.
+
 ## Arabský poloostrov a Mohamed
 
 ![Prorok Mohamed (islámská miniatura)](../docs/assets/ilustrace/mohamed.jpg)
@@ -23,9 +25,14 @@ Arabský a širší islámský svět rozvíjel **matematiku, lékařství, astro
 
 **Harún ar-Rašíd** byl abbásovský chalífa (vládl **786–809**). Udržoval diplomatické styky s **Karlem Velikým** a poslal mu slona jménem **Abú al-Abbás**. Vystupuje také v příbězích spojených se sbírkou **Tisíc a jedna noc**, kterou rámcově vypráví **Šeherezáda**.
 
-### Zapamatuj si
+## Zapamatuj si
 
 **Mohamed → islám → Korán → 622 (hidžra) → chalífové → arabská expanze.**
+
+## Paměťový obraz
+
+- **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
+- **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
 
 ### Ověření proti zápiskům
 

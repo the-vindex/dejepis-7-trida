@@ -1,5 +1,7 @@
 # Franská říše
 
+> **Ve zkratce:** Frankové vybudovali na troskách Západořímské říše největší křesťanský stát západní Evropy. Vrcholu dosáhli za Karla Velikého; jeho vnuci si říši roku 843 rozdělili a z dílů později vyrostla Francie a Německo.
+
 ## Jak vznikla
 
 ![Křest Chlodvíka I.](../docs/assets/ilustrace/krest-chlodvika.jpg)
@@ -33,7 +35,20 @@ Hranice a státy nebyly totožné s těmi dnešními. Středofranská část se 
 
 **Chlodvík sjednocuje a přijímá křest → Martel 732 vítězí u Poitiers → Pipin 751 zakládá královskou vládu Karlovců → Karel Veliký je 800 korunován císařem → vnuci dělí říši 843.**
 
+## Paměťový obraz
+
+Projdi v duchu levou věž hradu odshora dolů a u každé zastávky řekni, co se stalo.
+
 ![Paměťový hrad: Frankové a Byzanc](../docs/assets/pametovy-hrad.jpg)
+
+| Zastávka | Obraz | Co si vybavit |
+|---|---|---|
+| 2 | Křtitelnice | **Chlodvík:** sjednocení Franků a přijetí křesťanství. |
+| 3 | Kladivo | **732:** Karel Martel vítězí u Poitiers. |
+| 4 | Trůn | **751:** Pipin Krátký se stává králem; Karlovci. |
+| 5 | Koruna a knihy | **800:** Karel Veliký císařem; školy a karolinská renesance. |
+| 6 | Mapa rozdělená na tři díly | **843:** Karel Holý západ, Lothar střed, Ludvík Němec východ. |
+
 
 ### Opravy z poznámek
 
