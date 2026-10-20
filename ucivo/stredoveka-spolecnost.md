@@ -1,7 +1,5 @@
 # Středověká společnost a církev
 
-![Zápisky – středověká společnost](../docs/assets/sesit-02.jpg)
-
 ## Tři skupiny společnosti
 
 Středověcí autoři často používali zjednodušený model **tří skupin**:
@@ -33,3 +31,12 @@ Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření
 ### Zapamatuj si
 
 **Kněz se modlí, rytíř bojuje, rolník pracuje.** V klášteře mnich nejen žije nábožensky, ale také **opisuje rukopisy**.
+
+## Zápis ze sešitu
+
+<details markdown="1">
+<summary>Fotky stránek sešitu</summary>
+
+![Zápisky – středověká společnost](../docs/assets/sesit-02.jpg)
+
+</details>

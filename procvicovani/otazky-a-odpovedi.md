@@ -71,3 +71,17 @@
 ### 18. Co potvrzuje Zlatá bula sicilská z roku 1212?
 
 **Odpověď:** Dědičný královský titul českých panovníků.
+
+
+## Franská a Byzantská říše
+
+1. Kdo sjednocoval Franky a přijal křesťanství? — **Chlodvík I.**
+2. Kdo byl majordomus? — **Správce královského dvora, který mohl vykonávat skutečnou moc.**
+3. Co se stalo roku 732? — **Karel Martel zvítězil u Poitiers/Tours.**
+4. Kdo založil královskou vládu Karlovců roku 751? — **Pipin Krátký.**
+5. Co znamená rok 800? — **Korunovace Karla Velikého císařem.**
+6. Proč je důležitý rok 843? — **Vnuci Karla Velikého si říši rozdělili.**
+7. Kdo získal západ, východ a střed? — **Karel Holý, Ludvík Němec a Lothar I.**
+8. Proč je důležitý Justinián? — **Uspořádal římské právo; za jeho vlády vznikla Hagia Sofia.**
+9. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
+10. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**

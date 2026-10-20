@@ -1,27 +1,17 @@
-# Dějepis – 7. třída
+# Dějepis – 7. třída (kompletní balíček)
 
-Studijní materiály z šesti fotografií sešitu (čtyři původní stránky + dvě nové stránky o Svaté říši římské).
+Materiály k Franské a Byzantské říši, islámu, arabské říši, středověké společnosti, velkému schizmatu a Svaté říši římské.
 
-## Studijní kapitoly
+## Obsah
+- `zdroje/fotografie/`: všech **11 fotografií sešitu**; u stránek 1–4 jsou oříznuté okraje (nohy, nábytek), text je celý.
+- `zdroje/upravene/`: upravené kopie stránek 5–11 pro lepší čitelnost.
+- `zdroje/prepisy/`: **11 Markdown rekonstrukcí zápisků**, vždy s odkazem na konkrétní fotografii. Nejde o garantovaný doslovný OCR přepis – nejasné pasáže nejsou domýšleny.
+- `ucivo/`: **6 ucelených kapitol** s historickými doplněními a opravami.
+- `procvicovani/`: otázky s odpověďmi a paměťové pomůcky.
+- `docs/`: web pro GitHub Pages, **generovaný** z Markdownu: `uv run --with markdown python tools/build.py`. Needitujte `docs/*.html` ručně.
+- `docs/assets/ilustrace/`: tištěné obrázky vyříznuté z fotek sešitu, zařazené k příslušnému textu kapitol.
+- `docs/dejepis-7-trida.md`: celé učivo v jednom souboru pro AI asistenty (odkaz je na konci webu, sekce *Pro AI*).
 
-- [Arabská říše a islám](ucivo/arabska-rise-a-islam.md)
-- [Středověká společnost a církev](ucivo/stredoveka-spolecnost.md)
-- [Velké schizma roku 1054](ucivo/velke-schizma.md)
-- [Svatá říše římská](ucivo/svata-rise-rimska.md)
+Nové stránky 07–11 jsou v pořadí: Byzantská říše; Franská říše; Franská říše – pokračování; tištěné zajímavosti o Karlu Velikém; byzantský sloh. Nový ilustrovaný `docs/assets/pametovy-hrad.jpg` je též dostupný v `procvicovani/pametovy-hrad.md`. Opravené kopie mění jen čitelnost, původní fotografie jsou zachovány.
 
-## Procvičování
-
-- [Otázky a odpovědi](procvicovani/otazky-a-odpovedi.md)
-- [Paměťové příběhy](procvicovani/pametove-pomucky.md)
-
-## Fotografie
-
-Originály: `zdroje/fotografie/`. Zmenšené webové kopie: `docs/assets/`. Jde o původní fotografie uživatele; ilustrace z dřívějších dynamických náhledů nejsou součástí balíčku.
-
-## Web (GitHub Pages)
-
-V `docs/` je hotový statický HTML web. V GitHub repozitáři nastavte **Settings → Pages → Deploy from a branch → main /docs**. Pro GitHub Pages musí být repozitář a plán způsobilý pro zvolenou viditelnost; pro veřejný web použijte veřejný repozitář. Web nevyžaduje generátor ani build.
-
-## Metodika
-
-Učivo je **přepracovaný a historicky kontrolovaný přehled**, nikoli doslovný diplomatický přepis rukopisu. Nečitelná místa nejsou domýšlena. Doplňující vysvětlení a korekce jsou výslovně uvedeny.
+Poznámka: Ilustrace vyhledané v dřívějším chatu online nebyly dostupné jako samostatné lokální soubory; ZIP obsahuje veškeré dostupné originální a zpracované snímky skutečného sešitu.

@@ -1,0 +1,5 @@
+# Dějepis 7. třída
+
+> Studijní podklady pro 7. třídu ZŠ.
+
+- [Celé učivo v Markdownu](https://the-vindex.github.io/dejepis-7-trida/dejepis-7-trida.md)

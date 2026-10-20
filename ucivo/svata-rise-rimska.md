@@ -1,10 +1,9 @@
 # Svatá říše římská
 
-![První nová stránka zápisků](../docs/assets/sesit-05.jpg)
-
-![Druhá nová stránka zápisků](../docs/assets/sesit-06.jpg)
-
 ## Vznik říše
+
+![Jindřich I. Ptáčník (919–936)](../docs/assets/ilustrace/jindrich-ptacnik.jpg)
+![Ota I. Veliký (936–973)](../docs/assets/ilustrace/ota-veliky.jpg)
 
 Po rozdělení Franské říše roku **843** se její východní část vyvíjela jako **Východofranská říše**. V 10. století se zde prosadili panovníci z **Otonské (Liudolfovské) dynastie**.
 
@@ -18,6 +17,8 @@ Po rozdělení Franské říše roku **843** se její východní část vyvíjel
 České knížectví bylo s římskoněmeckými panovníky provázáno politicky i mocensky, zároveň mělo vlastní vládnoucí dynastii a velkou míru vnitřní autonomie. **Vratislav II.** získal roku **1085** královský titul (korunován **1086**), ale jen pro svou osobu. **Roku 1212** potvrdila **Zlatá bula sicilská** dědičný český královský titul.
 
 ## Kdo byli kurfiřti?
+
+![Říšská koruna císařů Svaté říše římské](../docs/assets/ilustrace/cisarska-koruna.jpg)
 
 **Kurfiřti** byli říšští knížata oprávněná volit **římského krále**. Tradičních **sedm kurfiřtů** tvořili tři duchovní a čtyři světští:
 
@@ -50,3 +51,14 @@ Po Otonech vládli **sálští panovníci**, mezi nimi **Jindřich IV.**, který
 ### Pozor na častou chybu
 
 **Sedm kurfiřtů v pevně kodifikované podobě patří až do 14. století**. Nejde o součást založení říše roku 962. A kurfiřti primárně volili **římského krále**, nikoliv vždy přímo císaře.
+
+## Zápis ze sešitu
+
+<details markdown="1">
+<summary>Fotky stránek sešitu</summary>
+
+![První nová stránka zápisků](../docs/assets/sesit-05.jpg)
+
+![Druhá nová stránka zápisků](../docs/assets/sesit-06.jpg)
+
+</details>
