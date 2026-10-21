@@ -137,7 +137,7 @@ Rok 622 **není** datum okamžitého vzniku islámu; je to rok hidžry. Nábože
 
 ### Vznik říše
 
-<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Treaty_of_Verdun_cs.svg) – Christoph S., Wolpertinger, AdolfPorn, licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).</p>
+<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Treaty_of_Verdun_cs.svg) – Christoph S., Wolpertinger, AdolfPorn, licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); doplněno vyznačení Svaté říše římské.</p>
 
 Všechny barevné části mapy dohromady tvořily **Franskou říši** Karla Velikého. Roku **843** si ji jeho tři vnuci rozdělili:
 
@@ -146,6 +146,8 @@ Všechny barevné části mapy dohromady tvořily **Franskou říši** Karla Vel
 - **oranžová – východ:** Ludvík Němec → **Východofranská říše**, z ní později vznikla **Svatá říše římská** (dnešní Německo).
 
 Žlutá území (i **Češi**) nepatřila přímo do říše, ale byla na Francích závislá.
+
+**Červeně** je vyznačena **Svatá říše římská** kolem roku **962**: celý východní díl (Ludvík Němec), k tomu sever Lotharova dílu (**Lotrinsko**) a **severní Itálie**. Patřilo k ní i **České knížectví** (čárkovaně).
 
 Po rozdělení Franské říše roku **843** se její východní část vyvíjela jako **Východofranská říše**. V 10. století se zde prosadili panovníci z **Otonské (Liudolfovské) dynastie**.
 

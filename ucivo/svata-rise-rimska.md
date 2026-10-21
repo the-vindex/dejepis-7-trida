@@ -4,9 +4,9 @@
 
 ## Vznik říše
 
-![Rozdělení Franské říše verdunskou smlouvou roku 843](../docs/assets/mapy/verdunska-smlouva-843.svg)
+![Rozdělení Franské říše roku 843 a Svatá říše římská kolem roku 962 (červeně)](../docs/assets/mapy/svata-rise-rimska-962.svg)
 
-<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Treaty_of_Verdun_cs.svg) – Christoph S., Wolpertinger, AdolfPorn, licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).</p>
+<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Treaty_of_Verdun_cs.svg) – Christoph S., Wolpertinger, AdolfPorn, licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); doplněno vyznačení Svaté říše římské.</p>
 
 Všechny barevné části mapy dohromady tvořily **Franskou říši** Karla Velikého. Roku **843** si ji jeho tři vnuci rozdělili:
 
@@ -15,6 +15,8 @@ Všechny barevné části mapy dohromady tvořily **Franskou říši** Karla Vel
 - **oranžová – východ:** Ludvík Němec → **Východofranská říše**, z ní později vznikla **Svatá říše římská** (dnešní Německo).
 
 Žlutá území (i **Češi**) nepatřila přímo do říše, ale byla na Francích závislá.
+
+**Červeně** je vyznačena **Svatá říše římská** kolem roku **962**: celý východní díl (Ludvík Němec), k tomu sever Lotharova dílu (**Lotrinsko**) a **severní Itálie**. Patřilo k ní i **České knížectví** (čárkovaně).
 
 ![Jindřich I. Ptáčník (919–936)](../docs/assets/ilustrace/jindrich-ptacnik.jpg)
 ![Ota I. Veliký (936–973)](../docs/assets/ilustrace/ota-veliky.jpg)
