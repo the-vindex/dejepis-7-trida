@@ -11,6 +11,7 @@ Materiály k Franské a Byzantské říši, islámu, arabské říši, středov�
 - `procvicovani/otazky-a-odpovedi.md`: otázky rozdělené podle témat (`## <název tématu>`).
 - `docs/`: web pro GitHub Pages, **generovaný** z Markdownu: `uv run --with markdown python tools/build.py`. Needitujte `docs/*.html` ručně.
 - `docs/assets/ilustrace/`: tištěné obrázky vyříznuté z fotek sešitu, zařazené k příslušnému textu kapitol.
+- `docs/assets/mapy/`: mapy z Wikimedia Commons (CC BY-SA); autor a licence jsou uvedeny přímo pod mapou v textu kapitoly.
 - `docs/dejepis-7-trida.md`: celé učivo v jednom souboru pro AI asistenty (odkaz je na konci webu, sekce *Pro AI*).
 
 Nové stránky 07–11 jsou v pořadí: Byzantská říše; Franská říše; Franská říše – pokračování; tištěné zajímavosti o Karlu Velikém; byzantský sloh. Ilustrovaný paměťový hrad (`docs/assets/pametovy-hrad.jpg`) je rozdělený do témat Franská a Byzantská říše. Opravené kopie mění jen čitelnost, původní fotografie jsou zachovány.

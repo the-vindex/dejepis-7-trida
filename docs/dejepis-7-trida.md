@@ -137,6 +137,16 @@ Rok 622 **není** datum okamžitého vzniku islámu; je to rok hidžry. Nábože
 
 ### Vznik říše
 
+<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Treaty_of_Verdun_cs.svg) – Christoph S., Wolpertinger, AdolfPorn, licence [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).</p>
+
+Všechny barevné části mapy dohromady tvořily **Franskou říši** Karla Velikého. Roku **843** si ji jeho tři vnuci rozdělili:
+
+- **modrá – západ:** Karel Holý → z toho později **Francie**,
+- **zelená – střed:** Lothar I. → pás od Severního moře do Itálie,
+- **oranžová – východ:** Ludvík Němec → **Východofranská říše**, z ní později vznikla **Svatá říše římská** (dnešní Německo).
+
+Žlutá území (i **Češi**) nepatřila přímo do říše, ale byla na Francích závislá.
+
 Po rozdělení Franské říše roku **843** se její východní část vyvíjela jako **Východofranská říše**. V 10. století se zde prosadili panovníci z **Otonské (Liudolfovské) dynastie**.
 
 - **Jindřich I. Ptáčník (919–936)** upevnil královskou moc a bojoval s Maďary i slovanskými sousedy.

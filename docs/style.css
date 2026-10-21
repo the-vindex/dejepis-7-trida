@@ -97,6 +97,9 @@ figure img { max-height: 380px; width: auto; margin: 0 auto; border-radius: 6px;
 figcaption { font: italic 500 1rem var(--serif); color: var(--muted); margin-top: .5rem; }
 
 /* "Zapamatuj si" is written on ruled notebook paper with the red margin line */
+figure img[src*="mapy/"] { max-height: 560px; }
+.credit { font-size: .85rem; text-align: center; margin-top: -.6rem; }
+
 .remember { margin: 2.2rem 0; padding: 0 1.2rem 0 2.2rem; line-height: 32px; font-size: 1.15rem;
   background: repeating-linear-gradient(#fff 0 31px, #C9D3EE 31px 32px); border-left: 2px solid #E3A1A1; box-shadow: inset 1.6rem 0 0 #fff; border-radius: 2px; }
 .remember h2 { margin: 0; padding-top: 0; font-size: 1.15rem; line-height: 32px; color: var(--muted); }
