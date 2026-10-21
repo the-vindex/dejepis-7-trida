@@ -102,30 +102,60 @@ Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle ozna
 
 ### Arabský poloostrov a Mohamed
 
-Arabové žili na Arabském poloostrově, kde byly obchodní osady, města i kočovné kmeny. Významným střediskem byla **Mekka**. V **7. století** zde vznikl **islám**, monoteistické náboženství, jehož ústřední prorockou osobností je **Mohamed (Muhammad)**. Muslimové věří v jediného Boha (arabsky **Alláh**) a jejich posvátnou knihou je **Korán**.
+**Arabský poloostrov** je z velké části poušť. Část Arabů žila jako **kočovníci** (beduíni): putovali s velbloudy a stády od jedné studny ke druhé. Další žili v **obchodních městech**, kudy procházely **karavany** s kořením, látkami a kadidlem. Nejdůležitějším městem byla **Mekka**. Stála v ní svatyně **Kaaba**, kam se lidé chodili klanět mnoha bohům, a z poutníků měli místní obchodníci velké zisky.
 
-Roku **622** Mohamed odešel z Mekky do **Medíny**. Této události se říká **hidžra** a od jejího roku se odvozuje muslimský letopočet. Mohamed zemřel roku **632**. Po něm vedli muslimskou obec **chalífové**.
+V **7. století** začal v Mekce kázat obchodník **Mohamed (Muhammad)**. Podle muslimů mu Bůh skrze anděla **Gabriela** sděloval svá slova. Mohamed učil, že existuje **jen jeden Bůh** (arabsky **Alláh**). Taková víra v jednoho Boha se nazývá **monoteismus**, stejně jako u židů a křesťanů. Nové náboženství se jmenuje **islám** (znamená „odevzdání se Bohu“) a jeho vyznavači jsou **muslimové**. Slova, která Mohamed hlásal, byla sepsána do posvátné knihy **Koránu**.
+
+Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, roku **630** se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Zemřel roku **632**. Po něm vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
+
+### Pět pilířů islámu
+
+Každý muslim má plnit pět hlavních povinností:
+
+1. **vyznání víry**: „Není boha kromě Boha a Mohamed je jeho prorok“,
+2. **modlitba pětkrát denně**, obrácen směrem k Mekce,
+3. **almužna**: pomoc chudým,
+4. **půst v měsíci ramadánu**: od východu do západu slunce se nejí ani nepije,
+5. **pouť do Mekky** aspoň jednou za život, pokud na to má zdraví a peníze.
 
 ### Arabská expanze
 
-V 7. a 8. století Arabové a další muslimská vojska ovládli rozsáhlá území Blízkého východu, severní Afriky i části Pyrenejského poloostrova. **Roku 732** franský vojevůdce **Karel Martel** porazil muslimské vojsko v bitvě u **Tours/Poitiers**. Neznamenalo to konec všech muslimských výbojů, ale šlo o významnou franskou výhru.
+<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_expansion_of_Caliphate.svg) – DieBuche, volné dílo; doplněny české popisky.</p>
+
+Za necelých sto let po Mohamedově smrti ovládli Arabové obrovské území **od řeky Indus po Španělsko**. Rozšířili se tak rychle ze dvou důvodů: islám spojil dříve znesvářené arabské kmeny, a sousední **Byzantská** a **Perská říše** byly vyčerpané dlouhými válkami mezi sebou.
+
+- Hlavním městem se nejdřív stal **Damašek** (dnešní Sýrie).
+- Roku **711** se Arabové přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli přes 700 let, až do roku **1492**.
+- **Roku 732** porazil franský vojevůdce **Karel Martel** muslimské vojsko v bitvě u **Tours/Poitiers** a zastavil jejich postup do Francie. Přezdívalo se mu **„Kladivo“**.
+- Později se hlavním městem stal nově založený **Bagdád** (dnešní Irák).
 
 ### Kultura a vzdělanost
 
-Arabský a širší islámský svět rozvíjel **matematiku, lékařství, astronomii, zeměpis a obchod**. Významné bylo předávání a rozvíjení starověkých znalostí. Muslimové se modlí v **mešitě**; **minaret** je věž, z níž se tradičně svolává k modlitbě.
+Muslimové se modlí v **mešitě**. **Minaret** je vysoká věž u mešity, z níž **muezzin** svolává věřící k modlitbě. V mešitách nejsou obrazy lidí ani zvířat, protože islám zakazuje uctívat obrazy. Místo nich se zdobí **ornamenty** z rostlin a geometrických tvarů (**arabesky**) a krásně psaným písmem (**kaligrafií**).
+
+Arabští učenci rozvíjeli **matematiku, lékařství, astronomii a zeměpis**. Řadu věcí z jejich světa používáme dodnes:
+
+- **arabské číslice** 0–9: Arabové je převzali z **Indie** a přinesli do Evropy, i s **nulou**. Předtím se v Evropě počítalo **římskými číslicemi**, se kterými se špatně násobí a dělí.
+- **algebra**: je to arabské slovo; z arabštiny pochází i **alkohol, káva, cukr** nebo **magazín** (původně „sklad“).
+- **zachování antického vědění**: v Bagdádu učenci **překládali řecké knihy** (například Aristotela) do arabštiny. Evropa mnoho z nich znovu poznala až z těchto překladů.
+- **lékařství**: lékař **Avicenna (Ibn Sína)** napsal knihu o medicíně, podle které se učili lékaři i v Evropě ještě stovky let.
 
 ### Harún ar-Rašíd
 
-**Harún ar-Rašíd** byl abbásovský chalífa (vládl **786–809**). Udržoval diplomatické styky s **Karlem Velikým** a poslal mu slona jménem **Abú al-Abbás**. Vystupuje také v příbězích spojených se sbírkou **Tisíc a jedna noc**, kterou rámcově vypráví **Šeherezáda**.
+**Harún ar-Rašíd** byl chalífa, který vládl z **Bagdádu** v letech **786–809**. V té době byl Bagdád jedním z největších a nejbohatších měst světa. Harún udržoval přátelské styky s **Karlem Velikým** a poslal mu darem **slona** jménem **Abú al-Abbás**. Takové zvíře v západní Evropě nikdo neviděl.
+
+Harún vystupuje i v pohádkách ze sbírky **Tisíc a jedna noc**. Vypráví je **Šeherezáda**: krutý král se chystal ji popravit, a tak mu každou noc vyprávěla příběh, který přerušila v nejnapínavějším místě. Král chtěl slyšet pokračování, a proto ji nechal žít, až se nakonec rozhodl ji ušetřit. K této sbírce patří i příběhy o **Sindibádovi námořníkovi**, **Aladinovi** a **Ali Babovi**.
 
 ### Zapamatuj si
 
-**Mohamed → islám → Korán → 622 (hidžra) → chalífové → arabská expanze.**
+**Mohamed hlásal víru v jednoho Boha → islám, posvátná kniha Korán → 622 hidžra (útěk z Mekky do Medíny) → chalífové → říše od Indu po Španělsko → 732 Poitiers. Arabové předali Evropě číslice s nulou a antické vědění.**
 
 ### Paměťový obraz
 
 - **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
 - **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
+- **Tárikova hora:** Gibraltar, 711, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
+- **Kalkulačka s nulou:** arabské číslice z Indie, algebra, překlady řeckých knih v Bagdádu.
 
 #### Ověření proti zápiskům
 
@@ -277,8 +307,10 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 527–565 | Vláda Justiniána I.: zákoník a chrám Hagia Sofia | byzanc | byzantska-rise |
 | 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
 | 632 | Smrt Mohameda; muslimy vedou chalífové | islám | arabska-rise-a-islam |
+| 711 | Arabové pod vedením Tárika vstupují do Španělska (Gibraltar) | islám | arabska-rise-a-islam |
 | 732 | Karel Martel poráží Araby u Poitiers | říše, islám | franska-rise, arabska-rise-a-islam |
 | 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
+| 762 | Založení Bagdádu, nového hlavního města chalífů | islám | arabska-rise-a-islam |
 | 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám, říše | arabska-rise-a-islam, franska-rise |
 | 800 | Karel Veliký korunován císařem | říše | franska-rise |
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
@@ -326,6 +358,24 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 6. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
 7. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
 8. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
+9. Co znamená monoteismus? — **Víra v jednoho Boha.**
+10. Proč Mohameda v Mekce pronásledovali? — **Bohatí obchodníci se báli, že přestanou chodit poutníci ke Kaabě a oni přijdou o zisky.**
+11. Co znamená slovo chalífa? — **Nástupce (Mohamedův); náboženský vůdce i vládce.**
+12. Vyjmenuj pět pilířů islámu. — **Vyznání víry, modlitba pětkrát denně, almužna, půst v ramadánu, pouť do Mekky.**
+13. Proč se Arabové rozšířili tak rychle? — **Islám spojil kmeny a Byzanc s Persií byly vyčerpané vzájemnými válkami.**
+14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy roku 711 vedl Araby do Španělska.**
+15. Jak dlouho vládli muslimové ve Španělsku? — **Přes 700 let, do roku 1492.**
+16. Jakou přezdívku měl Karel Martel? — **Kladivo.**
+17. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
+18. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
+19. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
+20. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
+21. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
+22. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
+23. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
+24. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
+25. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
+26. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
 
 ### Středověká společnost a církev
 
