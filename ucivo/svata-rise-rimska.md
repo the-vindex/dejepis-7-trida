@@ -35,7 +35,21 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**. Je třeba roz
 
 ## Dynastie a spor o investituru
 
-Po Otonech vládli **sálští panovníci**, mezi nimi **Jindřich IV.**, který vedl s papežstvím **boj o investituru** – spor o právo dosazovat biskupy a další církevní hodnostáře. Později vládli také **Štaufové** (např. **Fridrich I. Barbarossa**).
+Po Otonech vládla v říši nová panovnická rodina, **Sálovci**. Jeden z nich, císař **Jindřich IV.**, se přel s papežem o to, **kdo bude vybírat biskupy**. Tomu se říká **spor o investituru**. Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky – kdo je vybíral, měl velkou moc.
+
+**Zapamatuj si:** Císař a papež se hádali, kdo bude vybírat biskupy, protože biskupové měli velkou moc a majetek.
+
+Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich byl **Fridrich I. Barbarossa**.
+
+### Pro zajímavost
+
+- **Kdo s kým:** císař Jindřich IV. proti papeži Řehořovi VII.
+- **Proč to císař chtěl:** potřeboval, aby biskupové byli jeho lidé a poslouchali ho.
+- **Proč to papež nechtěl:** chtěl, aby si biskupy vybírala sama církev, a ne císař.
+- **Klatba:** papež vyloučil císaře z církve. Šlechtici pak přestali císaře poslouchat.
+- **Canossa (1077):** císař musel ustoupit. Šel za papežem na hrad Canossa a tři dny stál bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
+- **Jak to dopadlo (1122):** ve **Wormském konkordátu** se dohodli napůl – biskupa vybírá církev, ale půdu mu dává císař.
+- **Barbarossa** znamená „Rudovous“ – měl zrzavé vousy.
 
 ## Paměťový obraz
 

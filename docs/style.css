@@ -103,6 +103,12 @@ figcaption { font: italic 500 1rem var(--serif); color: var(--muted); margin-top
 .remember p { margin: 0; padding-bottom: 8px; }
 .fix { margin: 1.8rem 0; padding: .9rem 1.2rem .2rem; background: #FFF4E0; border-left: 4px solid #C98A1A; border-radius: 3px 10px 10px 3px; font-size: 1.05rem; }
 .fix h2 { margin: 0 0 .4rem; font-size: 1.1rem; color: #7A5200; }
+.fact { margin: 1.4rem 0; padding: .8rem 1.1rem .3rem; background: var(--card); border: 1px solid var(--rule); border-top: 4px solid var(--accent); border-radius: 10px; font-size: 1rem; line-height: 1.5; }
+.fact h2 { margin: 0 0 .4rem; font-size: 1.1rem; color: var(--muted); }
+.fact ul { margin: 0 0 .5rem; padding-left: 1.1rem; }
+.fact li { margin-bottom: .4rem; }
+/* wide screens: a real side panel in the gutter right of the 44rem chapter column */
+@media (min-width: 1040px) { .has-fact { position: relative; } .fact { position: absolute; top: .3rem; right: -14rem; width: 13rem; margin: 0; } }
 .mnemo { margin: 2.2rem 0; padding: .2rem 1.3rem .6rem; background: var(--card); border-radius: 12px; border: 1px solid var(--rule); }
 .mnemo h2 { margin-top: 1rem; }
 .mnemo ul { padding-left: 1.2rem; }

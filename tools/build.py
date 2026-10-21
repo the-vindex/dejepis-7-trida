@@ -87,6 +87,9 @@ def md_to_html(text):
                  r'<aside class="remember"><h2>Zapamatuj si</h2>\1</aside>', out, flags=re.S)
     out = re.sub(r"<h[23]>(?:%s)</h[23]>\s*((?:<p>.*?</p>\s*)+)" % "|".join(FIX_HEADINGS),
                  r'<aside class="fix"><h2>Pozor na omyly</h2>\1</aside>', out, flags=re.S)
+    # "Pro zajímavost" stays after its section's text (phones read it there); wide screens pin it beside the text
+    out = re.sub(r"(<h2>[^<]*</h2>)((?:(?!<h2>).)*?)<h3>Pro zajímavost</h3>\s*(<ul>.*?</ul>)",
+                 r'\1<div class="has-fact">\2<aside class="fact"><h2>Pro zajímavost</h2>\3</aside></div>', out, flags=re.S)
     out = re.sub(r"<h2>Paměťový obraz</h2>(.*?)(?=<h2>|<aside|$)",
                  r'<section class="mnemo"><h2>Paměťový obraz</h2>\1</section>', out, flags=re.S)
     return out.replace("<details>", '<details class="sesit">')
