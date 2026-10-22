@@ -51,13 +51,13 @@ Byzanc je pravá věž hradu: začni u rozlomeného sloupu nahoře vlevo a pak j
 
 ### Jak vznikla
 
-Po zániku Západořímské říše vznikala v západní Evropě germánská království. **Chlodvík I.** (vládl 481–511) z rodu **Merovejců** sjednotil velkou část Franků a přijal křesťanství. Získal tím podporu církve i části původního římského obyvatelstva.
+Po zániku Západořímské říše vznikala v západní Evropě germánská království. **Chlodvík I.** z rodu **Merovejců** sjednotil velkou část Franků a přijal křesťanství. Získal tím podporu církve i části původního římského obyvatelstva.
 
 Pozdější merovejští králové ztráceli moc. Důležití byli **majordomové**, původně správci královského dvora. **Karel Martel** jako majordomus porazil roku **732** vojsko Umajjovského chalífátu u **Poitiers/Tours**. Jeho syn **Pipin Krátký** se roku **751** stal králem: začala vláda **Karlovců**. Přezdívka *Martel* souvisí s kladivem.
 
 ### Karel Veliký
 
-Pipinův syn **Karel Veliký** vládl v letech 768–814 a rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
+Pipinův syn **Karel Veliký** výrazně rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
 
 Karelův syn **Ludvík Pobožný** vládl po jeho smrti. Jeho synové bojovali o moc a **verdunskou smlouvou roku 843** si říši rozdělili:
 
@@ -94,7 +94,7 @@ Projdi v duchu levou věž hradu odshora dolů a u každé zastávky řekni, co 
 
 #### Opravy z poznámek
 
-Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté (často kolem 631/632). Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
+Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté. Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
 
 ## Arabská říše a islám
 
@@ -106,7 +106,7 @@ Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle ozna
 
 V **7. století** začal v Mekce kázat obchodník **Mohamed (Muhammad)**. Podle muslimů mu Bůh skrze anděla **Gabriela** sděloval svá slova. Mohamed učil, že existuje **jen jeden Bůh** (arabsky **Alláh**). Taková víra v jednoho Boha se nazývá **monoteismus**, stejně jako u židů a křesťanů. Nové náboženství se jmenuje **islám** (znamená „odevzdání se Bohu“) a jeho vyznavači jsou **muslimové**. Slova, která Mohamed hlásal, byla sepsána do posvátné knihy **Koránu**.
 
-Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, později se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Zemřel roku **632**. Po něm vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
+Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, později se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Po jeho smrti vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
 
 ### Pět pilířů islámu
 
@@ -303,10 +303,7 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | Rok | Událost | Linie | Kapitola |
 |---|---|---|---|
 | 476 | Zánik Západořímské říše; východní, Byzantská říše pokračuje | byzanc | byzantska-rise |
-| 481 | Chlodvík I. se stává králem Franků | říše | franska-rise |
-| 527–565 | Vláda Justiniána I.: zákoník a chrám Hagia Sofia | byzanc | byzantska-rise |
 | 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
-| 632 | Smrt Mohameda; muslimy vedou chalífové | islám | arabska-rise-a-islam |
 | 732 | Karel Martel poráží Araby u Poitiers | říše, islám | franska-rise, arabska-rise-a-islam |
 | 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
 | 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám, říše | arabska-rise-a-islam, franska-rise |

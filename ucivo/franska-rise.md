@@ -6,13 +6,13 @@
 
 ![Křest Chlodvíka I.](../docs/assets/ilustrace/krest-chlodvika.jpg)
 
-Po zániku Západořímské říše vznikala v západní Evropě germánská království. **Chlodvík I.** (vládl 481–511) z rodu **Merovejců** sjednotil velkou část Franků a přijal křesťanství. Získal tím podporu církve i části původního římského obyvatelstva.
+Po zániku Západořímské říše vznikala v západní Evropě germánská království. **Chlodvík I.** z rodu **Merovejců** sjednotil velkou část Franků a přijal křesťanství. Získal tím podporu církve i části původního římského obyvatelstva.
 
 Pozdější merovejští králové ztráceli moc. Důležití byli **majordomové**, původně správci královského dvora. **Karel Martel** jako majordomus porazil roku **732** vojsko Umajjovského chalífátu u **Poitiers/Tours**. Jeho syn **Pipin Krátký** se roku **751** stal králem: začala vláda **Karlovců**. Přezdívka *Martel* souvisí s kladivem.
 
 ## Karel Veliký
 
-Pipinův syn **Karel Veliký** vládl v letech 768–814 a rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
+Pipinův syn **Karel Veliký** výrazně rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
 
 Karelův syn **Ludvík Pobožný** vládl po jeho smrti. Jeho synové bojovali o moc a **verdunskou smlouvou roku 843** si říši rozdělili:
 
@@ -52,7 +52,7 @@ Projdi v duchu levou věž hradu odshora dolů a u každé zastávky řekni, co 
 
 ### Opravy z poznámek
 
-Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté (často kolem 631/632). Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
+Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté. Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
 
 ## Zápis ze sešitu
 

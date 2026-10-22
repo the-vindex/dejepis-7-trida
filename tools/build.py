@@ -29,7 +29,7 @@ LANES = {"říše": ("rise", "Frankové a Svatá říše"), "byzanc": ("byz", "B
 # chapters in chronological order: stem -> (span shown above the title, lane css class)
 CHAPTERS = {
     "byzantska-rise": ("476–1453", "byz"),
-    "franska-rise": ("481–843", "rise"),
+    "franska-rise": ("5. století – 843", "rise"),
     "arabska-rise-a-islam": ("7.–9. století", "isl"),
     "svata-rise-rimska": ("919–1356", "rise"),
     "velke-schizma": ("1054", "byz"),
