@@ -106,7 +106,7 @@ Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle ozna
 
 V **7. století** začal v Mekce kázat obchodník **Mohamed (Muhammad)**. Podle muslimů mu Bůh skrze anděla **Gabriela** sděloval svá slova. Mohamed učil, že existuje **jen jeden Bůh** (arabsky **Alláh**). Taková víra v jednoho Boha se nazývá **monoteismus**, stejně jako u židů a křesťanů. Nové náboženství se jmenuje **islám** (znamená „odevzdání se Bohu“) a jeho vyznavači jsou **muslimové**. Slova, která Mohamed hlásal, byla sepsána do posvátné knihy **Koránu**.
 
-Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, roku **630** se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Zemřel roku **632**. Po něm vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
+Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, později se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Zemřel roku **632**. Po něm vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
 
 ### Pět pilířů islámu
 
@@ -125,7 +125,7 @@ Každý muslim má plnit pět hlavních povinností:
 Za necelých sto let po Mohamedově smrti ovládli Arabové obrovské území **od řeky Indus po Španělsko**. Rozšířili se tak rychle ze dvou důvodů: islám spojil dříve znesvářené arabské kmeny, a sousední **Byzantská** a **Perská říše** byly vyčerpané dlouhými válkami mezi sebou.
 
 - Hlavním městem se nejdřív stal **Damašek** (dnešní Sýrie).
-- Roku **711** se Arabové přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli přes 700 let, až do roku **1492**.
+- Arabové se přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli ještě mnoho staletí.
 - **Roku 732** porazil franský vojevůdce **Karel Martel** muslimské vojsko v bitvě u **Tours/Poitiers** a zastavil jejich postup do Francie. Přezdívalo se mu **„Kladivo“**.
 - Později se hlavním městem stal nově založený **Bagdád** (dnešní Irák).
 
@@ -154,7 +154,7 @@ Harún vystupuje i v pohádkách ze sbírky **Tisíc a jedna noc**. Vypráví je
 
 - **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
 - **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
-- **Tárikova hora:** Gibraltar, 711, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
+- **Tárikova hora:** Gibraltar, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
 - **Kalkulačka s nulou:** arabské číslice z Indie, algebra, překlady řeckých knih v Bagdádu.
 
 #### Ověření proti zápiskům
@@ -217,8 +217,8 @@ Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich by
 - **Proč to císař chtěl:** potřeboval, aby biskupové byli jeho lidé a poslouchali ho.
 - **Proč to papež nechtěl:** chtěl, aby si biskupy vybírala sama církev, a ne císař.
 - **Klatba:** papež vyloučil císaře z církve. Šlechtici pak přestali císaře poslouchat.
-- **Canossa (1077):** císař musel ustoupit. Šel za papežem na hrad Canossa a tři dny stál bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
-- **Jak to dopadlo (1122):** ve **Wormském konkordátu** se dohodli napůl – biskupa vybírá církev, ale půdu mu dává císař.
+- **Canossa:** císař musel ustoupit. Šel za papežem na hrad Canossa a tři dny stál bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
+- **Jak to dopadlo:** ve **Wormském konkordátu** se dohodli napůl – biskupa vybírá církev, ale půdu mu dává císař.
 - **Barbarossa** znamená „Rudovous“ – měl zrzavé vousy.
 
 ### Paměťový obraz
@@ -307,10 +307,8 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 527–565 | Vláda Justiniána I.: zákoník a chrám Hagia Sofia | byzanc | byzantska-rise |
 | 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
 | 632 | Smrt Mohameda; muslimy vedou chalífové | islám | arabska-rise-a-islam |
-| 711 | Arabové pod vedením Tárika vstupují do Španělska (Gibraltar) | islám | arabska-rise-a-islam |
 | 732 | Karel Martel poráží Araby u Poitiers | říše, islám | franska-rise, arabska-rise-a-islam |
 | 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
-| 762 | Založení Bagdádu, nového hlavního města chalífů | islám | arabska-rise-a-islam |
 | 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám, říše | arabska-rise-a-islam, franska-rise |
 | 800 | Karel Veliký korunován císařem | říše | franska-rise |
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
@@ -363,19 +361,18 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 11. Co znamená slovo chalífa? — **Nástupce (Mohamedův); náboženský vůdce i vládce.**
 12. Vyjmenuj pět pilířů islámu. — **Vyznání víry, modlitba pětkrát denně, almužna, půst v ramadánu, pouť do Mekky.**
 13. Proč se Arabové rozšířili tak rychle? — **Islám spojil kmeny a Byzanc s Persií byly vyčerpané vzájemnými válkami.**
-14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy roku 711 vedl Araby do Španělska.**
-15. Jak dlouho vládli muslimové ve Španělsku? — **Přes 700 let, do roku 1492.**
-16. Jakou přezdívku měl Karel Martel? — **Kladivo.**
-17. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
-18. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
-19. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
-20. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
-21. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
-22. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
-23. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
-24. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
-25. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
-26. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
+14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy vedl Araby do Španělska.**
+15. Jakou přezdívku měl Karel Martel? — **Kladivo.**
+16. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
+17. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
+18. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
+19. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
+20. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
+21. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
+22. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
+23. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
+24. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
+25. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
 
 ### Středověká společnost a církev
 

@@ -61,8 +61,8 @@ Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich by
 - **Proč to císař chtěl:** potřeboval, aby biskupové byli jeho lidé a poslouchali ho.
 - **Proč to papež nechtěl:** chtěl, aby si biskupy vybírala sama církev, a ne císař.
 - **Klatba:** papež vyloučil císaře z církve. Šlechtici pak přestali císaře poslouchat.
-- **Canossa (1077):** císař musel ustoupit. Šel za papežem na hrad Canossa a tři dny stál bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
-- **Jak to dopadlo (1122):** ve **Wormském konkordátu** se dohodli napůl – biskupa vybírá církev, ale půdu mu dává císař.
+- **Canossa:** císař musel ustoupit. Šel za papežem na hrad Canossa a tři dny stál bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
+- **Jak to dopadlo:** ve **Wormském konkordátu** se dohodli napůl – biskupa vybírá církev, ale půdu mu dává císař.
 - **Barbarossa** znamená „Rudovous“ – měl zrzavé vousy.
 
 ## Paměťový obraz

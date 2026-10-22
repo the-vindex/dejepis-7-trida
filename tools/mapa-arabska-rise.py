@@ -13,8 +13,8 @@ CITIES = [(525, 292, "Mekka", "start"), (510, 258, "Medína", "start"), (498, 16
           (565, 170, "Bagdád", "start"), (424, 98, "Konstantinopol", "end")]
 REGIONS = [(585, 330, "Arábie", 15), (130, 105, "Španělsko", 12), (470, 122, "Byzantská říše", 10),
            (175, 22, "Franská říše", 10), (812, 238, "řeka Indus", 10)]
-LEGEND = [("#a1584e", "za Mohameda (622–632)"), ("#ef9070", "první chalífové (632–661)"),
-          ("#fad07d", "do roku 750")]
+LEGEND = [("#a1584e", "za Mohameda"), ("#ef9070", "za prvních chalífů"),
+          ("#fad07d", "později")]
 
 out = ['<g transform="translate(392.687 131.198)" font-family="DejaVu Sans, Verdana, sans-serif" font-weight="bold"'
        ' paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">']

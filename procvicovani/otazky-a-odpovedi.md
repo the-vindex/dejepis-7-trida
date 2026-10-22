@@ -37,19 +37,18 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 11. Co znamená slovo chalífa? — **Nástupce (Mohamedův); náboženský vůdce i vládce.**
 12. Vyjmenuj pět pilířů islámu. — **Vyznání víry, modlitba pětkrát denně, almužna, půst v ramadánu, pouť do Mekky.**
 13. Proč se Arabové rozšířili tak rychle? — **Islám spojil kmeny a Byzanc s Persií byly vyčerpané vzájemnými válkami.**
-14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy roku 711 vedl Araby do Španělska.**
-15. Jak dlouho vládli muslimové ve Španělsku? — **Přes 700 let, do roku 1492.**
-16. Jakou přezdívku měl Karel Martel? — **Kladivo.**
-17. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
-18. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
-19. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
-20. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
-21. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
-22. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
-23. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
-24. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
-25. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
-26. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
+14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy vedl Araby do Španělska.**
+15. Jakou přezdívku měl Karel Martel? — **Kladivo.**
+16. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
+17. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
+18. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
+19. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
+20. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
+21. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
+22. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
+23. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
+24. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
+25. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
 
 ## Středověká společnost a církev
 

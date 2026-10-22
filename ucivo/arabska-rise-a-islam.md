@@ -11,7 +11,7 @@
 
 V **7. století** začal v Mekce kázat obchodník **Mohamed (Muhammad)**. Podle muslimů mu Bůh skrze anděla **Gabriela** sděloval svá slova. Mohamed učil, že existuje **jen jeden Bůh** (arabsky **Alláh**). Taková víra v jednoho Boha se nazývá **monoteismus**, stejně jako u židů a křesťanů. Nové náboženství se jmenuje **islám** (znamená „odevzdání se Bohu“) a jeho vyznavači jsou **muslimové**. Slova, která Mohamed hlásal, byla sepsána do posvátné knihy **Koránu**.
 
-Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, roku **630** se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Zemřel roku **632**. Po něm vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
+Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, později se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Zemřel roku **632**. Po něm vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
 
 ## Pět pilířů islámu
 
@@ -25,14 +25,14 @@ Každý muslim má plnit pět hlavních povinností:
 
 ## Arabská expanze
 
-![Rozšíření arabské říše od Mohameda do roku 750](../docs/assets/mapy/arabska-rise-750.svg)
+![Jak se arabská říše rozšiřovala](../docs/assets/mapy/arabska-rise-750.svg)
 
 <p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_expansion_of_Caliphate.svg) – DieBuche, volné dílo; doplněny české popisky.</p>
 
 Za necelých sto let po Mohamedově smrti ovládli Arabové obrovské území **od řeky Indus po Španělsko**. Rozšířili se tak rychle ze dvou důvodů: islám spojil dříve znesvářené arabské kmeny, a sousední **Byzantská** a **Perská říše** byly vyčerpané dlouhými válkami mezi sebou.
 
 - Hlavním městem se nejdřív stal **Damašek** (dnešní Sýrie).
-- Roku **711** se Arabové přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli přes 700 let, až do roku **1492**.
+- Arabové se přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli ještě mnoho staletí.
 - **Roku 732** porazil franský vojevůdce **Karel Martel** muslimské vojsko v bitvě u **Tours/Poitiers** a zastavil jejich postup do Francie. Přezdívalo se mu **„Kladivo“**.
 - Později se hlavním městem stal nově založený **Bagdád** (dnešní Irák).
 
@@ -63,7 +63,7 @@ Harún vystupuje i v pohádkách ze sbírky **Tisíc a jedna noc**. Vypráví je
 
 - **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
 - **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
-- **Tárikova hora:** Gibraltar, 711, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
+- **Tárikova hora:** Gibraltar, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
 - **Kalkulačka s nulou:** arabské číslice z Indie, algebra, překlady řeckých knih v Bagdádu.
 
 ### Ověření proti zápiskům
