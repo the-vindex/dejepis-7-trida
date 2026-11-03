@@ -235,27 +235,25 @@ Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich by
 
 ### Vznik Polska a Měšek I.
 
-Polský stát vznikl v **10. století** mezi řekami **Odrou** a **Vislou**. Žily tu kmeny **západních Slovanů**, tedy příbuzní Čechů a Slováků; proto si česky a polsky dodnes trochu rozumíme. Nejsilnější kmen se jmenoval **Polané** (od slova *pole*) a podle nich dostala název celá země.
+Polský stát vznikl v **10. století** mezi řekami **Odrou** a **Vislou**. Usadily se tu kmeny **západních Slovanů**. Západní Slované jsou i Češi, Poláci jsou tedy naši blízcí příbuzní.
 
-Nejvýznamnějšími sídly byla **Hnězdno** a **Krakov**. Hnězdno bylo první centrum státu, Krakov se hlavním městem stal později.
+Nejvýznamnějšími sídly byly **Krakov** a **Hnězdno**.
 
-Prvním **historicky doloženým** knížetem byl **Měšek I.** z rodu **Piastovců**. „Historicky doložený“ znamená, že o něm píší skutečné písemné prameny. O knížatech před ním známe jen pověsti.
+Prvním **historicky doloženým** knížetem byl **Měšek I.** z rodu **Piastovců**. „Historicky doložený“ znamená, že o něm víme z písemných pramenů. Je to tedy první polský panovník, o kterém s jistotou víme, že opravdu žil.
 
-Měšek se oženil s českou princeznou **Doubravkou** (v sešitě *Dobrava*), dcerou českého knížete **Boleslava I.** Byla to tedy **Přemyslovna**. Doubravka byla křesťanka a díky ní se v Polsku začalo šířit **křesťanství**. Měšek se kvůli ní nechal **pokřtít**. Proč to bylo pro knížete výhodné? Křesťanského panovníka brali okolní křesťanští vládci jako rovného partnera a neměli záminku napadat ho kvůli víře.
+Měškovou manželkou byla **Doubravka** (v sešitě *Dobrava*), dcera **českého knížete Boleslava I.**, tedy **Přemyslovna**. Díky ní se v Polsku začalo **šířit křesťanství** a Měšek se dokonce nechal **pokřtít v Čechách**.
+
+**Proč je to důležité:** přijetím křesťanství se Polsko zařadilo mezi **křesťanské státy Evropy** a okolní panovníci ho začali brát jako rovnocenného partnera. A křesťanství do Polska přišlo **z Čech**, díky české princezně.
 
 ### Boleslav Chrabrý, první polský král
 
-Syn Měška a Doubravky, **Boleslav Chrabrý**, vytvořil **mocnou říši**. *Chrabrý* znamená „statečný“. Po matce byl napůl Přemyslovec, Čechy tedy dobře znal.
+Syn Měška a Doubravky, **Boleslav Chrabrý** (*chrabrý* = statečný), vytvořil **mocnou říši**.
 
-V Čechách se tehdy o trůn hádali Přemyslovci mezi sebou. Boleslav toho využil: **zaútočil na Čechy**, chtěl je připojit ke svému státu a **obsadil Prahu**. Roku **1004** byl ale **poražen a z Čech vyhnán**.
+Dokonce **zaútočil na Čechy**, které chtěl **připojit ke svému knížectví**, a **obsadil Prahu**. Roku **1004** byl ale **poražen a z Čech vyhnán**.
 
-Roku **1025** byl Boleslav **korunován prvním polským králem**. Po jeho smrti se ale jednotné Polsko **rozpadlo** a jeho nástupci si královský titul **trvale neudrželi**. Podobně to bylo u nás: i první čeští králové měli titul jen pro sebe (Vratislav II., téma Svatá říše římská).
+**Proč je to důležité:** kdyby Boleslav vyhrál, Čechy by se staly součástí Polska. Jeho porážkou si Čechy uhájily samostatnost a vlastní panovníky.
 
-#### Pro zajímavost
-
-- **Lech, Čech a Rus:** podle pověsti byli tři bratři. Čech se usadil pod horou Říp, Lech šel dál na sever. Tam uviděl na stromě **hnízdo bílého orla** a založil u něj hrad **Hnězdno** (od slova *hnízdo*). **Bílý orel** je dodnes ve znaku Polska.
-- **Piast:** rod Piastovců má jméno po pověstném předkovi **Piastovi**, prostém rolníkovi, kterého si lidé zvolili za knížete.
-- **Wawel:** na krakovském hradě **Wawel** byli později korunováni polští králové a jsou tam i pohřbeni, podobně jako čeští králové na Pražském hradě.
+Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Podobně to bylo i v Čechách: první český král Vratislav II. měl titul jen pro sebe a dědičný se stal až roku 1212 (téma Svatá říše římská).
 
 ### Zapamatuj si
 
@@ -263,13 +261,13 @@ Roku **1025** byl Boleslav **korunován prvním polským králem**. Po jeho smrt
 
 ### Paměťový obraz
 
-- **Orel v hnízdě:** Hnězdno, bílý orel ve znaku, Krakov.
+- **Dvě řeky a dvě města:** mezi Odrou a Vislou stojí Krakov a Hnězdno.
 - **Česká nevěsta s křížem:** Doubravka přiváží z Čech křesťanství Měškovi.
 - **Statečný syn na Pražském hradě:** Boleslav Chrabrý obsadí Prahu, 1004 utíká, 1025 si nasadí královskou korunu.
 
 #### Ověření proti zápiskům
 
-Kde přesně byl Měšek pokřtěn, **prameny neříkají**. Sešit uvádí Čechy, je to ale jen tradiční výklad. Jisté je, že ke křtu ho přivedla Doubravka. **Krakov** a **Hnězdno**: prvním centrem bylo Hnězdno, Krakov se hlavním sídlem stal až později.
+Kde přesně byl Měšek pokřtěn, prameny **neuvádějí**. Sešit píše Čechy, jde o tradiční výklad. Jisté je, že ke křtu ho přivedla Doubravka.
 
 ## Uherské království
 
@@ -277,31 +275,27 @@ Kde přesně byl Měšek pokřtěn, **prameny neříkají**. Sešit uvádí Čec
 
 ### Maďaři: kočovníci z asijských stepí
 
-**Maďaři** (česky také **Uhři**) původně nebyli Slované ani Germáni. Byli to **kočovníci z asijských stepí**: žili na koních, se stády, a neměli stálé vesnice. Jejich jazyk je proto úplně jiný než čeština; je vzdáleně příbuzný s **finštinou** a **estonštinou**.
+**Maďaři** (česky také **Uhři**) byli původně **kočovníci z asijských stepí**. Kočovníci nemají stálé domovy, putují se stády z místa na místo. Maďaři podnikali **nájezdy po celé Evropě**: přepadli kraj, vyloupili ho a odjeli.
 
-Maďaři byli výborní **jezdci a lučištníci**. Rychle přijeli, vyloupili kraj a zase zmizeli. Takové **nájezdy** podnikali **po celé Evropě**, až do Německa, Itálie a Francie.
+Kníže **Arpád**, zakladatel dynastie **Arpádovců**, **sjednotil** kočovné maďarské kmeny. Na počátku **10. století** Maďaři vtrhli na **Velkou Moravu** a **rozvrátili ji**.
 
-Kníže **Arpád**, zakladatel dynastie **Arpádovců**, **sjednotil** kočovné maďarské kmeny. Na počátku **10. století** Maďaři vtrhli na **Velkou Moravu** a **rozvrátili ji**. Velká Morava tím zanikla a Maďaři se stali novými sousedy Čechů.
+**Proč je to důležité:** Maďaři zničili **Velkou Moravu**, první velký stát západních Slovanů. Od té doby byli přímými sousedy Čechů.
 
 ### Vznik Uherského království
 
-Roku **955** Maďary porazil východofranský král **Ota I.** v **bitvě na řece Lechu** (víc v tématu Svatá říše římská). Po této porážce s nájezdy přestali a **usadili se v Podunajské nížině**, tedy v rovinách kolem Dunaje (dnešní Maďarsko). Z kočovníků se stali zemědělci a založili **Uherské království**.
+Roku **955** byli Maďaři poraženi v **bitvě na řece Lechu**. Porazil je **Ota I.**, pozdější první císař Svaté říše římské (téma Svatá říše římská). Po porážce se Maďaři **usadili v Podunajské nížině**, v rovinách kolem řeky Dunaje, a založili **Uherské království**.
 
-**Prvním králem** se stal **Štěpán I. Svatý** z rodu Arpádovců. Korunován byl roku **1000**. Štěpán šířil v zemi **křesťanství** a po smrti byl prohlášen za svatého, proto *Svatý*.
+**Proč je to důležité:** bitva na Lechu **ukončila maďarské nájezdy** na Evropu. Z kočovníků se stali usedlí lidé se svým vlastním státem.
 
-Po Štěpánovi je pojmenována uherská královská koruna, **Svatoštěpánská koruna**. Je to nejvzácnější poklad Maďarska.
+**Prvním králem** se stal **Štěpán I. Svatý** z dynastie Arpádovců. Korunován byl roku **1000**. Přídomek *Svatý* má proto, že ho církev později prohlásila za svatého.
 
-#### Pro zajímavost
-
-- **Nakřivo:** kříž na vrcholu Svatoštěpánské koruny je **ohnutý nakřivo**. Stalo se to při nějaké nehodě před staletími a nikdo ho už nenarovnal; podle křivého kříže korunu poznáš.
-- **Dobrodružství koruny:** koruna byla mnohokrát ukryta, ukradena nebo odvezena do ciziny, a vždy se vrátila. Dnes je vystavena v **budově parlamentu v Budapešti**.
-- **Proč „Uhři“:** Češi Maďarům odedávna říkají Uhři a jejich zemi **Uhry**. Odtud také název **Uherské království**, Uherské Hradiště nebo Uherský Brod.
+Po Štěpánovi je pojmenována **uherská královská koruna**, **Svatoštěpánská koruna**. Byla to nejdůležitější památka a symbol Uherského království.
 
 ### Další Arpádovci
 
-- **Ondřej II.** vydal roku **1222** **Zlatou bulu** (uherskou). Šlechtici si v ní vymohli **svá práva** a směli se králi vzepřít, kdyby je porušil. *Bula* je listina se zlatou pečetí.
-- **Béla IV.** dokázal **obnovit říši po ničivém vpádu Mongolů**. Mongolové (Tataři) přijeli z dalekého východu, porazili uherské vojsko a vypálili zemi. Béla pak dal stavět **kamenné hrady**, které se daly lépe bránit.
-- **Posledním králem** z rodu byl **Ondřej III.** Jeho smrtí roku **1301** dynastie Arpádovců **vymřela po meči**. To znamená, že nezůstal žádný mužský potomek, který by mohl vládnout.
+- **Ondřej II.** vydal roku **1222** **Zlatou bulu**. Bula je důležitá listina se zlatou pečetí.
+- **Béla IV.** dokázal **obnovit říši po ničivém vpádu Mongolů**. Mongolové byli kočovníci z Asie, kteří Uhry vyplenili. Béla zemi znovu postavil na nohy.
+- **Posledním králem** z rodu byl **Ondřej III.** Jeho smrtí roku **1301** dynastie Arpádovců **vymřela po meči**. *Po meči* znamená, že nezůstal žádný syn ani jiný mužský potomek, který by mohl vládnout.
 
 ### Zapamatuj si
 
@@ -309,15 +303,15 @@ Po Štěpánovi je pojmenována uherská královská koruna, **Svatoštěpánsk�
 
 ### Paměťový obraz
 
-- **Jezdec s lukem na stepi:** Maďaři kočovníci, Arpád, konec Velké Moravy.
-- **Jezdec spadne do řeky Lech:** 955, Maďaři sesedají z koní a orají Podunajskou nížinu.
-- **Koruna s křivým křížkem:** Štěpán I. Svatý, rok 1000.
-- **Zlatá pečeť a kamenný hrad:** Ondřej II. a Zlatá bula 1222, Béla IV. staví hrady po Mongolech.
+- **Jezdec na stepi:** Maďaři kočovníci, Arpád, konec Velké Moravy.
+- **Jezdec spadne do řeky Lech:** 955, Maďaři sesedají z koní a usadí se v Podunajské nížině.
+- **Koruna se jménem krále:** Štěpán I. Svatý, rok 1000.
+- **Zlatá pečeť:** Ondřej II., Zlatá bula 1222.
 - **Zlomený meč:** 1301, Arpádovci vymřeli po meči.
 
 #### Pozor na častou chybu
 
-Neplést si **tři zlaté buly**: **1212 Zlatá bula sicilská** (dědičný královský titul pro Čechy), **1222 Zlatá bula uherská** (Ondřej II., práva uherské šlechty) a **1356 Zlatá bula Karla IV.** (volba římského krále). Štěpán I. byl korunován na přelomu let **1000 a 1001**, v učebnicích se uvádí rok 1000.
+Neplést si **tři zlaté buly**: **1212 Zlatá bula sicilská** (dědičný královský titul pro Čechy), **1222 Zlatá bula** Ondřeje II. (Uhry) a **1356 Zlatá bula Karla IV.** (volba římského krále).
 
 ## Velké schizma – 1054
 
@@ -484,8 +478,8 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 8. Co udělal Boleslav Chrabrý v Čechách a jak to skončilo? — **Zaútočil na Čechy a obsadil Prahu, roku 1004 byl poražen a vyhnán.**
 9. Co se stalo roku 1025? — **Boleslav Chrabrý byl korunován prvním polským králem.**
 10. Co se stalo s Polskem po smrti Boleslava Chrabrého? — **Rozpadlo se a jeho nástupci si trvale neudrželi královský titul.**
-11. Odkud má podle pověsti jméno Hnězdno? — **Lech tam uviděl hnízdo bílého orla; bílý orel je dodnes ve znaku Polska.**
-12. Podle koho se jmenuje rod Piastovců? — **Podle pověstného předka Piasta, prostého rolníka.**
+11. Proč bylo důležité, že Boleslav Chrabrý roku 1004 prohrál? — **Čechy se nestaly součástí Polska a zůstaly samostatné.**
+12. Proč bylo pro Polsko důležité přijetí křesťanství? — **Zařadilo se mezi křesťanské státy Evropy; křesťanství přišlo z Čech díky Doubravce.**
 
 ### Uherské království
 
@@ -495,13 +489,12 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 4. Co se stalo roku 955 a co potom Maďaři udělali? — **Ota I. je porazil na řece Lechu; usadili se v Podunajské nížině a založili Uherské království.**
 5. Kdo byl prvním uherským králem a kdy byl korunován? — **Štěpán I. Svatý z rodu Arpádovců, roku 1000.**
 6. Jak se jmenuje uherská královská koruna? — **Svatoštěpánská koruna.**
-7. Podle čeho poznáš Svatoštěpánskou korunu? — **Kříž na jejím vrcholu je ohnutý nakřivo.**
-8. Kdo vydal roku 1222 Zlatou bulu a co v ní bylo? — **Ondřej II.; uherská šlechta v ní získala svá práva.**
-9. Co dokázal Béla IV.? — **Obnovil říši po ničivém vpádu Mongolů a dal stavět kamenné hrady.**
-10. Kdo byl posledním Arpádovcem a kdy zemřel? — **Ondřej III., roku 1301.**
-11. Co znamená, že rod „vymřel po meči“? — **Nezůstal žádný mužský potomek, který by mohl vládnout.**
-12. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 uherská, 1356 Karla IV.**
-13. Komu jsou příbuzné maďarština a jak se liší od češtiny? — **Finštině a estonštině; není to slovanský jazyk.**
+7. Kdo vydal roku 1222 Zlatou bulu? — **Uherský král Ondřej II.**
+8. Co dokázal Béla IV.? — **Obnovil říši po ničivém vpádu Mongolů.**
+9. Kdo byl posledním Arpádovcem a kdy zemřel? — **Ondřej III., roku 1301.**
+10. Co znamená, že rod „vymřel po meči“? — **Nezůstal žádný mužský potomek, který by mohl vládnout.**
+11. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 Ondřeje II. (uherská), 1356 Karla IV.**
+12. Proč byla důležitá bitva na řece Lechu roku 955 pro Maďary? — **Skončily jejich nájezdy, usadili se v Podunajské nížině a založili vlastní stát.**
 
 ### Velké schizma – 1054
 

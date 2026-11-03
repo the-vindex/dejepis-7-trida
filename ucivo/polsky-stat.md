@@ -7,29 +7,27 @@
 ![Měšek I.](../docs/assets/ilustrace/mesek.jpg)
 ![Doubravka Přemyslovna](../docs/assets/ilustrace/doubravka.jpg)
 
-Polský stát vznikl v **10. století** mezi řekami **Odrou** a **Vislou**. Žily tu kmeny **západních Slovanů**, tedy příbuzní Čechů a Slováků; proto si česky a polsky dodnes trochu rozumíme. Nejsilnější kmen se jmenoval **Polané** (od slova *pole*) a podle nich dostala název celá země.
+Polský stát vznikl v **10. století** mezi řekami **Odrou** a **Vislou**. Usadily se tu kmeny **západních Slovanů**. Západní Slované jsou i Češi, Poláci jsou tedy naši blízcí příbuzní.
 
-Nejvýznamnějšími sídly byla **Hnězdno** a **Krakov**. Hnězdno bylo první centrum státu, Krakov se hlavním městem stal později.
+Nejvýznamnějšími sídly byly **Krakov** a **Hnězdno**.
 
-Prvním **historicky doloženým** knížetem byl **Měšek I.** z rodu **Piastovců**. „Historicky doložený“ znamená, že o něm píší skutečné písemné prameny. O knížatech před ním známe jen pověsti.
+Prvním **historicky doloženým** knížetem byl **Měšek I.** z rodu **Piastovců**. „Historicky doložený“ znamená, že o něm víme z písemných pramenů. Je to tedy první polský panovník, o kterém s jistotou víme, že opravdu žil.
 
-Měšek se oženil s českou princeznou **Doubravkou** (v sešitě *Dobrava*), dcerou českého knížete **Boleslava I.** Byla to tedy **Přemyslovna**. Doubravka byla křesťanka a díky ní se v Polsku začalo šířit **křesťanství**. Měšek se kvůli ní nechal **pokřtít**. Proč to bylo pro knížete výhodné? Křesťanského panovníka brali okolní křesťanští vládci jako rovného partnera a neměli záminku napadat ho kvůli víře.
+Měškovou manželkou byla **Doubravka** (v sešitě *Dobrava*), dcera **českého knížete Boleslava I.**, tedy **Přemyslovna**. Díky ní se v Polsku začalo **šířit křesťanství** a Měšek se dokonce nechal **pokřtít v Čechách**.
+
+**Proč je to důležité:** přijetím křesťanství se Polsko zařadilo mezi **křesťanské státy Evropy** a okolní panovníci ho začali brát jako rovnocenného partnera. A křesťanství do Polska přišlo **z Čech**, díky české princezně.
 
 ## Boleslav Chrabrý, první polský král
 
 ![Boleslav Chrabrý](../docs/assets/ilustrace/boleslav-chrabry.jpg)
 
-Syn Měška a Doubravky, **Boleslav Chrabrý**, vytvořil **mocnou říši**. *Chrabrý* znamená „statečný“. Po matce byl napůl Přemyslovec, Čechy tedy dobře znal.
+Syn Měška a Doubravky, **Boleslav Chrabrý** (*chrabrý* = statečný), vytvořil **mocnou říši**.
 
-V Čechách se tehdy o trůn hádali Přemyslovci mezi sebou. Boleslav toho využil: **zaútočil na Čechy**, chtěl je připojit ke svému státu a **obsadil Prahu**. Roku **1004** byl ale **poražen a z Čech vyhnán**.
+Dokonce **zaútočil na Čechy**, které chtěl **připojit ke svému knížectví**, a **obsadil Prahu**. Roku **1004** byl ale **poražen a z Čech vyhnán**.
 
-Roku **1025** byl Boleslav **korunován prvním polským králem**. Po jeho smrti se ale jednotné Polsko **rozpadlo** a jeho nástupci si královský titul **trvale neudrželi**. Podobně to bylo u nás: i první čeští králové měli titul jen pro sebe (Vratislav II., téma Svatá říše římská).
+**Proč je to důležité:** kdyby Boleslav vyhrál, Čechy by se staly součástí Polska. Jeho porážkou si Čechy uhájily samostatnost a vlastní panovníky.
 
-### Pro zajímavost
-
-- **Lech, Čech a Rus:** podle pověsti byli tři bratři. Čech se usadil pod horou Říp, Lech šel dál na sever. Tam uviděl na stromě **hnízdo bílého orla** a založil u něj hrad **Hnězdno** (od slova *hnízdo*). **Bílý orel** je dodnes ve znaku Polska.
-- **Piast:** rod Piastovců má jméno po pověstném předkovi **Piastovi**, prostém rolníkovi, kterého si lidé zvolili za knížete.
-- **Wawel:** na krakovském hradě **Wawel** byli později korunováni polští králové a jsou tam i pohřbeni, podobně jako čeští králové na Pražském hradě.
+Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Podobně to bylo i v Čechách: první český král Vratislav II. měl titul jen pro sebe a dědičný se stal až roku 1212 (téma Svatá říše římská).
 
 ## Zapamatuj si
 
@@ -37,13 +35,13 @@ Roku **1025** byl Boleslav **korunován prvním polským králem**. Po jeho smrt
 
 ## Paměťový obraz
 
-- **Orel v hnízdě:** Hnězdno, bílý orel ve znaku, Krakov.
+- **Dvě řeky a dvě města:** mezi Odrou a Vislou stojí Krakov a Hnězdno.
 - **Česká nevěsta s křížem:** Doubravka přiváží z Čech křesťanství Měškovi.
 - **Statečný syn na Pražském hradě:** Boleslav Chrabrý obsadí Prahu, 1004 utíká, 1025 si nasadí královskou korunu.
 
 ### Ověření proti zápiskům
 
-Kde přesně byl Měšek pokřtěn, **prameny neříkají**. Sešit uvádí Čechy, je to ale jen tradiční výklad. Jisté je, že ke křtu ho přivedla Doubravka. **Krakov** a **Hnězdno**: prvním centrem bylo Hnězdno, Krakov se hlavním sídlem stal až později.
+Kde přesně byl Měšek pokřtěn, prameny **neuvádějí**. Sešit píše Čechy, jde o tradiční výklad. Jisté je, že ke křtu ho přivedla Doubravka.
 
 ## Zápis ze sešitu
 

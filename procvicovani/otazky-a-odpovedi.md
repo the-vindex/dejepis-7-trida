@@ -68,8 +68,8 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 8. Co udělal Boleslav Chrabrý v Čechách a jak to skončilo? — **Zaútočil na Čechy a obsadil Prahu, roku 1004 byl poražen a vyhnán.**
 9. Co se stalo roku 1025? — **Boleslav Chrabrý byl korunován prvním polským králem.**
 10. Co se stalo s Polskem po smrti Boleslava Chrabrého? — **Rozpadlo se a jeho nástupci si trvale neudrželi královský titul.**
-11. Odkud má podle pověsti jméno Hnězdno? — **Lech tam uviděl hnízdo bílého orla; bílý orel je dodnes ve znaku Polska.**
-12. Podle koho se jmenuje rod Piastovců? — **Podle pověstného předka Piasta, prostého rolníka.**
+11. Proč bylo důležité, že Boleslav Chrabrý roku 1004 prohrál? — **Čechy se nestaly součástí Polska a zůstaly samostatné.**
+12. Proč bylo pro Polsko důležité přijetí křesťanství? — **Zařadilo se mezi křesťanské státy Evropy; křesťanství přišlo z Čech díky Doubravce.**
 
 ## Uherské království
 
@@ -79,13 +79,12 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 4. Co se stalo roku 955 a co potom Maďaři udělali? — **Ota I. je porazil na řece Lechu; usadili se v Podunajské nížině a založili Uherské království.**
 5. Kdo byl prvním uherským králem a kdy byl korunován? — **Štěpán I. Svatý z rodu Arpádovců, roku 1000.**
 6. Jak se jmenuje uherská královská koruna? — **Svatoštěpánská koruna.**
-7. Podle čeho poznáš Svatoštěpánskou korunu? — **Kříž na jejím vrcholu je ohnutý nakřivo.**
-8. Kdo vydal roku 1222 Zlatou bulu a co v ní bylo? — **Ondřej II.; uherská šlechta v ní získala svá práva.**
-9. Co dokázal Béla IV.? — **Obnovil říši po ničivém vpádu Mongolů a dal stavět kamenné hrady.**
-10. Kdo byl posledním Arpádovcem a kdy zemřel? — **Ondřej III., roku 1301.**
-11. Co znamená, že rod „vymřel po meči“? — **Nezůstal žádný mužský potomek, který by mohl vládnout.**
-12. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 uherská, 1356 Karla IV.**
-13. Komu jsou příbuzné maďarština a jak se liší od češtiny? — **Finštině a estonštině; není to slovanský jazyk.**
+7. Kdo vydal roku 1222 Zlatou bulu? — **Uherský král Ondřej II.**
+8. Co dokázal Béla IV.? — **Obnovil říši po ničivém vpádu Mongolů.**
+9. Kdo byl posledním Arpádovcem a kdy zemřel? — **Ondřej III., roku 1301.**
+10. Co znamená, že rod „vymřel po meči“? — **Nezůstal žádný mužský potomek, který by mohl vládnout.**
+11. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 Ondřeje II. (uherská), 1356 Karla IV.**
+12. Proč byla důležitá bitva na řece Lechu roku 955 pro Maďary? — **Skončily jejich nájezdy, usadili se v Podunajské nížině a založili vlastní stát.**
 
 ## Velké schizma – 1054
 
