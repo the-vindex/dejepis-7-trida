@@ -2,7 +2,7 @@
 
 Událost může patřit do dvou linií i dvou témat (oddělené čárkou); první téma je hlavní.
 
-Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země.
+Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země, **sousedé** = Polsko a Uhry.
 
 | Rok | Událost | Linie | Kapitola |
 |---|---|---|---|
@@ -15,10 +15,15 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
 | 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
 | 919 | Jindřich I. Ptáčník východofranským králem | říše | svata-rise-rimska |
-| 955 | Ota I. poráží Maďary na řece Lech | říše | svata-rise-rimska |
+| 955 | Ota I. poráží Maďary na řece Lech; Maďaři se usazují v Podunají | říše, sousedé | svata-rise-rimska, uherske-kralovstvi |
 | 962 | Ota I. korunován císařem: vzniká Svatá říše římská | říše | svata-rise-rimska |
+| 1000 | Štěpán I. Svatý korunován prvním uherským králem | sousedé | uherske-kralovstvi |
+| 1004 | Boleslav Chrabrý poražen a vyhnán z Čech | sousedé, čechy | polsky-stat |
+| 1025 | Boleslav Chrabrý korunován prvním polským králem | sousedé | polsky-stat |
 | 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma, byzantska-rise |
 | 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
 | 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
+| 1222 | Ondřej II. vydává Zlatou bulu uherskou | sousedé | uherske-kralovstvi |
+| 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | sousedé | uherske-kralovstvi |
 | 1356 | Zlatá bula Karla IV. určuje sedm kurfiřtů | čechy | svata-rise-rimska |
 | 1453 | Osmané dobývají Konstantinopol; konec Byzance | byzanc | byzantska-rise |

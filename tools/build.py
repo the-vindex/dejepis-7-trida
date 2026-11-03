@@ -25,13 +25,16 @@ AI_FILE = "dejepis-7-trida.md"
 
 # lane key in casova-osa.md -> (css class, legend name)
 LANES = {"říše": ("rise", "Frankové a Svatá říše"), "byzanc": ("byz", "Byzanc a církev"),
-         "islám": ("isl", "Arabové a islám"), "čechy": ("cz", "České země")}
+         "islám": ("isl", "Arabové a islám"), "čechy": ("cz", "České země"),
+         "sousedé": ("sou", "Polsko a Uhry")}
 # chapters in chronological order: stem -> (span shown above the title, lane css class)
 CHAPTERS = {
     "byzantska-rise": ("476–1453", "byz"),
     "franska-rise": ("5. století – 843", "rise"),
     "arabska-rise-a-islam": ("7.–9. století", "isl"),
     "svata-rise-rimska": ("919–1356", "rise"),
+    "polsky-stat": ("10. století – 1025", "sou"),
+    "uherske-kralovstvi": ("10. století – 1301", "sou"),
     "velke-schizma": ("1054", "byz"),
     "stredoveka-spolecnost": ("celý středověk", "ink"),
 }

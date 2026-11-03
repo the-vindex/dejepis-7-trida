@@ -56,6 +56,37 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 2. Proč byly kláštery důležité? — **Opisování knih, uchování vědomostí, vzdělávání, hospodaření, péče o nemocné.**
 3. Které řády byly žebravé? — **Františkáni a dominikáni.**
 
+## Polský stát
+
+1. Kdy a kde vznikl polský stát? — **V 10. století mezi řekami Odrou a Vislou, kde žily kmeny západních Slovanů.**
+2. Která byla nejvýznamnější sídla Polska? — **Hnězdno a Krakov.**
+3. Kdo byl prvním historicky doloženým polským knížetem a z jakého rodu? — **Měšek I. z rodu Piastovců.**
+4. Kdo byla Doubravka (Dobrava)? — **Česká princezna, dcera knížete Boleslava I. a manželka Měška I.**
+5. Jak se do Polska dostalo křesťanství? — **Díky Doubravce; Měšek se kvůli ní nechal pokřtít.**
+6. Kdo byl synem Měška a Doubravky? — **Boleslav Chrabrý.**
+7. Co znamená přídomek Chrabrý? — **Statečný.**
+8. Co udělal Boleslav Chrabrý v Čechách a jak to skončilo? — **Zaútočil na Čechy a obsadil Prahu, roku 1004 byl poražen a vyhnán.**
+9. Co se stalo roku 1025? — **Boleslav Chrabrý byl korunován prvním polským králem.**
+10. Co se stalo s Polskem po smrti Boleslava Chrabrého? — **Rozpadlo se a jeho nástupci si trvale neudrželi královský titul.**
+11. Odkud má podle pověsti jméno Hnězdno? — **Lech tam uviděl hnízdo bílého orla; bílý orel je dodnes ve znaku Polska.**
+12. Podle koho se jmenuje rod Piastovců? — **Podle pověstného předka Piasta, prostého rolníka.**
+
+## Uherské království
+
+1. Odkud Maďaři (Uhři) původně přišli a jak žili? — **Z asijských stepí; byli to kočovníci a podnikali nájezdy po celé Evropě.**
+2. Kdo sjednotil maďarské kmeny a založil dynastii? — **Kníže Arpád, zakladatel dynastie Arpádovců.**
+3. Kterou říši Maďaři na počátku 10. století rozvrátili? — **Velkou Moravu.**
+4. Co se stalo roku 955 a co potom Maďaři udělali? — **Ota I. je porazil na řece Lechu; usadili se v Podunajské nížině a založili Uherské království.**
+5. Kdo byl prvním uherským králem a kdy byl korunován? — **Štěpán I. Svatý z rodu Arpádovců, roku 1000.**
+6. Jak se jmenuje uherská královská koruna? — **Svatoštěpánská koruna.**
+7. Podle čeho poznáš Svatoštěpánskou korunu? — **Kříž na jejím vrcholu je ohnutý nakřivo.**
+8. Kdo vydal roku 1222 Zlatou bulu a co v ní bylo? — **Ondřej II.; uherská šlechta v ní získala svá práva.**
+9. Co dokázal Béla IV.? — **Obnovil říši po ničivém vpádu Mongolů a dal stavět kamenné hrady.**
+10. Kdo byl posledním Arpádovcem a kdy zemřel? — **Ondřej III., roku 1301.**
+11. Co znamená, že rod „vymřel po meči“? — **Nezůstal žádný mužský potomek, který by mohl vládnout.**
+12. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 uherská, 1356 Karla IV.**
+13. Komu jsou příbuzné maďarština a jak se liší od češtiny? — **Finštině a estonštině; není to slovanský jazyk.**
+
 ## Velké schizma – 1054
 
 1. Co znamená velké schizma? — **Rozkol západní (římskokatolické) a východní (pravoslavné) církve, tradičně roku 1054.**
