@@ -14,8 +14,9 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 800 | Karel Veliký korunován císařem | říše | franska-rise |
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
 | 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
-| 919 | Jindřich I. Ptáčník východofranským králem | říše | svata-rise-rimska |
-| 955 | Ota I. poráží Maďary na řece Lech; Maďaři se usazují v Podunají | říše, státy | svata-rise-rimska, uherske-kralovstvi |
+| 919 | Šlechta volí saského vévodu Jindřicha Ptáčníka králem | říše | svata-rise-rimska |
+| 929 | Jindřich Ptáčník vtrhl do Čech, kníže Václav platí tribut míru | říše, čechy | svata-rise-rimska |
+| 955 | Ota I. (s pomocí Boleslava I.) poráží Maďary na řece Lech; Maďaři se usazují v Podunají | říše, státy | svata-rise-rimska, uherske-kralovstvi |
 | 962 | Ota I. korunován císařem: vzniká Svatá říše římská | říše | svata-rise-rimska |
 | 987 | Hugo Kapet králem: vznik Francie, začíná vláda Kapetovců | státy | francie |
 | 1000 | Štěpán I. Svatý korunován prvním uherským králem | státy | uherske-kralovstvi |
@@ -29,3 +30,4 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | státy | uherske-kralovstvi |
 | 1356 | Zlatá bula Karla IV. určuje sedm kurfiřtů | čechy | svata-rise-rimska |
 | 1453 | Osmané dobývají Konstantinopol; konec Byzance | byzanc | byzantska-rise |
+| 1806 | Zánik Svaté říše římské pod tlakem Napoleona; poslední císař František II. | říše | svata-rise-rimska |

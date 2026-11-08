@@ -32,7 +32,7 @@ CHAPTERS = {
     "byzantska-rise": ("476–1453", "byz"),
     "franska-rise": ("5. století – 843", "rise"),
     "arabska-rise-a-islam": ("7.–9. století", "isl"),
-    "svata-rise-rimska": ("919–1356", "rise"),
+    "svata-rise-rimska": ("919–1806", "rise"),
     "polsky-stat": ("10. století – 1025", "st"),
     "uherske-kralovstvi": ("10. století – 1301", "st"),
     "francie": ("987 – vrcholný středověk", "st"),
@@ -164,6 +164,8 @@ def build_chapters(events, qs):
         head = f'<header class="chapter-head"><p class="span">{span}</p><h1>{html.escape(title)}</h1></header>'
         lead, body = body.split("</p>", 1) if body.startswith('<p class="lead">') else ("", body)
         lead = lead + "</p>" if lead else ""
+        if "<mark>" in body:
+            lead += '<p class="hint"><mark>Zvýrazněné</mark> je v sešitě podtržené.</p>'
         art = f'<article class="chapter">{head}{lead}{dates}{body}{quiz}{sesit}</article>{pn}'
         (DOCS / f"{stem}.html").write_text(page(f"{title} – Dějepis 7", art, f"lane-{lane}"))
 
@@ -255,6 +257,7 @@ krátce a česky. Web s obrázky: {SITE}
     parts += [strip_images(read(f"ucivo/{s}.md")) for s in CHAPTERS]
     parts += [strip_images(read(f"procvicovani/{n}.md")) for n in ("casova-osa", "otazky-a-odpovedi")]
     ai = "\n\n".join(p.strip() for p in parts) + "\n"
+    ai = re.sub(r"<mark>(.*?)</mark>", r"**\1**", ai)
     ai = re.sub(r"^(#{1,5}) ", lambda m: "#" + m.group(1) + " " if m.start() else m.group(0), ai, flags=re.M)
     (DOCS / AI_FILE).write_text(ai)
     (DOCS / "llms.txt").write_text(

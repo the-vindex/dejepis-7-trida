@@ -122,10 +122,23 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 ## Svatá říše římská
 
 1. Co se stalo roku 843 a jak to souvisí se Svatou říší římskou? — **Franská říše se rozdělila; z východofranské části později vznikla Svatá říše římská.**
-2. Kdo byl Jindřich I. Ptáčník? — **Východofranský král, vládl 919–936.**
-3. Kdo vyhrál bitvu na Lechu roku 955? — **Ota I. Veliký.**
-4. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
-5. Kdo byli kurfiřti a kolik jich bylo? — **Knížata, která volila římského krále; sedm: tři duchovní a čtyři světští.**
-6. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
-7. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
-8. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
+2. Co se stalo ve Východofranské říši na počátku 10. století? — **Vymřel rod Karlovců a říše se rozpadla na několik samostatných knížectví a vévodství.**
+3. Koho si šlechta roku 919 zvolila za krále? — **Saského vévodu Jindřicha Ptáčníka.**
+4. Co je tribut míru a kdo ho platil? — **Poplatek za mír; od roku 929 ho Jindřichu Ptáčníkovi platil český kníže Václav.**
+5. Kdo nastoupil na trůn po Jindřichu Ptáčníkovi? — **Jeho syn Ota I. Veliký.**
+6. Kdo vyhrál bitvu na Lechu roku 955 a kdo mu pomohl? — **Ota I. Veliký; vojenskou pomoc mu poskytl český kníže Boleslav I.**
+7. Co se stalo v roce 962? — **Ota I. byl korunován císařem; vznikla Svatá říše římská.**
+8. Kdo volil krále Svaté říše římské? — **Říšští kurfiřti.**
+9. Kolik bylo kurfiřtů a kdo to byl? — **Sedm: tři duchovní (arcibiskup mohučský, kolínský, trevírský) a čtyři světští (český král, falckrabě rýnský, vévoda saský, markrabě braniborský).**
+10. Kde se korunovali římští králové a kde císaři? — **Králové v německých katedrálách, většinou v Cáchách nebo ve Frankfurtu nad Mohanem; císařem je korunovali v Římě.**
+11. Kdy se České knížectví stalo součástí Svaté říše římské? — **Na počátku 11. století.**
+12. Kdo byl prvním českým panovníkem, který se stal římským císařem? — **Karel IV.**
+13. Kdy a pod čím tlakem zanikla Svatá říše římská? — **Roku 1806 pod tlakem francouzského císaře Napoleona Bonaparta.**
+14. Kdo byl posledním panovníkem Svaté říše římské? — **František II., od roku 1804 zároveň rakouský císař František I.**
+15. Která dynastie vládla po Otonech a jak se dostala na trůn? — **Sálská dynastie; volbou, ale díky příbuzenství s Otony v ženské linii.**
+16. S kým se utkal císař Jindřich III. Černý? — **S českým knížetem Břetislavem I.**
+17. Čím se proslavil Jindřich IV.? — **Bojem o investituru s papežem Řehořem VII. a pokornou cestou do Canossy.**
+18. O co šlo v boji o investituru? — **Kdo bude vybírat biskupy: císař, nebo papež.**
+19. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
+20. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+21. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**

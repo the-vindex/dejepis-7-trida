@@ -6,11 +6,11 @@
 
 ![Alfréd Veliký (vitráž)](../docs/assets/ilustrace/alfred-veliky.jpg)
 
-Během **stěhování národů** pronikly v **5. století** na **Britské ostrovy** **germánské kmeny**. Nejznámější byli **Anglové** a **Sasové**, proto se jim říká **Anglosasové**. Podle Anglů dostala jméno celá země, **Anglie**.
+Během **stěhování národů** pronikly v **5. století** na **Britské ostrovy** **germánské kmeny**. Nejznámější byli <mark>Anglové</mark> a <mark>Sasové</mark>, proto se jim říká **Anglosasové**. Podle Anglů dostala jméno celá země, **Anglie**.
 
 Od **8. století** podnikali na Britské ostrovy **válečné výpravy Vikingové**, mořeplavci ze Severu. Část území **osídlili** a jejich nadvláda trvala **téměř dvě století**.
 
-Na konci **9. století** Vikingy porazil **Alfréd Veliký**. **Sjednotil anglosaské kmeny**, vytvořil **jednotný stát Anglii** a stal se jejím **králem**.
+Na konci **9. století** Vikingy porazil <mark>Alfréd Veliký</mark>. **Sjednotil anglosaské kmeny**, vytvořil **jednotný stát Anglii** a stal se jejím **králem**.
 
 **Proč je to důležité:** dokud byly kmeny rozdělené, Vikingové je snadno porazili jeden po druhém. Spojené pod jedním králem se dokázaly ubránit. Proto má Alfréd přídomek *Veliký*.
 
@@ -20,7 +20,7 @@ Na konci **9. století** Vikingy porazil **Alfréd Veliký**. **Sjednotil anglos
 
 Posledním králem **anglosaského původu** z rodu **Wessexů** byl **Eduard Vyznavač**. Zemřel **bez dětí**, takže nebylo jasné, kdo po něm zdědí trůn.
 
-Roku **1066** proto vypukly **boje o uvolněný trůn**. **Normandský vévoda Vilém I.** se svým vojskem připlul na Britské ostrovy a porazil Anglosasy v **bitvě u Hastingsu**. Stal se novým anglickým králem a spojil **Normandii** (kraj na severu Francie) s Anglií. Do dějin se zapsal jako **Vilém I. Dobyvatel**.
+Roku **1066** proto vypukly **boje o uvolněný trůn**. <mark>Normandský vévoda Vilém I.</mark> se svým vojskem připlul na Britské ostrovy a porazil Anglosasy v bitvě u <mark>Hastingsu</mark>. Stal se novým anglickým králem a spojil **Normandii** (kraj na severu Francie) s Anglií. Do dějin se zapsal jako **Vilém I. Dobyvatel**.
 
 **Proč je to důležité:** v Anglii začali vládnout **Normané** a vznikl spor, který trval velmi dlouho (viz níže). Rok 1066 je jeden z nejznámějších letopočtů anglických dějin.
 

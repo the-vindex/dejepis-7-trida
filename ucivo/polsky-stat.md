@@ -7,13 +7,13 @@
 ![Měšek I.](../docs/assets/ilustrace/mesek.jpg)
 ![Doubravka Přemyslovna](../docs/assets/ilustrace/doubravka.jpg)
 
-Polský stát vznikl v **10. století** mezi řekami **Odrou** a **Vislou**. Usadily se tu kmeny **západních Slovanů**. Západní Slované jsou i Češi, Poláci jsou tedy naši blízcí příbuzní.
+Polský stát vznikl v **10. století** mezi řekami <mark>Odrou</mark> a <mark>Vislou</mark>. Usadily se tu kmeny **západních Slovanů**. Západní Slované jsou i Češi, Poláci jsou tedy naši blízcí příbuzní.
 
-Nejvýznamnějšími sídly byly **Krakov** a **Hnězdno**.
+Nejvýznamnějšími sídly byly <mark>Krakov</mark> a <mark>Hnězdno</mark>.
 
-Prvním **historicky doloženým** knížetem byl **Měšek I.** z rodu **Piastovců**. „Historicky doložený“ znamená, že o něm víme z písemných pramenů. Je to tedy první polský panovník, o kterém s jistotou víme, že opravdu žil.
+Prvním **historicky doloženým** knížetem byl <mark>Měšek I.</mark> z rodu **Piastovců**. „Historicky doložený“ znamená, že o něm víme z písemných pramenů. Je to tedy první polský panovník, o kterém s jistotou víme, že opravdu žil.
 
-Měškovou manželkou byla **Doubravka** (v sešitě *Dobrava*), dcera **českého knížete Boleslava I.**, tedy **Přemyslovna**. Díky ní se v Polsku začalo **šířit křesťanství** a Měšek se dokonce nechal **pokřtít v Čechách**.
+Měškovou manželkou byla <mark>Doubravka</mark> (v sešitě *Dobrava*), dcera českého knížete <mark>Boleslava I.</mark>, tedy **Přemyslovna**. Díky ní se v Polsku začalo **šířit křesťanství** a <mark>Měšek</mark> se dokonce nechal **pokřtít v Čechách**.
 
 **Proč je to důležité:** přijetím křesťanství se Polsko zařadilo mezi **křesťanské státy Evropy** a okolní panovníci ho začali brát jako rovnocenného partnera. A křesťanství do Polska přišlo **z Čech**, díky české princezně.
 
@@ -21,7 +21,7 @@ Měškovou manželkou byla **Doubravka** (v sešitě *Dobrava*), dcera **české
 
 ![Boleslav Chrabrý](../docs/assets/ilustrace/boleslav-chrabry.jpg)
 
-Syn Měška a Doubravky, **Boleslav Chrabrý** (*chrabrý* = statečný), vytvořil **mocnou říši**.
+Syn Měška a Doubravky, <mark>Boleslav Chrabrý</mark> (*chrabrý* = statečný), vytvořil **mocnou říši**.
 
 Dokonce **zaútočil na Čechy**, které chtěl **připojit ke svému knížectví**, a **obsadil Prahu**. Roku **1004** byl ale **poražen a z Čech vyhnán**.
 

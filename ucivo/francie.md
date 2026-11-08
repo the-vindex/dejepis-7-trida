@@ -9,11 +9,11 @@
 
 **Francouzské království** vzniklo na části území **západofranské říše**. To je západní díl, který Franská říše dostala při rozdělení roku 843 (téma Franská říše).
 
-V západofranské říši vládli **Karlovci**, potomci Karla Velikého. Když jejich rod **vymřel**, ujal se roku **987** vlády vévoda **Hugo Kapet**. Stal se **zakladatelem rodu Kapetovců**. Vznikl nový stát, **Francie**, s centrem v **Paříži**.
+V západofranské říši vládli **Karlovci**, potomci Karla Velikého. Když jejich rod **vymřel**, ujal se roku **987** vlády vévoda <mark>Hugo Kapet</mark>. Stal se **zakladatelem rodu Kapetovců**. Vznikl nový stát, **Francie**, s centrem v **Paříži**.
 
 ## Proč je Hugo Kapet důležitý
 
-Korunovace Huga Kapeta **ukončila období volených králů** Franské říše. Od té doby **dědili** trůn králové z dynastie **Kapetovců**, vždy z otce na syna.
+Korunovace Huga Kapeta **ukončila období volených králů** Franské říše. Od té doby <mark>dědili</mark> trůn králové z dynastie **Kapetovců**, vždy z otce na syna.
 
 **Proč je to důležité:** když se král volí, šlechtici se o trůn hádají a po každé smrti krále hrozí boje. Když se trůn dědí, je předem jasné, kdo bude vládnout, a země je klidnější a silnější. Kapetovci vládli Francii **velmi dlouho**: jejich vláda skončila až **francouzskou revolucí**, mnoho staletí po Hugovi.
 
@@ -25,9 +25,9 @@ Korunovace Huga Kapeta **ukončila období volených králů** Franské říše.
 
 K dalším francouzským králům raného a vrcholného středověku patřili:
 
-- **Robert II.**, syn Huga Kapeta. Dostal se do **konfliktu s církví** kvůli svým **třem manželstvím**. Ve středověku určovala pravidla manželství církev, a král se jimi musel řídit stejně jako ostatní.
-- **Jindřich I.** se oženil s **Annou Kyjevskou**, princeznou z Kyjevské Rusi. Tím **spojil svůj rod s východní Evropou**. Sňatky byly pro panovníky způsob, jak získat spojence.
-- **Ludvík VII.** se zúčastnil **křížové výpravy**. To byla výprava křesťanských rytířů do Svaté země, kde žil Ježíš. Jeho **první manželkou** byla slavná **Eleonora Akvitánská** (v sešitě *Eleanora*).
+- <mark>Robert II.</mark>, syn Huga Kapeta. Dostal se do **konfliktu s církví** kvůli svým **třem manželstvím**. Ve středověku určovala pravidla manželství církev, a král se jimi musel řídit stejně jako ostatní.
+- <mark>Jindřich I.</mark> se oženil s **Annou Kyjevskou**, princeznou z Kyjevské Rusi. Tím **spojil svůj rod s východní Evropou**. Sňatky byly pro panovníky způsob, jak získat spojence.
+- <mark>Ludvík VII.</mark> se zúčastnil **křížové výpravy**. To byla výprava křesťanských rytířů do Svaté země, kde žil Ježíš. Jeho **první manželkou** byla slavná <mark>Eleonora Akvitánská</mark> (v sešitě *Eleanora*).
 
 ![Vlevo svatba Eleonory a Ludvíka VII., vpravo Ludvík VII. s družinou vyjíždí na křižáckou výpravu](../docs/assets/ilustrace/svatba-eleonory.jpg)
 

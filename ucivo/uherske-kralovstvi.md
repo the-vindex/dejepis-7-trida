@@ -8,7 +8,7 @@
 
 **Maďaři** (česky také **Uhři**) byli původně **kočovníci z asijských stepí**. Kočovníci nemají stálé domovy, putují se stády z místa na místo. Maďaři podnikali **nájezdy po celé Evropě**: přepadli kraj, vyloupili ho a odjeli.
 
-Kníže **Arpád**, zakladatel dynastie **Arpádovců**, **sjednotil** kočovné maďarské kmeny. Na počátku **10. století** Maďaři vtrhli na **Velkou Moravu** a **rozvrátili ji**.
+Kníže <mark>Arpád</mark>, zakladatel dynastie <mark>Arpádovců</mark>, **sjednotil** kočovné maďarské kmeny. Na počátku **10. století** Maďaři vtrhli na **Velkou Moravu** a **rozvrátili ji**.
 
 **Proč je to důležité:** Maďaři zničili **Velkou Moravu**, první velký stát západních Slovanů. Od té doby byli přímými sousedy Čechů.
 
@@ -18,7 +18,7 @@ Roku **955** byli Maďaři poraženi v **bitvě na řece Lechu**. Porazil je **O
 
 **Proč je to důležité:** bitva na Lechu **ukončila maďarské nájezdy** na Evropu. Z kočovníků se stali usedlí lidé se svým vlastním státem.
 
-**Prvním králem** se stal **Štěpán I. Svatý** z dynastie Arpádovců. Korunován byl roku **1000**. Přídomek *Svatý* má proto, že ho církev později prohlásila za svatého.
+**Prvním králem** se stal <mark>Štěpán I. Svatý</mark> z dynastie Arpádovců. Korunován byl roku **1000**. Přídomek *Svatý* má proto, že ho církev později prohlásila za svatého.
 
 ![Svatoštěpánská koruna](../docs/assets/ilustrace/svatostepanska-koruna.jpg)
 
@@ -29,9 +29,9 @@ Po Štěpánovi je pojmenována **uherská královská koruna**, **Svatoštěpá
 ![Ondřej II.](../docs/assets/ilustrace/ondrej-ii.jpg)
 ![Béla IV.](../docs/assets/ilustrace/bela-iv.jpg)
 
-- **Ondřej II.** vydal roku **1222** **Zlatou bulu**. Bula je důležitá listina se zlatou pečetí.
-- **Béla IV.** dokázal **obnovit říši po ničivém vpádu Mongolů**. Mongolové byli kočovníci z Asie, kteří Uhry vyplenili. Béla zemi znovu postavil na nohy.
-- **Posledním králem** z rodu byl **Ondřej III.** Jeho smrtí roku **1301** dynastie Arpádovců **vymřela po meči**. *Po meči* znamená, že nezůstal žádný syn ani jiný mužský potomek, který by mohl vládnout.
+- **Ondřej II.** vydal roku **1222** <mark>Zlatou bulu</mark>. Bula je důležitá listina se zlatou pečetí.
+- <mark>Béla IV.</mark> dokázal **obnovit říši po ničivém vpádu Mongolů**. Mongolové byli kočovníci z Asie, kteří Uhry vyplenili. Béla zemi znovu postavil na nohy.
+- **Posledním králem** z rodu byl <mark>Ondřej III.</mark> Jeho smrtí roku **1301** dynastie Arpádovců **vymřela po meči**. *Po meči* znamená, že nezůstal žádný syn ani jiný mužský potomek, který by mohl vládnout.
 
 ## Zapamatuj si
 

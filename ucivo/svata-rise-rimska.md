@@ -1,6 +1,6 @@
 # Svatá říše římská
 
-> **Ve zkratce:** Z východní části Franské říše vznikla roku 962 Svatá říše římská. České země k ní patřily, ale měly vlastní panovníky a od roku 1212 dědičné krále.
+> **Ve zkratce:** Z východní části Franské říše vznikla roku 962 Svatá říše římská, když byl Ota I. korunován císařem. Krále volili kurfiřti, české knížectví bylo součástí říše. Říše zanikla až roku 1806 pod tlakem Napoleona.
 
 ## Vznik říše
 
@@ -18,60 +18,94 @@ Všechny barevné části mapy dohromady tvořily **Franskou říši** Karla Vel
 
 **Červeně** je vyznačena **Svatá říše římská** kolem roku **962**: celý východní díl (Ludvík Němec), k tomu sever Lotharova dílu (**Lotrinsko**) a **severní Itálie**. Patřilo k ní i **České knížectví** (čárkovaně).
 
+## Jindřich I. Ptáčník
+
 ![Jindřich I. Ptáčník (919–936)](../docs/assets/ilustrace/jindrich-ptacnik.jpg)
+
+Na počátku **10. století** ve **Východofranské říši** **vymřel rod Karlovců**. Říše se pak **rozpadla na několik samostatných knížectví a vévodství**: každý kraj měl svého vévodu a nikdo nad nimi nevládl.
+
+Roku **919** si místní šlechta zvolila za svého <mark>krále</mark> saského vévodu <mark>Jindřicha Ptáčníka</mark>. **Proč je to důležité:** král už nebyl Karlovec, ale **zvolený** šlechtou. Volba krále pak v říši zůstala natrvalo (viz kurfiřti níže).
+
+Jindřichovi se podařilo **porazit Maďary** a **uzavřít s nimi příměří**. Roku **929** **vtrhl do Čech** a donutil knížete **Václava** (svatého Václava) platit **poplatek za mír**, tzv. <mark>tribut míru</mark>. Václav tedy každý rok platil, a Jindřich za to Čechy nenapadal. **Proč je to důležité:** od té doby byly Čechy na říši **závislé**.
+
+## Ota I. Veliký a vznik Svaté říše římské
+
 ![Ota I. Veliký (936–973)](../docs/assets/ilustrace/ota-veliky.jpg)
 
-Po rozdělení Franské říše roku **843** se její východní část vyvíjela jako **Východofranská říše**. V 10. století se zde prosadili panovníci z **Otonské (Liudolfovské) dynastie**.
+Po otci Jindřichovi nastoupil na trůn <mark>Ota I.</mark> **Veliký**. Roku **955** **definitivně porazil Maďary** v **bitvě na řece Lechu**. **Vojenskou pomoc** mu v bitvě poskytl český kníže **Boleslav I.** Po této porážce Maďaři s nájezdy přestali (téma Uherské království).
 
-- **Jindřich I. Ptáčník (919–936)** upevnil královskou moc a bojoval s Maďary i slovanskými sousedy.
-- Jeho syn **Ota I. Veliký** se stal králem roku **936**.
-- Roku **955** zvítězil Ota I. nad Maďary v **bitvě na řece Lechu**.
-- Roku **962** byl Ota I. v Římě korunován **císařem**. Tento rok je tradičním mezníkem vzniku **Svaté říše římské**.
+Otovi se podařilo **obnovit císařství**: navázal na Karla Velikého, který byl korunován císařem roku 800. Roku **962** byl Ota **korunován císařem**, a tak vznikla <mark>Svatá říše římská</mark>. *Římská* proto, že měla navazovat na starou Římskou říši, a *svatá*, protože císaře korunoval papež.
 
-## České země a říše
-
-České knížectví bylo s římskoněmeckými panovníky provázáno politicky i mocensky, zároveň mělo vlastní vládnoucí dynastii a velkou míru vnitřní autonomie. **Vratislav II.** získal roku **1085** královský titul (korunován **1086**), ale jen pro svou osobu. **Roku 1212** potvrdila **Zlatá bula sicilská** dědičný český královský titul.
-
-## Kdo byli kurfiřti?
+## Kurfiřti: kdo volil krále
 
 ![Říšská koruna císařů Svaté říše římské](../docs/assets/ilustrace/cisarska-koruna.jpg)
 
-**Kurfiřti** byli říšští knížata oprávněná volit **římského krále**. Tradičních **sedm kurfiřtů** tvořili tři duchovní a čtyři světští:
+<mark>Král Svaté říše římské</mark> se nedědil, ale byl **volen**. Volili ho <mark>říšští kurfiřti</mark> (*kurfiřt* = kníže volitel). <mark>Kurfiřti volí římského krále a je jich 7</mark>: tři duchovní a čtyři světští.
 
 | Duchovní | Světští |
 |---|---|
-| Arcibiskup mohučský | Český král |
+| Arcibiskup mohučský | Král český |
 | Arcibiskup kolínský | Falckrabě rýnský |
 | Arcibiskup trevírský | Vévoda saský |
 |  | Markrabě braniborský |
 
-Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**. Je třeba rozlišovat **volbu římského krále** a **císařskou korunovaci**: ve středověku to nebylo automaticky totéž.
+**Proč je to důležité:** **český král** byl jedním ze sedmi kurfiřtů, a měl tedy v říši velký vliv.
 
-## Dynastie a spor o investituru
+<mark>Korunování</mark> mělo **dva kroky**:
 
-Po Otonech vládla v říši nová panovnická rodina, **Sálovci**. Jeden z nich, císař **Jindřich IV.**, se přel s papežem o to, **kdo bude vybírat biskupy**. Tomu se říká **spor o investituru**. Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky – kdo je vybíral, měl velkou moc.
+1. Zvolený **římský král** byl korunován v některé německé katedrále, většinou v **Cáchách** nebo ve **Frankfurtu nad Mohanem**.
+2. Pak jel do **Říma**, kde ho **korunovali císařem**.
 
-**Zapamatuj si:** Císař a papež se hádali, kdo bude vybírat biskupy, protože biskupové měli velkou moc a majetek.
+Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**.
+
+## České země a říše
+
+**České knížectví** se stalo **součástí Svaté říše římské** na počátku **11. století**. Mělo ale vlastní panovníky z rodu Přemyslovců.
+
+**Prvním českým panovníkem, který se stal římským císařem, byl Karel IV.**
+
+**Vratislav II.** získal roku **1085** královský titul (korunován **1086**), ale jen pro svou osobu. **Roku 1212** potvrdila **Zlatá bula sicilská** dědičný český královský titul.
+
+## Otoni a Sálovci
+
+Rod <mark>Oty</mark> I. se nazývá <mark>otonská dynastie</mark>. Po Otovi vládli jeho potomci: **Ota II.**, **Ota III.** a **Jindřich II.** Pak otonská dynastie **vymřela v mužské linii** (nezůstal žádný syn).
+
+Na trůn se pak dostala <mark>sálská dynastie</mark>. Byla to **volba**, ale zvolili Sálovce **díky příbuzenství v ženské linii**: byli s Otony příbuzní přes ženy.
+
+- Císař **Jindřich III. Černý** se utkal s českým knížetem **Břetislavem I.**
+- Jeho syn **Jindřich IV.** se proslavil hlavně **bojem o investituru** s papežem **Řehořem VII.** a slavnou **pokornou cestou do Canossy**.
+
+**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění.
 
 Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich byl **Fridrich I. Barbarossa**.
 
 ### Pro zajímavost
 
-- **Kdo s kým:** císař Jindřich IV. proti papeži Řehořovi VII.
-- **Proč to císař chtěl:** potřeboval, aby biskupové byli jeho lidé a poslouchali ho.
-- **Proč to papež nechtěl:** chtěl, aby si biskupy vybírala sama církev, a ne císař.
-- **Klatba:** papež vyloučil císaře z církve. Šlechtici pak přestali císaře poslouchat.
-- **Canossa:** císař musel ustoupit. Šel za papežem na hrad Canossa a tři dny stál bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
-- **Jak to dopadlo:** ve **Wormském konkordátu** se dohodli napůl – biskupa vybírá církev, ale půdu mu dává císař.
-- **Barbarossa** znamená „Rudovous“ – měl zrzavé vousy.
+- **Tři dny ve sněhu:** v Canosse stál císař tři dny bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
+- **Jak to dopadlo:** ve **Wormském konkordátu** se dohodli napůl: biskupa vybírá církev, ale půdu mu dává císař.
+- **Barbarossa** znamená „Rudovous“, měl zrzavé vousy.
+
+## Zánik říše
+
+Svatá říše římská **zanikla roku 1806** pod tlakem francouzského císaře **Napoleona Bonaparta**. Trvala tedy přes **800 let** (962–1806).
+
+Posledním panovníkem byl <mark>František II.</mark> Už od roku **1804** používal i titul **císaře rakouského** pod jménem **František I.** **Proč:** věděl, že Svatá říše římská může zaniknout, a chtěl zůstat císařem i potom. Proto má dvě čísla: v Svaté říši římské byl Druhý, v Rakousku První.
+
+## Zapamatuj si
+
+**919 Jindřich Ptáčník zvolen králem → 929 Václav platí tribut míru → 955 Ota I. poráží Maďary na Lechu (s pomocí Boleslava I.) → 962 Ota I. císařem = Svatá říše římská → krále volí 7 kurfiřtů, císařem ho korunují v Římě → Otoni → Sálovci (Jindřich IV., investitura, Canossa) → 1806 zánik pod tlakem Napoleona, poslední František II.**
 
 ## Paměťový obraz
 
-- **Řeka, koruna a sedm voličů:** Ota I. poráží Maďary na Lechu roku 955, získává císařskou korunu roku 962; později sedm kurfiřtů volí římského krále.
+- **Ptáčník u sítě:** Jindřich zvolený šlechtou roku 919.
+- **Václav s měšcem:** roku 929 platí Jindřichovi tribut míru.
+- **Řeka, koruna a sedm voličů:** Ota I. a Boleslav I. porážejí Maďary na Lechu 955, Ota získává císařskou korunu 962; sedm kurfiřtů volí římského krále.
+- **Bosý císař ve sněhu:** Jindřich IV. jde do Canossy za papežem Řehořem VII.
+- **Napoleon zhasíná svíčku:** 1806 konec říše, František II. si nasadí rakouskou korunu jako František I.
 
 ### Pozor na častou chybu
 
-**Sedm kurfiřtů v pevně kodifikované podobě patří až do 14. století**. Nejde o součást založení říše roku 962. A kurfiřti primárně volili **římského krále**, nikoliv vždy přímo císaře.
+**Římský král** a **císař** nejsou totéž: kurfiřti volili krále, císařem se stal až korunovací v Římě. **Sedm kurfiřtů v pevně kodifikované podobě patří až do 14. století**, ne k založení říše roku 962.
 
 ## Zápis ze sešitu
 

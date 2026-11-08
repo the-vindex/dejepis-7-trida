@@ -2,12 +2,18 @@
 
 ![Fotografie sešitu](../fotografie/sesit-05.jpg)
 
-## Přepis obsahových bodů
-- **Svatá říše římská** navazovala na východní část Franské říše.
-- **Jindřich I. Ptáčník (919–936)** – upevňování moci, boj s Maďary a slovanskými kmeny.
-- **Ota I. Veliký (936–973)** – Jindřichův syn, po vítězství nad Maďary u řeky **Lechu roku 955** upevnil svou moc.
-- **962** – Ota I. korunován císařem; tradiční datum vzniku Svaté říše římské.
-- V poznámkách také české knížectví, jeho vztah k císaři a domácí panovnická moc.
+Čitelná rekonstrukce rukopisu, ne doslovný OCR výstup. Podtržené pasáže jsou **tučně**, přeškrtnutý začátek věty je vynechán.
 
-## Historická poznámka
-Termín Svatá říše římská se pro útvar založený v roce 962 používá zpětně; vlastní název se vyvíjel. České země si zachovávaly značnou vnitřní samostatnost.
+> **Svatá říše římská**
+>
+> Na počátku 10. stol. ve Východofranské říši vymřel rod Karlovců a říše se rozpadla na několik samostatných knížectví a vévodství. V roce 919 si místní šlechta zvolila za svého **krále** saského vévodu **Jindřicha Ptáčníka**.
+>
+> Jindřichu Ptáčníkovi se podařilo porazit Maďary a uzavřít s nimi příměří. Roku 929 vtrhl do Čech a donutil knížete Václava platit poplatek za mír = tzv. **tribut míru**.
+>
+> Po otci Jindřichovi nastoupil na trůn **Ota I.** Veliký, definitivně v roce 955 porazil Maďary v bitvě na řece Lechu (vojenskou pomoc v bitvě mu poskytl kníže Boleslav I.). Podařilo se mu obnovit císařství, roku 962 byl korunován císařem, vznikla tak **Svatá říše římská**.
+>
+> **Král Svaté říše římské** byl volen voliteli, tzv. **říšskými kurfiřty**, poté římský král na samotné **korunování** jezdil do Říma, kde jej korunovali císařem.
+
+*Nalepené obrázky s tištěnými popisky: Heinrich der Erste 919–936 (Jindřich I.); Otto der Große 936–973 (Ota I. Veliký, šipka s popiskem „Otík“).*
+
+Výklad: [Svatá říše římská](../../ucivo/svata-rise-rimska.md).

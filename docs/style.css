@@ -3,6 +3,7 @@
   --paper: #F3F5FA;
   --card: #FFFFFF;
   --ink: #1E2A5A;
+  --mark: #FFE27A;
   --muted: #59617F;
   --rule: #D8DDEA;
   --rise: #9C6A0E;  /* Frankové a Svatá říše: crown gold */
@@ -31,6 +32,9 @@ h3 { font-size: 1.25rem; font-weight: 700; margin: 1.8rem 0 .5rem; }
 p { margin: 0 0 1rem; }
 img { max-width: 100%; display: block; }
 .hint { color: var(--muted); font-size: 1rem; }
+/* underlined in the notebook: a highlighter stroke, distinct from plain bold */
+mark { color: inherit; font-weight: 700; background: linear-gradient(transparent 38%, var(--mark) 38%, var(--mark) 94%, transparent 94%); padding: 0 .12em; }
+.hint mark { font-weight: 500; }
 
 /* header + footer */
 .top { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; padding: .9rem max(16px, calc((100vw - 960px) / 2)); background: var(--card); border-bottom: 1px solid var(--rule); }
