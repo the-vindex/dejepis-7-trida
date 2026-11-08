@@ -313,6 +313,92 @@ Po Štěpánovi je pojmenována **uherská královská koruna**, **Svatoštěpá
 
 Neplést si **tři zlaté buly**: **1212 Zlatá bula sicilská** (dědičný královský titul pro Čechy), **1222 Zlatá bula** Ondřeje II. (Uhry) a **1356 Zlatá bula Karla IV.** (volba římského krále).
 
+## Francie
+
+> **Ve zkratce:** Francouzské království vzniklo ze západofranské říše. Roku 987 se po vymření Karlovců ujal vlády Hugo Kapet a založil dynastii Kapetovců, ve které se královský trůn dědil.
+
+### Hugo Kapet a vznik Francie
+
+**Francouzské království** vzniklo na části území **západofranské říše**. To je západní díl, který Franská říše dostala při rozdělení roku 843 (téma Franská říše).
+
+V západofranské říši vládli **Karlovci**, potomci Karla Velikého. Když jejich rod **vymřel**, ujal se roku **987** vlády vévoda **Hugo Kapet**. Stal se **zakladatelem rodu Kapetovců**. Vznikl nový stát, **Francie**, s centrem v **Paříži**.
+
+### Proč je Hugo Kapet důležitý
+
+Korunovace Huga Kapeta **ukončila období volených králů** Franské říše. Od té doby **dědili** trůn králové z dynastie **Kapetovců**, vždy z otce na syna.
+
+**Proč je to důležité:** když se král volí, šlechtici se o trůn hádají a po každé smrti krále hrozí boje. Když se trůn dědí, je předem jasné, kdo bude vládnout, a země je klidnější a silnější. Kapetovci vládli Francii **velmi dlouho**: jejich vláda skončila až **francouzskou revolucí**, mnoho staletí po Hugovi.
+
+### Další Kapetovci
+
+K dalším francouzským králům raného a vrcholného středověku patřili:
+
+- **Robert II.**, syn Huga Kapeta. Dostal se do **konfliktu s církví** kvůli svým **třem manželstvím**. Ve středověku určovala pravidla manželství církev, a král se jimi musel řídit stejně jako ostatní.
+- **Jindřich I.** se oženil s **Annou Kyjevskou**, princeznou z Kyjevské Rusi. Tím **spojil svůj rod s východní Evropou**. Sňatky byly pro panovníky způsob, jak získat spojence.
+- **Ludvík VII.** se zúčastnil **křížové výpravy**. To byla výprava křesťanských rytířů do Svaté země, kde žil Ježíš. Jeho **první manželkou** byla slavná **Eleonora Akvitánská** (v sešitě *Eleanora*).
+
+### Zapamatuj si
+
+**Západofranská říše → 987 vymřeli Karlovci → Hugo Kapet, zakladatel Kapetovců, centrum Paříž → konec volených králů, trůn se dědí (až do francouzské revoluce) → Robert II. (3 manželství, spor s církví), Jindřich I. (Anna Kyjevská), Ludvík VII. (křížová výprava, Eleonora Akvitánská).**
+
+### Paměťový obraz
+
+- **Kapuce na hlavě krále:** Hugo *Kapet* si nasadí korunu roku 987 v Paříži; koruna se pak dědí z otce na syna.
+- **Tři nevěsty a zamračený biskup:** Robert II. a spor s církví.
+- **Nevěsta z daleké Rusi:** Jindřich I. a Anna Kyjevská.
+- **Svatba a loď:** Ludvík VII. si bere Eleonoru a odplouvá na křížovou výpravu.
+
+#### Ověření proti zápiskům
+
+Hugo Kapet byl roku 987 na trůn **ještě zvolen** šlechtou. Dědičnost zajistil tím, že nechal hned korunovat i svého syna Roberta. Hlavní rod Kapetovců později vymřel a vládly jeho **vedlejší větve** (Valois, Bourboni). Proto sešit říká, že dynastie skončila až francouzskou revolucí.
+
+## Anglie
+
+> **Ve zkratce:** Na Britské ostrovy přišli v 5. století Anglové a Sasové. Alfréd Veliký porazil Vikingy a sjednotil Anglii. Roku 1066 vyhrál normandský vévoda Vilém I. Dobyvatel bitvu u Hastingsu a stal se anglickým králem.
+
+### Anglosasové a Vikingové
+
+Během **stěhování národů** pronikly v **5. století** na **Britské ostrovy** **germánské kmeny**. Nejznámější byli **Anglové** a **Sasové**, proto se jim říká **Anglosasové**. Podle Anglů dostala jméno celá země, **Anglie**.
+
+Od **8. století** podnikali na Britské ostrovy **válečné výpravy Vikingové**, mořeplavci ze Severu. Část území **osídlili** a jejich nadvláda trvala **téměř dvě století**.
+
+Na konci **9. století** Vikingy porazil **Alfréd Veliký**. **Sjednotil anglosaské kmeny**, vytvořil **jednotný stát Anglii** a stal se jejím **králem**.
+
+**Proč je to důležité:** dokud byly kmeny rozdělené, Vikingové je snadno porazili jeden po druhém. Spojené pod jedním králem se dokázaly ubránit. Proto má Alfréd přídomek *Veliký*.
+
+### Rok 1066: Vilém Dobyvatel
+
+Posledním králem **anglosaského původu** z rodu **Wessexů** byl **Eduard Vyznavač**. Zemřel **bez dětí**, takže nebylo jasné, kdo po něm zdědí trůn.
+
+Roku **1066** proto vypukly **boje o uvolněný trůn**. **Normandský vévoda Vilém I.** se svým vojskem připlul na Britské ostrovy a porazil Anglosasy v **bitvě u Hastingsu**. Stal se novým anglickým králem a spojil **Normandii** (kraj na severu Francie) s Anglií. Do dějin se zapsal jako **Vilém I. Dobyvatel**.
+
+**Proč je to důležité:** v Anglii začali vládnout **Normané** a vznikl spor, který trval velmi dlouho (viz níže). Rok 1066 je jeden z nejznámějších letopočtů anglických dějin.
+
+### Proč se Anglie a Francie přely
+
+Po spojení Normandie s Anglií nastaly **dlouhodobé spory mezi Anglií a Francií**. Anglický král totiž měl dvě role:
+
+- **v Anglii** byl **svrchovaným panovníkem**, nad ním nebyl nikdo,
+- **ve Francii** byl jako **normandský vévoda** **vazalem francouzského krále**.
+
+**Vazal** je ten, kdo dostal od svého pána půdu a musí mu za ni sloužit a poslouchat ho. Anglický král tedy musel poslouchat francouzského krále. To se mu nelíbilo, a proto spolu oba státy dlouho bojovaly.
+
+### Zapamatuj si
+
+**5. století Anglové a Sasové → od 8. století Vikingové → konec 9. století Alfréd Veliký porazil Vikingy a sjednotil Anglii → Eduard Vyznavač zemřel bez dětí → 1066 Vilém I. Dobyvatel vyhrál u Hastingsu → anglický král = vazal francouzského krále → spory Anglie a Francie.**
+
+### Paměťový obraz
+
+- **Andělé a saská dýka:** *Anglové* a *Sasové* připlouvají v 5. století.
+- **Vikingská loď s dračí hlavou:** Vikingové od 8. století, Alfréd Veliký je odráží.
+- **Zpovědník u prázdné kolébky:** Eduard Vyznavač zemřel bez dětí.
+- **Rytíři na pláži u Hastingsu 1066:** Vilém Dobyvatel přeplouvá z Normandie.
+- **Král se dvěma korunami, jednou se klaní:** v Anglii vládne, ve Francii poslouchá jako vazal.
+
+#### Ověření proti zápiskům
+
+Sešit píše **Eduard III. Vyznavač**. Obvykle se mu říká jen **Eduard Vyznavač**, bez čísla. *Eduard III.* je jiný, mnohem pozdější anglický král, tak ať se to neplete. Alfréd Veliký vládl Anglosasům, část země ale Vikingům zůstala. Celou Anglii pod jednoho krále spojili až jeho nástupci.
+
 ## Velké schizma – 1054
 
 > **Ve zkratce:** Roku 1054 se křesťanská církev rozešla na západní, římskokatolickou, a východní, pravoslavnou. Spory mezi Římem a Konstantinopolí ale trvaly už staletí předtím.
@@ -382,7 +468,7 @@ Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření
 
 Událost může patřit do dvou linií i dvou témat (oddělené čárkou); první téma je hlavní.
 
-Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země, **sousedé** = Polsko a Uhry.
+Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a církev, **islám** = Arabové a islám, **čechy** = České země, **státy** = nové státy Evropy (Polsko, Uhry, Francie, Anglie).
 
 | Rok | Událost | Linie | Kapitola |
 |---|---|---|---|
@@ -395,16 +481,18 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
 | 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
 | 919 | Jindřich I. Ptáčník východofranským králem | říše | svata-rise-rimska |
-| 955 | Ota I. poráží Maďary na řece Lech; Maďaři se usazují v Podunají | říše, sousedé | svata-rise-rimska, uherske-kralovstvi |
+| 955 | Ota I. poráží Maďary na řece Lech; Maďaři se usazují v Podunají | říše, státy | svata-rise-rimska, uherske-kralovstvi |
 | 962 | Ota I. korunován císařem: vzniká Svatá říše římská | říše | svata-rise-rimska |
-| 1000 | Štěpán I. Svatý korunován prvním uherským králem | sousedé | uherske-kralovstvi |
-| 1004 | Boleslav Chrabrý poražen a vyhnán z Čech | sousedé, čechy | polsky-stat |
-| 1025 | Boleslav Chrabrý korunován prvním polským králem | sousedé | polsky-stat |
+| 987 | Hugo Kapet králem: vznik Francie, začíná vláda Kapetovců | státy | francie |
+| 1000 | Štěpán I. Svatý korunován prvním uherským králem | státy | uherske-kralovstvi |
+| 1004 | Boleslav Chrabrý poražen a vyhnán z Čech | státy, čechy | polsky-stat |
+| 1025 | Boleslav Chrabrý korunován prvním polským králem | státy | polsky-stat |
 | 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma, byzantska-rise |
+| 1066 | Vilém I. Dobyvatel vítězí u Hastingsu a stává se anglickým králem | státy | anglie |
 | 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
 | 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
-| 1222 | Ondřej II. vydává Zlatou bulu uherskou | sousedé | uherske-kralovstvi |
-| 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | sousedé | uherske-kralovstvi |
+| 1222 | Ondřej II. vydává Zlatou bulu uherskou | státy | uherske-kralovstvi |
+| 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | státy | uherske-kralovstvi |
 | 1356 | Zlatá bula Karla IV. určuje sedm kurfiřtů | čechy | svata-rise-rimska |
 | 1453 | Osmané dobývají Konstantinopol; konec Byzance | byzanc | byzantska-rise |
 
@@ -495,6 +583,34 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 10. Co znamená, že rod „vymřel po meči“? — **Nezůstal žádný mužský potomek, který by mohl vládnout.**
 11. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 Ondřeje II. (uherská), 1356 Karla IV.**
 12. Proč byla důležitá bitva na řece Lechu roku 955 pro Maďary? — **Skončily jejich nájezdy, usadili se v Podunajské nížině a založili vlastní stát.**
+
+### Francie
+
+1. Na jakém území vzniklo Francouzské království? — **Na části území západofranské říše.**
+2. Kdo se ujal vlády roku 987 a proč? — **Vévoda Hugo Kapet, protože vymřeli Karlovci.**
+3. Jak se jmenuje rod, který Hugo Kapet založil? — **Kapetovci.**
+4. Které město bylo centrem Francie? — **Paříž.**
+5. Co změnila korunovace Huga Kapeta? — **Skončilo období volených králů a trůn se začal dědit.**
+6. Proč bylo dědění trůnu výhodnější než volba krále? — **Bylo jasné, kdo bude vládnout, nehrozily boje o trůn a země byla silnější.**
+7. Kdy skončila vláda Kapetovců? — **Až francouzskou revolucí.**
+8. Proč se Robert II. dostal do sporu s církví? — **Kvůli svým třem manželstvím.**
+9. S kým se oženil Jindřich I. a co tím získal? — **S Annou Kyjevskou; spojil rod s východní Evropou.**
+10. Čeho se zúčastnil Ludvík VII.? — **Křížové výpravy.**
+11. Kdo byla první manželka Ludvíka VII.? — **Eleonora Akvitánská.**
+
+### Anglie
+
+1. Které germánské kmeny přišly v 5. století na Britské ostrovy? — **Anglové a Sasové.**
+2. Kdo podnikal od 8. století výpravy na Britské ostrovy? — **Vikingové.**
+3. Jak dlouho trvala nadvláda Vikingů? — **Téměř dvě století.**
+4. Kdo porazil Vikingy na konci 9. století a co dokázal? — **Alfréd Veliký; sjednotil anglosaské kmeny a vytvořil jednotný stát Anglii.**
+5. Proč bylo důležité sjednocení anglosaských kmenů? — **Rozdělené kmeny Vikingové snadno porazili, spojené se ubránily.**
+6. Kdo byl posledním anglosaským králem z rodu Wessexů? — **Eduard Vyznavač.**
+7. Proč roku 1066 vypukly boje o trůn? — **Eduard Vyznavač zemřel bez dětí.**
+8. Kdo zvítězil roku 1066 v bitvě u Hastingsu? — **Normandský vévoda Vilém I. Dobyvatel.**
+9. Která území Vilém Dobyvatel spojil? — **Normandii a Britské ostrovy (Anglii).**
+10. Co je vazal? — **Ten, kdo dostal od pána půdu a musí mu za ni sloužit a poslouchat ho.**
+11. Proč vznikly dlouhé spory mezi Anglií a Francií? — **Anglický král byl v Anglii svrchovaným panovníkem, ale ve Francii jako normandský vévoda vazalem francouzského krále.**
 
 ### Velké schizma – 1054
 

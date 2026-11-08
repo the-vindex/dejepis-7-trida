@@ -9,7 +9,7 @@
   --byz: #7A2E6E;   /* Byzanc a církev: porphyry */
   --isl: #12715E;   /* Arabové a islám */
   --cz: #B5352B;    /* České země */
-  --sou: #2F6F9F;   /* Polsko a Uhry: sousedé */
+  --st: #2F6F9F;    /* Nové státy Evropy: Polsko, Uhry, Francie, Anglie */
   --accent: var(--ink);
   --serif: "Alegreya", Georgia, serif;
   --sans: "Alegreya Sans", "Segoe UI", system-ui, sans-serif;
@@ -18,7 +18,7 @@
 .byz, .lane-byz, [data-lane="byz"] { --accent: var(--byz); }
 .isl, .lane-isl, [data-lane="isl"] { --accent: var(--isl); }
 .cz, .lane-cz, [data-lane="cz"] { --accent: var(--cz); }
-.sou, .lane-sou, [data-lane="sou"] { --accent: var(--sou); }
+.st, .lane-st, [data-lane="st"] { --accent: var(--st); }
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -65,7 +65,7 @@ main { max-width: 960px; margin: 0 auto; padding: 2rem 16px 3rem; }
     linear-gradient(var(--byz), var(--byz)) calc(1.5 * var(--l) - 1px) 0 / 2px 100% no-repeat,
     linear-gradient(var(--isl), var(--isl)) calc(2.5 * var(--l) - 1px) 0 / 2px 100% no-repeat,
     linear-gradient(var(--cz), var(--cz)) calc(3.5 * var(--l) - 1px) 0 / 2px 100% no-repeat,
-    linear-gradient(var(--sou), var(--sou)) calc(4.5 * var(--l) - 1px) 0 / 2px 100% no-repeat; }
+    linear-gradient(var(--st), var(--st)) calc(4.5 * var(--l) - 1px) 0 / 2px 100% no-repeat; }
 .ev { display: grid; grid-template-columns: var(--y) calc(5 * var(--l)) 1fr; align-items: center; padding: .35rem 0; position: relative; }
 .ev .year { font: 800 1.3rem var(--serif); color: var(--accent); text-align: right; padding-right: .9rem; white-space: nowrap; }
 .ev .lanes { position: relative; height: 14px; }

@@ -86,6 +86,34 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 11. Které tři zlaté buly znáš a z kterých let? — **1212 sicilská, 1222 Ondřeje II. (uherská), 1356 Karla IV.**
 12. Proč byla důležitá bitva na řece Lechu roku 955 pro Maďary? — **Skončily jejich nájezdy, usadili se v Podunajské nížině a založili vlastní stát.**
 
+## Francie
+
+1. Na jakém území vzniklo Francouzské království? — **Na části území západofranské říše.**
+2. Kdo se ujal vlády roku 987 a proč? — **Vévoda Hugo Kapet, protože vymřeli Karlovci.**
+3. Jak se jmenuje rod, který Hugo Kapet založil? — **Kapetovci.**
+4. Které město bylo centrem Francie? — **Paříž.**
+5. Co změnila korunovace Huga Kapeta? — **Skončilo období volených králů a trůn se začal dědit.**
+6. Proč bylo dědění trůnu výhodnější než volba krále? — **Bylo jasné, kdo bude vládnout, nehrozily boje o trůn a země byla silnější.**
+7. Kdy skončila vláda Kapetovců? — **Až francouzskou revolucí.**
+8. Proč se Robert II. dostal do sporu s církví? — **Kvůli svým třem manželstvím.**
+9. S kým se oženil Jindřich I. a co tím získal? — **S Annou Kyjevskou; spojil rod s východní Evropou.**
+10. Čeho se zúčastnil Ludvík VII.? — **Křížové výpravy.**
+11. Kdo byla první manželka Ludvíka VII.? — **Eleonora Akvitánská.**
+
+## Anglie
+
+1. Které germánské kmeny přišly v 5. století na Britské ostrovy? — **Anglové a Sasové.**
+2. Kdo podnikal od 8. století výpravy na Britské ostrovy? — **Vikingové.**
+3. Jak dlouho trvala nadvláda Vikingů? — **Téměř dvě století.**
+4. Kdo porazil Vikingy na konci 9. století a co dokázal? — **Alfréd Veliký; sjednotil anglosaské kmeny a vytvořil jednotný stát Anglii.**
+5. Proč bylo důležité sjednocení anglosaských kmenů? — **Rozdělené kmeny Vikingové snadno porazili, spojené se ubránily.**
+6. Kdo byl posledním anglosaským králem z rodu Wessexů? — **Eduard Vyznavač.**
+7. Proč roku 1066 vypukly boje o trůn? — **Eduard Vyznavač zemřel bez dětí.**
+8. Kdo zvítězil roku 1066 v bitvě u Hastingsu? — **Normandský vévoda Vilém I. Dobyvatel.**
+9. Která území Vilém Dobyvatel spojil? — **Normandii a Britské ostrovy (Anglii).**
+10. Co je vazal? — **Ten, kdo dostal od pána půdu a musí mu za ni sloužit a poslouchat ho.**
+11. Proč vznikly dlouhé spory mezi Anglií a Francií? — **Anglický král byl v Anglii svrchovaným panovníkem, ale ve Francii jako normandský vévoda vazalem francouzského krále.**
+
 ## Velké schizma – 1054
 
 1. Co znamená velké schizma? — **Rozkol západní (římskokatolické) a východní (pravoslavné) církve, tradičně roku 1054.**
