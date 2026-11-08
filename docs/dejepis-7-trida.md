@@ -7,31 +7,49 @@ krátce a česky. Web s obrázky: https://the-vindex.github.io/dejepis-7-trida/
 
 ## Byzantská říše
 
-> **Ve zkratce:** Východní polovina Římské říše přežila pád Západu o tisíc let. Dala Evropě římské právo, chrámy s kopulemi a přes Konstantina a Metoděje i první slovanské písmo.
+> **Ve zkratce:** Byzantská (Východořímská) říše přežila zánik Západořímské říše roku 476 a trvala až do roku 1453. Největší rozkvět zažila za Justiniána I. a z Byzance přišli na Velkou Moravu Konstantin a Metoděj.
 
 ### Pokračování římské říše
 
-Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**. Církev v Konstantinopoli se postupně vzdalovala Římu a roku **1054** se obě strany rozešly: nastalo **velké schizma**.
+**Byzantská říše** (také **Východořímská říše**) **přežila zánik Západořímské říše** v roce **476**. Stala se tak **jedinou pokračovatelkou starořímského impéria**. Hlavním městem byla **Konstantinopol**.
 
-### Justinián I. a právo
+**Proč je to důležité:** na západě Římská říše zanikla, ale na východě její vzdělanost, zákony a umění pokračovaly dalších tisíc let.
 
-V **6. století** zažila říše za císaře **Justiniána I.** velký mocenský a kulturní rozmach. Nechal uspořádat starší římské zákony a právní texty do souboru známého jako **Corpus iuris civilis**. Ten pomohl zachovat římské právo a později ovlivnil evropskou právní tradici. Sešitové „soubor občanských zákonů“ je školní zkratka: nešlo o dnešní občanský zákoník.
+### Justinián I.
 
-### Umění, vzdělanost a Hagia Sofia
+**Největší rozkvět** zažila tato říše v **6. století** za vlády **Justiniána I.** Nařídil **sestavit soubor občanských zákonů**: dal dohromady staré římské zákony.
 
-Byzantské umění poznáš podle **kopulí**, **mozaik** a **ikon**. V Konstantinopoli nechal Justinián postavit velkolepý chrám **Hagia Sofia**, tedy chrám Boží Moudrosti. Byzanc byla důležitým střediskem vzdělanosti a její náboženské i umělecké vlivy pronikaly do dalších zemí.
+**Proč je to důležité:** díky tomu se **římské právo zachovalo** a evropské státy podle něj později tvořily vlastní zákony.
+
+### Byzantský sloh
+
+Justinián budoval **významné stavby**, například chrám **Hagia Sofia** (= **chrám Boží moudrosti**) v hlavním městě **Konstantinopoli**.
+
+Projevem vysoké úrovně umění a vzdělanosti v Byzanci byl **byzantský sloh**. Jeho znaky:
+
+- **stavitelství:** chrámy s **kopulemi**,
+- **malířství:** **mozaiky**, **ikony**, **miniatury**,
+- **písemnictví:** **náboženská literatura**, **kroniky**.
+
+Byzantský sloh se stal **vzorem** především pro země, které přijaly **z Byzance křesťanství**: **Velká Morava**, **Bulharsko**, **Kyjevská Rus**.
+
+Církevní stavby ovlivněné byzantským slohem (obrázky v sešitě): chrám Vasilije Blaženého v Moskvě, chrám sv. Sofie v Kyjevě, palácová kaple v Cáchách (oktogon), chrám San Marco v Benátkách, chrám Hagia Sofia v Konstantinopoli, chrám San Vitale v Ravenně.
 
 ### Konstantin a Metoděj
 
-Z Byzance přišli roku **863** na Velkou Moravu bratři **Konstantin (později Cyril)** a **Metoděj**. Přinesli křesťanské texty ve slovanském jazyce. Konstantin vytvořil pro jejich zápis **hlaholici**. **Cyrilice vznikla později** v prostředí jejich žáků; obrázek v sešitě s popiskem „držící cyrilici“ je tedy zavádějící.
+Říše byla **nositelkou vzdělanosti** a ta byla dále **šířena po Evropě**. V roce **863** přišli **z Byzantské říše** na **Velkou Moravu** učení bratři **Konstantin a Metoděj**.
+
+**Proč je to důležité:** přinesli k nám vzdělanost a křesťanství ve slovanském jazyce, kterému lidé rozuměli.
 
 ### Konec říše
 
-Roku **1453** dobyli Konstantinopol **Osmanští Turci** a Byzantská říše zanikla. Tvrzení, že město bylo přesně tehdy přejmenováno na Istanbul, je nepřesné: pojmenování Istanbul se užívalo už dříve a mezinárodní úřední podoba názvu se ustálila až mnohem později.
+Byzantská říše existovala **do roku 1453**, kdy **Turci dobyli Konstantinopol**. Říše **zanikla** a Konstantinopol byla přejmenována na **Istanbul**.
+
+Souvislost: roku **1054** se církev v Konstantinopoli rozešla s Římem (téma Velké schizma).
 
 ### Zapamatuj si
 
-**476 východní Řím pokračuje → 6. století Justinián, zákony a Hagia Sofia → 863 Konstantin a Metoděj s hlaholicí → 1453 dobytí Konstantinopole.**
+**476 Západořímská říše zaniká, Byzanc pokračuje → 6. století Justinián I.: zákony a Hagia Sofia → byzantský sloh: kopule, mozaiky, ikony → 863 Konstantin a Metoděj na Velké Moravě → 1453 Turci dobyli Konstantinopol, z ní je Istanbul.**
 
 ### Paměťový obraz
 
@@ -45,40 +63,71 @@ Byzanc je pravá věž hradu: začni u rozlomeného sloupu nahoře vlevo a pak j
 | 9 | Kniha s hlaholicí | **863:** Konstantin a Metoděj přicházejí na Velkou Moravu. |
 | 10 | Brána Konstantinopole | **1453:** Osmané město dobývají, Byzanc zaniká. |
 
+#### Ověření proti zápiskům
+
+Popisek obrázku v sešitě „držící **cyrilici**“ je zavádějící: Konstantin vytvořil **hlaholici**, cyrilice vznikla až později u jeho žáků. Jméno **Istanbul** se pro město užívalo postupně, úředně se ustálilo až mnohem později.
+
 ## Franská říše
 
-> **Ve zkratce:** Frankové vybudovali na troskách Západořímské říše největší křesťanský stát západní Evropy. Vrcholu dosáhli za Karla Velikého; jeho vnuci si říši roku 843 rozdělili a z dílů později vyrostla Francie a Německo.
+> **Ve zkratce:** Franskou říši založil Chlodvík I. z rodu Merovejců. Skutečnou moc pak získali majordomové a roku 751 Karlovci sesadili Merovejce. Karel Veliký byl roku 800 korunován císařem; po smrti jeho syna se říše rozdělila na tři části.
 
-### Jak vznikla
+### Chlodvík I. a Merovejci
 
-Po zániku Západořímské říše vznikala v západní Evropě germánská království. **Chlodvík I.** z rodu **Merovejců** sjednotil velkou část Franků a přijal křesťanství. Získal tím podporu církve i části původního římského obyvatelstva.
+Za zakladatele Franské říše je považován **Chlodvík I.** z rodu **Merovejců**. **Sjednotil franské kmeny** a na konci **5. století** se stal **prvním králem Franků**. Nechal se **pokřtít** (obrázek v sešitě).
 
-Pozdější merovejští králové ztráceli moc. Důležití byli **majordomové**, původně správci královského dvora. **Karel Martel** jako majordomus porazil roku **732** vojsko Umajjovského chalífátu u **Poitiers/Tours**. Jeho syn **Pipin Krátký** se roku **751** stal králem: začala vláda **Karlovců**. Přezdívka *Martel* souvisí s kladivem.
+Jeho nástupci byli většinou **slabí vládci**. Jedním z nich byl na počátku 7. století **Dagobert I.**, který **bojoval se Sámovou říší** (Sámova říše byla první známý stát Slovanů, i na našem území).
+
+### Majordomové a Karlovci
+
+Po smrti **Chlodvíka** měli skutečnou moc v říši **královští správci**, tzv. **majordomové**. Král tedy formálně vládl, ale rozhodoval jeho správce.
+
+Nejznámějším z nich byl **Karel Martel**. Roku **732** porazil **Araby** v bitvě u **Poitiers**. V bitvě dostal přezdívku **Kladivo**: *Martel* znamená **kladivo**.
+
+**Proč je to důležité:** Karel Martel zastavil postup Arabů do západní Evropy (souvislost s tématem Arabská říše a islám).
+
+V roce **751** Karlovci **sesadili** **Merovejce** a prvním králem z rodu **Karlovců** se stal **Pipin III. Krátký**, syn Karla Martela.
 
 ### Karel Veliký
 
-Pipinův syn **Karel Veliký** výrazně rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
+Pipin byl otcem nejznámějšího panovníka tohoto rodu, **Karla Velikého**. Roku **800** byl Karel **papežem korunován císařem** římské říše.
 
-Karelův syn **Ludvík Pobožný** vládl po jeho smrti. Jeho synové bojovali o moc a **verdunskou smlouvou roku 843** si říši rozdělili:
+**Proč je to důležité:** po zániku Západořímské říše měl západ Evropy zase **císaře**. Na to později navázala Svatá říše římská.
 
-| Vnuk Karla Velikého | Část říše | Přibližná souvislost s dnešní mapou |
+Karel Veliký **významně rozšířil** Franskou říši. Za jeho vlády došlo k **rozvoji vzdělanosti a kultury**. Toto období označujeme jako **karolinská renesance** (*renesance* = obnova). Zároveň vzniklo nové písmo, **karolinská minuskula**: **malá písmena**, jaká píšeme dodnes.
+
+Karlovým **oblíbeným sídlem** byly **Cáchy**. Je tam i **pohřben**.
+
+Souvislost: Karel udržoval styky s chalífou **Harúnem ar-Rašídem**, který mu poslal **bílého slona** (téma Arabská říše a islám).
+
+#### Pro zajímavost
+
+- **Jak vypadal:** podle rozboru jeho kostí měřil Karel asi **184 cm**, byl tedy vyšší než 99 % lidí své doby. Místo legendárního plnovousu měl nejspíš jen bohatý **knír**.
+- **Rodina:** měl **pět manželek** (nebo čtyři) a odhaduje se, že měl nejméně **18 dětí**. Dcerám **nedovolil vdát se**: podle Einharda je moc miloval, historici ale myslí, že nechtěl mít mocné zetě, kteří by ho mohli ohrozit.
+- **Einhard:** učenec a rádce na Karlově dvoře. Napsal Karlův životopis **Vita Karoli Magni**, ze kterého víme, jaký Karel byl.
+- **Latina a psaní:** Karel se naučil **latinsky** tak dobře jako svou rodnou řečí. **Psaní** mu ale nešlo: tabulky na procvičování písma si prý dával **pod polštář**.
+
+### Vrchnost a poddaní
+
+Ve Franské říši vznikly **dvě skupiny obyvatel**, které pak tvořily většinu středověké společnosti:
+
+- **feudální vrchnost**: **málo početná** skupina **mocných vlastníků velkých pozemků**,
+- **poddaní**: obyvatelé **závislí na vrchnosti**, kteří **obdělávali její půdu**. Pokud byli **osobně nesvobodní**, říkáme jim **nevolníci**.
+
+**Proč je to důležité:** takhle byla společnost uspořádaná po celý středověk (téma Středověká společnost a církev).
+
+### Rozdělení říše
+
+Po smrti Karla Velikého převzal říši jeho syn **Ludvík** **Nábožný (Zbožný)**. Potom nastal **boj o moc** a roku **843** se říše **rozdělila na tři části** mezi Karlovy vnuky:
+
+| Část říše | Vnuk Karla Velikého | Co z ní později vzniklo |
 |---|---|---|
-| **Karel Holý** | západofranská | základ pozdější Francie |
-| **Ludvík Němec** | východofranská | základ pozdějšího Německa |
-| **Lothar I.** | středofranská | pás od Severního moře k severní Itálii |
-
-Hranice a státy nebyly totožné s těmi dnešními. Středofranská část se dále dělila. Na východofranské království později navázala říše Oty I.
-
-### Pojmy ze zápisků
-
-- **Majordomus:** správce královského dvora, který za slabých králů získal skutečnou politickou moc.
-- **Vrchnost:** držitel panství a práv vůči poddaným; vztahy se v různých dobách lišily.
-- **Poddaní:** lidé podléhající vrchnosti. Nelze všechny obyvatele rané Franské říše jednoduše označit za nevolníky.
-- **Karolinská renesance:** obnova vzdělanosti v Karlově říši, nikoli renesance 15. a 16. století.
+| **západofranská** | **Karel II. Holý** | Francie |
+| **východofranská** | **Ludvík II. Němec** | Německo, Svatá říše římská |
+| **středofranská** | **Lothar I.** | pás od Severního moře do Itálie |
 
 ### Zapamatuj si
 
-**Chlodvík sjednocuje a přijímá křest → Martel 732 vítězí u Poitiers → Pipin 751 zakládá královskou vládu Karlovců → Karel Veliký je 800 korunován císařem → vnuci dělí říši 843.**
+**Chlodvík I. (Merovejci) sjednotil Franky → Dagobert I. bojoval se Sámovou říší → majordomové → Karel Martel „Kladivo“ 732 u Poitiers → 751 Karlovci sesadili Merovejce, Pipin Krátký králem → Karel Veliký 800 císařem, karolinská renesance, minuskula, Cáchy → vrchnost a poddaní → Ludvík Nábožný → 843 rozdělení na tři části.**
 
 ### Paměťový obraz
 
@@ -94,72 +143,68 @@ Projdi v duchu levou věž hradu odshora dolů a u každé zastávky řekni, co 
 
 #### Opravy z poznámek
 
-Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté. Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
+Sešit píše, že Karel Martel „založil dynastii Karlovců“. Rod se podle něj opravdu jmenuje, ale **prvním králem** z Karlovců byl až jeho syn **Pipin Krátký** (751). Karel Martel byl majordomus, ne král. Ludvíkovi se v učebnicích říká i **Pobožný**.
 
 ## Arabská říše a islám
 
-> **Ve zkratce:** V 7. století vzniklo v Arábii nové náboženství, islám. Arabové se za sto let rozšířili od Indu po Španělsko a jejich učenci rozvíjeli matematiku, lékařství i astronomii.
+> **Ve zkratce:** V 7. století se sjednotily kočovné arabské kmeny a vzniklo nové náboženství, islám. Arabové vynikali v matematice a dalších vědách, byli zdatní obchodníci a dali nám arabské číslice i mnoho slov.
 
-### Arabský poloostrov a Mohamed
+### Vznik arabské říše a islámu
 
-**Arabský poloostrov** je z velké části poušť. Část Arabů žila jako **kočovníci** (beduíni): putovali s velbloudy a stády od jedné studny ke druhé. Další žili v **obchodních městech**, kudy procházely **karavany** s kořením, látkami a kadidlem. Nejdůležitějším městem byla **Mekka**. Stála v ní svatyně **Kaaba**, kam se lidé chodili klanět mnoha bohům, a z poutníků měli místní obchodníci velké zisky.
+V **7. století** došlo ke **sjednocení kočovných arabských kmenů**, tzv. **beduínů**. Beduíni byli **tradiční pastevci velbloudů, koz a ovcí** a putovali se stády pouští. Na **Arabském poloostrově** tak vznikl **nový stát** a také **nové náboženství**, **islám**.
 
-V **7. století** začal v Mekce kázat obchodník **Mohamed (Muhammad)**. Podle muslimů mu Bůh skrze anděla **Gabriela** sděloval svá slova. Mohamed učil, že existuje **jen jeden Bůh** (arabsky **Alláh**). Taková víra v jednoho Boha se nazývá **monoteismus**, stejně jako u židů a křesťanů. Nové náboženství se jmenuje **islám** (znamená „odevzdání se Bohu“) a jeho vyznavači jsou **muslimové**. Slova, která Mohamed hlásal, byla sepsána do posvátné knihy **Koránu**.
+**Zakladatelem islámu** byl **Muhammad (Mohamed)**. Působil jako **obchodník** a hodně cestoval. V roce **622** musel odejít z **Mekky** do **Medíny**. Později byl tento rok vyhlášen jako **počátek letopočtu** podle **muslimského kalendáře**: pro muslimy je to „rok 1“.
 
-Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, později se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Po jeho smrti vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
+Posvátnou knihou islámu je **Korán** (obrázek v sešitě).
 
-### Pět pilířů islámu
+Muslimskou svatyní je **mešita**. Štíhlá věž u ní se jmenuje **minaret**.
 
-Každý muslim má plnit pět hlavních povinností:
+### Věda a vzdělanost
 
-1. **vyznání víry**: „Není boha kromě Boha a Mohamed je jeho prorok“,
-2. **modlitba pětkrát denně**, obrácen směrem k Mekce,
-3. **almužna**: pomoc chudým,
-4. **půst v měsíci ramadánu**: od východu do západu slunce se nejí ani nepije,
-5. **pouť do Mekky** aspoň jednou za život, pokud na to má zdraví a peníze.
+Arabové **vynikali v mnoha oborech**:
 
-### Arabská expanze
+- **matematika**: dodnes používáme **arabské číslice**, které Arabové převzali z **Indie**,
+- **fyzika**,
+- **astronomie**,
+- **zeměpis**,
+- **lékařství**,
+- **stavitelství**.
 
-<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_expansion_of_Caliphate.svg) – DieBuche, volné dílo; doplněny české popisky.</p>
+**Proč je to důležité:** s arabskými číslicemi se počítá mnohem snáz než s římskými (zkus vynásobit XLVII krát XIII). Proto se jimi počítá dodnes po celém světě.
 
-Za necelých sto let po Mohamedově smrti ovládli Arabové obrovské území **od řeky Indus po Španělsko**. Rozšířili se tak rychle ze dvou důvodů: islám spojil dříve znesvářené arabské kmeny, a sousední **Byzantská** a **Perská říše** byly vyčerpané dlouhými válkami mezi sebou.
+### Obchod a arabská slova
 
-- Hlavním městem se nejdřív stal **Damašek** (dnešní Sýrie).
-- Arabové se přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli ještě mnoho staletí.
-- **Roku 732** porazil franský vojevůdce **Karel Martel** muslimské vojsko v bitvě u **Tours/Poitiers** a zastavil jejich postup do Francie. Přezdívalo se mu **„Kladivo“**.
-- Později se hlavním městem stal nově založený **Bagdád** (dnešní Irák).
+Arabové byli také **zdatnými obchodníky**. Do Evropy přivezli například **cukrovou třtinu**, **citrony**, **pomeranče**, **rýži** a **bavlnu**.
 
-### Kultura a vzdělanost
+Arabsky mluvící židovský kupec **Ibráhím ibn Jákúb** v **10. století** navštívil Evropu a zanechal nám **nejstarší dochovaný písemný popis Prahy**.
 
-Muslimové se modlí v **mešitě**. **Minaret** je vysoká věž u mešity, z níž **muezzin** svolává věřící k modlitbě. V mešitách nejsou obrazy lidí ani zvířat, protože islám zakazuje uctívat obrazy. Místo nich se zdobí **ornamenty** z rostlin a geometrických tvarů (**arabesky**) a krásně psaným písmem (**kaligrafií**).
+**Proč je to důležité:** je to nejstarší zpráva o Praze, kterou máme. Díky němu víme, jak Praha v 10. století vypadala.
 
-Arabští učenci rozvíjeli **matematiku, lékařství, astronomii a zeměpis**. Řadu věcí z jejich světa používáme dodnes:
-
-- **arabské číslice** 0–9: Arabové je převzali z **Indie** a přinesli do Evropy, i s **nulou**. Předtím se v Evropě počítalo **římskými číslicemi**, se kterými se špatně násobí a dělí.
-- **algebra**: je to arabské slovo; z arabštiny pochází i **alkohol, káva, cukr** nebo **magazín** (původně „sklad“).
-- **zachování antického vědění**: v Bagdádu učenci **překládali řecké knihy** (například Aristotela) do arabštiny. Evropa mnoho z nich znovu poznala až z těchto překladů.
-- **lékařství**: lékař **Avicenna (Ibn Sína)** napsal knihu o medicíně, podle které se učili lékaři i v Evropě ještě stovky let.
+V češtině najdeme mnoho **slov arabského původu**: **algebra, cifra (číslo), cukr, káva, alkohol, matrace, elixír, citron**.
 
 ### Harún ar-Rašíd
 
-**Harún ar-Rašíd** byl chalífa, který vládl z **Bagdádu** v letech **786–809**. V té době byl Bagdád jedním z největších a nejbohatších měst světa. Harún udržoval přátelské styky s **Karlem Velikým** a poslal mu darem **slona** jménem **Abú al-Abbás**. Takové zvíře v západní Evropě nikdo neviděl.
+Jedním z nejvýznamnějších **chalífů** (vládců arabské říše) byl **Harún ar-Rašíd**. Udržoval **diplomatické styky** se dvorem **Karla Velikého** a poslal mu neobvyklý dar: **bílého slona**.
 
-Harún vystupuje i v pohádkách ze sbírky **Tisíc a jedna noc**. Vypráví je **Šeherezáda**: krutý král se chystal ji popravit, a tak mu každou noc vyprávěla příběh, který přerušila v nejnapínavějším místě. Král chtěl slyšet pokračování, a proto ji nechal žít, až se nakonec rozhodl ji ušetřit. K této sbírce patří i příběhy o **Sindibádovi námořníkovi**, **Aladinovi** a **Ali Babovi**.
+Harún je také častým hrdinou slavné sbírky pohádek a příběhů **Tisíc a jedna noc** (*Pohádky tisíce a jedné noci*), která vznikala od 8. do 16. století. Pohádky v knize vypráví moudrá **Šeherezáda**.
+
+Souvislost: roku **732** porazil Araby franský majordomus **Karel Martel** u **Poitiers** (téma Franská říše).
 
 ### Zapamatuj si
 
-**Mohamed hlásal víru v jednoho Boha → islám, posvátná kniha Korán → 622 hidžra (útěk z Mekky do Medíny) → chalífové → říše od Indu po Španělsko → 732 Poitiers. Arabové předali Evropě číslice s nulou a antické vědění.**
+**7. století: beduíni se sjednotili → nový stát a islám → Muhammad, obchodník → 622 z Mekky do Medíny = začátek muslimského letopočtu → Korán, mešita s minaretem → arabské číslice z Indie, fyzika, astronomie, zeměpis, lékařství, stavitelství → obchod (cukrová třtina, citrony, pomeranče, rýže, bavlna) → Ibráhím ibn Jákúb: nejstarší popis Prahy → Harún ar-Rašíd: bílý slon pro Karla Velikého, Šeherezáda.**
 
 ### Paměťový obraz
 
-- **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
-- **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
-- **Tárikova hora:** Gibraltar, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
-- **Kalkulačka s nulou:** arabské číslice z Indie, algebra, překlady řeckých knih v Bagdádu.
+- **Karavana velbloudů:** beduíni se sjednotí, Muhammad obchodník jede z Mekky do Medíny roku 622.
+- **Kalkulačka s nulou:** arabské číslice z Indie.
+- **Loď plná citronů a cukru:** arabští obchodníci, slova cukr, káva, citron.
+- **Kupec s pergamenem na Pražském hradě:** Ibráhím ibn Jákúb popisuje Prahu.
+- **Bílý slon u Karla Velikého:** Harún ar-Rašíd, Tisíc a jedna noc, Šeherezáda.
 
 #### Ověření proti zápiskům
 
-Rok 622 **není** datum okamžitého vzniku islámu; je to rok hidžry. Náboženství se rozvíjelo již dříve. Datum 732 je spojeno s bitvou u Tours/Poitiers, nikoli se zastavením všech dalších muslimských vojenských akcí v Evropě.
+Rok 622 **není** rok vzniku islámu. Je to rok odchodu Muhammada z Mekky do Medíny (tzv. **hidžra**). Muhammad kázal už předtím.
 
 ## Svatá říše římská
 
@@ -426,68 +471,88 @@ Sešit píše **Eduard III. Vyznavač**. Obvykle se mu říká jen **Eduard Vyzn
 
 ## Velké schizma – 1054
 
-> **Ve zkratce:** Roku 1054 se křesťanská církev rozešla na západní, římskokatolickou, a východní, pravoslavnou. Spory mezi Římem a Konstantinopolí ale trvaly už staletí předtím.
+> **Ve zkratce:** Roku 1054 se křesťanství rozdělilo na západní, římskokatolickou církev s papežem v Římě, a východní, pravoslavnou církev s patriarchou v Konstantinopoli.
 
 ### Co znamená schizma?
 
-**Schizma** znamená rozkol nebo rozdělení. Východní a západní část křesťanského světa se po staletí odlišovaly zvyky, jazykem bohoslužeb a názorem na autoritu papeže.
+**Schizma** znamená **rozkol**, rozdělení. V roce **1054** došlo k rozdělení křesťanství na dvě církve:
 
-**Roku 1054** došlo k výraznému sporu mezi představiteli Říma a Konstantinopole. Datum se tradičně uvádí jako symbol rozdělení mezi **římskokatolickou (západní)** a **pravoslavnou (východní)** církev. Rozdělení bylo **dlouhodobý proces**, ne okamžitá změna všech komunit v jediném roce.
-
-| Západ | Východ |
+| Západní církev | Východní církev |
 |---|---|
-| Řím | Konstantinopol |
-| Papež | Patriarchové, včetně konstantinopolského |
-| Historicky převládala latina | Historicky významná byla řečtina |
-| Katolická tradice | Pravoslavná tradice |
+| **římskokatolická** | **pravoslavná** |
+| v čele **papež** | v čele **patriarcha** |
+| sídlí v **Římě** | sídlí v **Konstantinopoli** |
+| bohoslužby v **latině** | bohoslužby v **řečtině** |
+
+**Proč je to důležité:** obě církve existují **dodnes**. Na západě Evropy (i u nás) převládli katolíci, na východě pravoslavní.
+
+Souvislost: Konstantinopol byla hlavním městem **Byzantské říše** (téma Byzantská říše).
 
 ### Zapamatuj si
 
-**1054 – jeden křesťanský svět se postupně rozděluje na západní a východní církev.**
+**1054: křesťanství se rozdělilo → západ = římskokatolická církev, papež, Řím, latina → východ = pravoslavná církev, patriarcha, Konstantinopol, řečtina.**
 
 ### Paměťový obraz
 
-- **Dvě poloviny kostela:** papež v Římě, patriarcha v Konstantinopoli, rok 1054.
+- **Dvě poloviny kostela:** v levé papež v Římě čte latinsky, v pravé patriarcha v Konstantinopoli řecky; mezi nimi trhlina s číslem 1054.
+
+#### Ověření proti zápiskům
+
+Rok 1054 je **symbolický**. Spory mezi Římem a Konstantinopolí trvaly už dlouho předtím a rozdělení bylo postupné.
 
 ## Středověká společnost a církev
 
-> **Ve zkratce:** Středověká společnost se dělila na ty, kdo se modlí, kdo bojují a kdo pracují. Kláštery nebyly jen místem modlitby, ale i škol, nemocnic a opisování knih.
+> **Ve zkratce:** Středověká společnost se dělila na ty, kdo bojují, kdo se modlí, a kdo pracují. Kláštery byly centry vzdělanosti: mniši v nich psali a opisovali knihy.
 
 ### Tři skupiny společnosti
 
-Středověcí autoři často používali zjednodušený model **tří skupin**:
+Středověkou společnost tvoří **tři** skupiny:
 
-1. **Duchovenstvo** – ti, kteří se modlí.
-2. **Šlechta** – ti, kteří bojují a chrání.
-3. **Pracující obyvatelé**, zejména rolníci – ti, kteří pracují a zajišťují obživu.
+1. **Ti, kteří bojují:** **panovník**, **šlechta**, **rytíři**.
+2. **Ti, kteří se modlí:** **duchovenstvo**.
+3. **Pracující:** **řemeslníci** a **rolníci**.
 
-Skutečná středověká společnost však byla pestřejší. Ve městech žili například **řemeslníci, kupci, obchodníci, nádeníci a služebnictvo**.
+**Proč je to důležité:** každý měl své místo a svůj úkol. Šlechta chránila ostatní bojem, duchovní se za ně modlili a pracující je živili.
+
+Ve městech žili **měšťané**, kteří se živili **obchodem či řemeslem**. Dál tam žila **městská chudina**, **nádeníci** (pracovali za denní mzdu, kde se zrovna dalo) a **služba** (služebnictvo).
 
 ### Duchovenstvo
 
-V západní církvi stál na vrcholu **papež**. Pod ním působili **arcibiskupové, biskupové a kněží**. **Mniši** a **jeptišky** žili v klášterech podle pravidel řádu.
+Duchovenstvo mělo pevné pořadí, od nejvyššího:
 
-### Kláštery
+**papež → kardinálové → arcibiskupové → biskupové → faráři (kněží)**
 
-Kláštery byly místy modlitby, ale také práce, vzdělávání, hospodaření, péče o nemocné a **opisování knih**. Díky tomu se zachovalo mnoho starších textů.
+K duchovenstvu patřili i **řeholníci (mniši)** a **jeptišky**, kteří žili v klášterech.
 
-| Řád | Co si vybavit |
+### Kláštery a řády
+
+**Řeholní řády** zakládaly **kláštery**. V čele mužského kláštera stál **opat**, v čele ženského **abatyše**.
+
+Kláštery byly **centry vzdělanosti**. V **písařských dílnách** mniši buď sami **psali** (například **kroniky**), nebo **opisovali** knihy. **Jeptišky** se staraly o **nemocné**, **sirotky** a lidi bez domova.
+
+**Proč je to důležité:** knihy se tehdy nedaly tisknout, každá se musela opsat ručně. Bez mnichů by se mnoho starých textů nedochovalo a z kronik víme, co se ve středověku dělo.
+
+Nejznámější řády:
+
+| Řád | Jak žili |
 |---|---|
-| Benediktini | Kláštery; modlitba a práce (*ora et labora*) |
-| Cisterciáci | Přísný řeholní život; hospodaření |
-| Premonstráti | Klášterní život a duchovní služba |
-| Františkáni | Dobrovolná chudoba, kázání, pomoc lidem |
-| Dominikáni | Kázání, vzdělání, studium teologie |
-
-**Františkáni a dominikáni** patřili k žebravým řádům a významně působili ve městech.
+| **benediktini, cisterciáci, premonstráti** | tradičně **uzavřeni mimo svět v klášterech** |
+| **františkáni, dominikáni** | tzv. **žebravé řády**: žili **ve městech přímo mezi lidmi**, často s chudinou |
 
 ### Zapamatuj si
 
-**Kněz se modlí, rytíř bojuje, rolník pracuje.** V klášteře mnich nejen žije nábožensky, ale také **opisuje rukopisy**.
+**Bojují: panovník, šlechta, rytíři. Modlí se: duchovenstvo (papež → kardinálové → arcibiskupové → biskupové → faráři; mniši, jeptišky). Pracují: řemeslníci a rolníci. Opat vede mužský klášter, abatyše ženský. Mniši píšou kroniky a opisují knihy. Františkáni a dominikáni = žebravé řády ve městech.**
 
 ### Paměťový obraz
 
-- **Hrad a klášter:** kněz se modlí, rytíř bojuje, rolník pracuje; mnich opisuje knihu.
+- **Hrad, kostel a pole:** rytíř na hradbách bojuje, kněz v kostele se modlí, rolník na poli pracuje.
+- **Žebřík v kostele:** na nejvyšší příčce papež, pod ním kardinál, arcibiskup, biskup a dole farář.
+- **Mnich s brkem:** v písařské dílně opisuje knihu a píše kroniku.
+- **Mnich s miskou na náměstí:** františkán a dominikán žijí mezi lidmi ve městě.
+
+#### Ověření proti zápiskům
+
+Rozdělení na tři skupiny je **zjednodušení**. Ve skutečnosti byla společnost pestřejší, jak ukazují i měšťané, nádeníci a služba ve městech.
 
 ## Časová osa
 
@@ -501,7 +566,6 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
 | 732 | Karel Martel poráží Araby u Poitiers | říše, islám | franska-rise, arabska-rise-a-islam |
 | 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
-| 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám, říše | arabska-rise-a-islam, franska-rise |
 | 800 | Karel Veliký korunován císařem | říše | franska-rise |
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
 | 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
@@ -528,57 +592,73 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 
 ### Byzantská říše
 
-1. Kdy zanikla Západořímská říše a co se stalo s východní částí? — **Roku 476; východní, Byzantská říše pokračovala až do roku 1453.**
-2. Proč je důležitý Justinián? — **Nechal uspořádat římské právo; za jeho vlády vznikla Hagia Sofia.**
-3. Podle čeho poznáš byzantský sloh? — **Kopule, mozaiky a ikony.**
-4. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
-5. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**
-6. Co se stalo roku 1054? — **Velké schizma: církev v Konstantinopoli se rozešla s Římem.**
+1. Jak se jinak říká Byzantské říši? — **Východořímská říše.**
+2. Co se stalo roku 476 a co to znamenalo pro Byzanc? — **Zanikla Západořímská říše; Byzanc přežila a stala se jedinou pokračovatelkou starořímského impéria.**
+3. Kdy zažila Byzanc největší rozkvět a za koho? — **V 6. století za vlády Justiniána I.**
+4. Co nařídil sestavit Justinián I.? — **Soubor občanských zákonů.**
+5. Proč je Justiniánův soubor zákonů důležitý? — **Zachovalo se díky němu římské právo, podle kterého se později řídily evropské státy.**
+6. Jak se jmenuje Justiniánův slavný chrám a co jeho název znamená? — **Hagia Sofia, chrám Boží moudrosti, v Konstantinopoli.**
+7. Jaké jsou znaky byzantského slohu? — **Stavitelství: chrámy s kopulemi; malířství: mozaiky, ikony, miniatury; písemnictví: náboženská literatura, kroniky.**
+8. Pro které země se byzantský sloh stal vzorem? — **Pro země, které přijaly z Byzance křesťanství: Velká Morava, Bulharsko, Kyjevská Rus.**
+9. Kdo přišel roku 863 z Byzance na Velkou Moravu? — **Učení bratři Konstantin a Metoděj.**
+10. Kdy a jak zanikla Byzantská říše? — **Roku 1453, kdy Turci dobyli Konstantinopol.**
+11. Jak se Konstantinopol jmenuje dnes? — **Istanbul.**
+12. Jak se jmenovala císařovna, manželka Justiniána I.? — **Theodora.**
 
 ### Franská říše
 
-1. Kdo sjednotil Franky a přijal křesťanství? — **Chlodvík I. z rodu Merovejců.**
-2. Kdo byl majordomus? — **Správce královského dvora, který za slabých králů vykonával skutečnou moc.**
-3. Kdo zvítězil u Poitiers roku 732 a jakou dostal přezdívku? — **Karel Martel, „Kladivo“.**
-4. Kdo založil královskou vládu Karlovců roku 751? — **Pipin Krátký.**
-5. Co znamená rok 800? — **Korunovace Karla Velikého císařem.**
-6. Co je karolinská renesance? — **Rozkvět vzdělanosti za Karla Velikého; vzniklo písmo karolinská minuskula.**
-7. Co se stalo roku 843 a kdo dostal jakou část? — **Verdunská smlouva: Karel Holý západ, Lothar I. střed, Ludvík Němec východ.**
-8. Jaký dar dostal Karel Veliký od chalífy Harúna ar-Rašída? — **Slona jménem Abú al-Abbás.**
+1. Kdo je považován za zakladatele Franské říše a z jakého rodu byl? — **Chlodvík I. z rodu Merovejců.**
+2. Co Chlodvík I. dokázal? — **Sjednotil franské kmeny a na konci 5. století se stal prvním králem Franků.**
+3. Kdo z nástupců Chlodvíka bojoval se Sámovou říší? — **Dagobert I. (na počátku 7. století).**
+4. Kdo byli majordomové? — **Královští správci, kteří měli po smrti Chlodvíka skutečnou moc v říši.**
+5. Kdo byl nejznámější majordomus a co udělal roku 732? — **Karel Martel; porazil Araby v bitvě u Poitiers.**
+6. Co znamená Martel? — **Kladivo.**
+7. Co se stalo roku 751? — **Karlovci sesadili Merovejce; prvním králem z rodu Karlovců se stal Pipin III. Krátký.**
+8. Čí syn byl Pipin Krátký a čí otec? — **Syn Karla Martela, otec Karla Velikého.**
+9. Co se stalo roku 800? — **Karel Veliký byl papežem korunován císařem.**
+10. Jak se nazývá rozkvět vzdělanosti a kultury za Karla Velikého? — **Karolinská renesance.**
+11. Jaké nové písmo vzniklo za Karla Velikého? — **Karolinská minuskula, malá písmena.**
+12. Které město bylo Karlovým oblíbeným sídlem? — **Cáchy, je tam i pohřben.**
+13. Které dvě skupiny obyvatel vznikly ve Franské říši? — **Feudální vrchnost (mocní vlastníci velkých pozemků) a poddaní (závislí na vrchnosti, obdělávali její půdu).**
+14. Jak říkáme osobně nesvobodným poddaným? — **Nevolníci.**
+15. Kdo převzal říši po smrti Karla Velikého? — **Jeho syn Ludvík Nábožný (Zbožný).**
+16. Na jaké tři části se říše rozdělila a kdo je dostal? — **Západofranská: Karel II. Holý; východofranská: Ludvík II. Němec; středofranská: Lothar I.**
+17. Jaký dar dostal Karel Veliký od chalífy Harúna ar-Rašída? — **Bílého slona.**
+18. Jak vysoký byl Karel Veliký? — **Asi 184 cm, vyšší než 99 % lidí své doby.**
+19. Kdo napsal životopis Karla Velikého a jak se jmenuje? — **Einhard, Vita Karoli Magni.**
+20. Proč si Karel dával tabulky na psaní pod polštář? — **Psaní mu nešlo a chtěl ho procvičovat.**
 
 ### Arabská říše a islám
 
-1. Kdo byl Mohamed? — **Prorok islámu.**
-2. Jaká je posvátná kniha islámu? — **Korán.**
-3. Co znamená hidžra a kdy se odehrála? — **Odchod Mohameda z Mekky do Medíny roku 622.**
-4. Kdo vedl muslimskou obec po Mohamedovi? — **Chalífové.**
-5. Co je minaret? — **Věž u mešity, z níž se svolává k modlitbě.**
-6. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
-7. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
-8. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
-9. Co znamená monoteismus? — **Víra v jednoho Boha.**
-10. Proč Mohameda v Mekce pronásledovali? — **Bohatí obchodníci se báli, že přestanou chodit poutníci ke Kaabě a oni přijdou o zisky.**
-11. Co znamená slovo chalífa? — **Nástupce (Mohamedův); náboženský vůdce i vládce.**
-12. Vyjmenuj pět pilířů islámu. — **Vyznání víry, modlitba pětkrát denně, almužna, půst v ramadánu, pouť do Mekky.**
-13. Proč se Arabové rozšířili tak rychle? — **Islám spojil kmeny a Byzanc s Persií byly vyčerpané vzájemnými válkami.**
-14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy vedl Araby do Španělska.**
-15. Jakou přezdívku měl Karel Martel? — **Kladivo.**
-16. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
-17. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
-18. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
-19. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
-20. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
-21. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
-22. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
-23. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
-24. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
-25. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
+1. Kdo byli beduíni? — **Kočovné arabské kmeny, tradiční pastevci velbloudů, koz a ovcí.**
+2. Co vzniklo v 7. století na Arabském poloostrově? — **Nový stát (po sjednocení beduínů) a nové náboženství, islám.**
+3. Kdo byl zakladatelem islámu a čím se živil? — **Muhammad (Mohamed), byl obchodník.**
+4. Co se stalo roku 622? — **Muhammad musel odejít z Mekky do Medíny; tímto rokem začíná muslimský letopočet.**
+5. Jaká je posvátná kniha islámu? — **Korán.**
+6. Co je mešita a co minaret? — **Mešita je muslimská svatyně, minaret štíhlá věž u ní.**
+7. Ve kterých oborech Arabové vynikali? — **Matematika, fyzika, astronomie, zeměpis, lékařství, stavitelství.**
+8. Odkud Arabové převzali arabské číslice? — **Z Indie.**
+9. Co přivezli arabští obchodníci do Evropy? — **Cukrovou třtinu, citrony, pomeranče, rýži, bavlnu.**
+10. Kdo byl Ibráhím ibn Jákúb? — **Arabsky mluvící židovský kupec, který v 10. století napsal nejstarší dochovaný popis Prahy.**
+11. Uveď slova arabského původu v češtině. — **Algebra, cifra, cukr, káva, alkohol, matrace, elixír, citron.**
+12. Který chalífa udržoval styky s Karlem Velikým a co mu poslal? — **Harún ar-Rašíd; bílého slona.**
+13. Jak se jmenuje slavná sbírka pohádek, ve které vystupuje Harún ar-Rašíd? — **Tisíc a jedna noc (Pohádky tisíce a jedné noci).**
+14. Kdo vypráví pohádky Tisíce a jedné noci? — **Šeherezáda.**
+15. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
 
 ### Středověká společnost a církev
 
-1. Jaké jsou tři skupiny středověké společnosti? — **Duchovenstvo (modlí se), šlechta (bojuje), poddaní (pracují).**
-2. Proč byly kláštery důležité? — **Opisování knih, uchování vědomostí, vzdělávání, hospodaření, péče o nemocné.**
-3. Které řády byly žebravé? — **Františkáni a dominikáni.**
+1. Na jaké tři skupiny se dělila středověká společnost? — **Ti, kteří bojují; ti, kteří se modlí (duchovenstvo); pracující.**
+2. Kdo patřil k těm, kteří bojují? — **Panovník, šlechta, rytíři.**
+3. Kdo patřil k pracujícím? — **Řemeslníci a rolníci.**
+4. Seřaď duchovenstvo od nejvyššího. — **Papež, kardinálové, arcibiskupové, biskupové, faráři (kněží); dále mniši a jeptišky.**
+5. Kdo stál v čele mužského a kdo ženského kláštera? — **Opat a abatyše.**
+6. Co dělali mniši v písařských dílnách? — **Psali kroniky nebo opisovali knihy.**
+7. Proč bylo opisování knih tak důležité? — **Knihy se nedaly tisknout; bez opisů by se staré texty nedochovaly.**
+8. O koho se staraly jeptišky? — **O nemocné, sirotky a lidi bez domova.**
+9. Které řády žily uzavřeny v klášterech? — **Benediktini, cisterciáci, premonstráti.**
+10. Které řády byly žebravé a kde žily? — **Františkáni a dominikáni; ve městech přímo mezi lidmi.**
+11. Kdo žil ve středověkých městech? — **Měšťané (obchodníci a řemeslníci), městská chudina, nádeníci, služba.**
 
 ### Polský stát
 
@@ -640,8 +720,11 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 
 ### Velké schizma – 1054
 
-1. Co znamená velké schizma? — **Rozkol západní (římskokatolické) a východní (pravoslavné) církve, tradičně roku 1054.**
-2. Kdo stál v čele západní a kdo východní církve? — **Na západě papež v Římě, na východě patriarcha v Konstantinopoli.**
+1. Co znamená slovo schizma? — **Rozkol, rozdělení.**
+2. Co se stalo roku 1054? — **Křesťanství se rozdělilo na západní (římskokatolickou) a východní (pravoslavnou) církev.**
+3. Kdo stál v čele západní církve a kde sídlil? — **Papež v Římě.**
+4. Kdo stál v čele východní církve a kde sídlil? — **Patriarcha v Konstantinopoli.**
+5. V jakém jazyce byly bohoslužby na západě a na východě? — **Na západě v latině, na východě v řečtině.**
 
 ### Svatá říše římská
 

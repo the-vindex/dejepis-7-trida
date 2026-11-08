@@ -1,39 +1,68 @@
 # Franská říše
 
-> **Ve zkratce:** Frankové vybudovali na troskách Západořímské říše největší křesťanský stát západní Evropy. Vrcholu dosáhli za Karla Velikého; jeho vnuci si říši roku 843 rozdělili a z dílů později vyrostla Francie a Německo.
+> **Ve zkratce:** Franskou říši založil Chlodvík I. z rodu Merovejců. Skutečnou moc pak získali majordomové a roku 751 Karlovci sesadili Merovejce. Karel Veliký byl roku 800 korunován císařem; po smrti jeho syna se říše rozdělila na tři části.
 
-## Jak vznikla
+## Chlodvík I. a Merovejci
 
 ![Křest Chlodvíka I.](../docs/assets/ilustrace/krest-chlodvika.jpg)
 
-Po zániku Západořímské říše vznikala v západní Evropě germánská království. **Chlodvík I.** z rodu **Merovejců** sjednotil velkou část Franků a přijal křesťanství. Získal tím podporu církve i části původního římského obyvatelstva.
+Za zakladatele Franské říše je považován **Chlodvík I.** z rodu **Merovejců**. **Sjednotil franské kmeny** a na konci **5. století** se stal **prvním králem Franků**. Nechal se **pokřtít** (obrázek v sešitě).
 
-Pozdější merovejští králové ztráceli moc. Důležití byli **majordomové**, původně správci královského dvora. **Karel Martel** jako majordomus porazil roku **732** vojsko Umajjovského chalífátu u **Poitiers/Tours**. Jeho syn **Pipin Krátký** se roku **751** stal králem: začala vláda **Karlovců**. Přezdívka *Martel* souvisí s kladivem.
+Jeho nástupci byli většinou **slabí vládci**. Jedním z nich byl na počátku 7. století <mark>Dagobert I.</mark>, který **bojoval se Sámovou říší** (Sámova říše byla první známý stát Slovanů, i na našem území).
+
+## Majordomové a Karlovci
+
+Po smrti <mark>Chlodvíka</mark> měli skutečnou moc v říši **královští správci**, tzv. **majordomové**. Král tedy formálně vládl, ale rozhodoval jeho správce.
+
+Nejznámějším z nich byl <mark>Karel Martel</mark>. Roku **732** porazil **Araby** v bitvě u **Poitiers**. V bitvě dostal přezdívku **Kladivo**: *Martel* znamená **kladivo**.
+
+**Proč je to důležité:** Karel Martel zastavil postup Arabů do západní Evropy (souvislost s tématem Arabská říše a islám).
+
+V roce **751** Karlovci <mark>sesadili</mark> **Merovejce** a prvním králem z rodu **Karlovců** se stal **Pipin III. Krátký**, syn Karla Martela.
 
 ## Karel Veliký
 
-Pipinův syn **Karel Veliký** výrazně rozšířil říši. Roku **800** jej papež v Římě korunoval císařem. Podporoval školy, vzdělance a opisování knih. Rozkvět vzdělanosti nazýváme **karolinskou renesancí**. V jejím prostředí se rozšířilo čitelné písmo **karolinská minuskula**. Důležitým Karlovým sídlem byly **Cáchy**. Karel udržoval styky i s bagdádským chalífou **Harúnem ar-Rašídem**, který mu poslal slona jménem **Abú al-Abbás**.
+![Císař Karel Veliký](../docs/assets/ilustrace/karel-veliky.jpg)
 
-Karelův syn **Ludvík Pobožný** vládl po jeho smrti. Jeho synové bojovali o moc a **verdunskou smlouvou roku 843** si říši rozdělili:
+Pipin byl otcem nejznámějšího panovníka tohoto rodu, <mark>Karla Velikého</mark>. Roku **800** byl Karel **papežem korunován císařem** římské říše.
 
-| Vnuk Karla Velikého | Část říše | Přibližná souvislost s dnešní mapou |
+**Proč je to důležité:** po zániku Západořímské říše měl západ Evropy zase **císaře**. Na to později navázala Svatá říše římská.
+
+Karel Veliký **významně rozšířil** Franskou říši. Za jeho vlády došlo k **rozvoji vzdělanosti a kultury**. Toto období označujeme jako <mark>karolinská renesance</mark> (*renesance* = obnova). Zároveň vzniklo nové písmo, <mark>karolinská minuskula</mark>: **malá písmena**, jaká píšeme dodnes.
+
+Karlovým **oblíbeným sídlem** byly **Cáchy**. Je tam i **pohřben**.
+
+Souvislost: Karel udržoval styky s chalífou **Harúnem ar-Rašídem**, který mu poslal **bílého slona** (téma Arabská říše a islám).
+
+### Pro zajímavost
+
+- **Jak vypadal:** podle rozboru jeho kostí měřil Karel asi **184 cm**, byl tedy vyšší než 99 % lidí své doby. Místo legendárního plnovousu měl nejspíš jen bohatý **knír**.
+- **Rodina:** měl **pět manželek** (nebo čtyři) a odhaduje se, že měl nejméně **18 dětí**. Dcerám **nedovolil vdát se**: podle Einharda je moc miloval, historici ale myslí, že nechtěl mít mocné zetě, kteří by ho mohli ohrozit.
+- **Einhard:** učenec a rádce na Karlově dvoře. Napsal Karlův životopis **Vita Karoli Magni**, ze kterého víme, jaký Karel byl.
+- **Latina a psaní:** Karel se naučil **latinsky** tak dobře jako svou rodnou řečí. **Psaní** mu ale nešlo: tabulky na procvičování písma si prý dával **pod polštář**.
+
+## Vrchnost a poddaní
+
+Ve Franské říši vznikly **dvě skupiny obyvatel**, které pak tvořily většinu středověké společnosti:
+
+- <mark>feudální vrchnost</mark>: **málo početná** skupina **mocných vlastníků velkých pozemků**,
+- <mark>poddaní</mark>: obyvatelé **závislí na vrchnosti**, kteří **obdělávali její půdu**. Pokud byli **osobně nesvobodní**, říkáme jim **nevolníci**.
+
+**Proč je to důležité:** takhle byla společnost uspořádaná po celý středověk (téma Středověká společnost a církev).
+
+## Rozdělení říše
+
+Po smrti Karla Velikého převzal říši jeho syn **Ludvík** <mark>Nábožný (Zbožný)</mark>. Potom nastal **boj o moc** a roku **843** se říše **rozdělila na tři části** mezi Karlovy vnuky:
+
+| Část říše | Vnuk Karla Velikého | Co z ní později vzniklo |
 |---|---|---|
-| **Karel Holý** | západofranská | základ pozdější Francie |
-| **Ludvík Němec** | východofranská | základ pozdějšího Německa |
-| **Lothar I.** | středofranská | pás od Severního moře k severní Itálii |
-
-Hranice a státy nebyly totožné s těmi dnešními. Středofranská část se dále dělila. Na východofranské království později navázala říše Oty I.
-
-## Pojmy ze zápisků
-
-- **Majordomus:** správce královského dvora, který za slabých králů získal skutečnou politickou moc.
-- **Vrchnost:** držitel panství a práv vůči poddaným; vztahy se v různých dobách lišily.
-- **Poddaní:** lidé podléhající vrchnosti. Nelze všechny obyvatele rané Franské říše jednoduše označit za nevolníky.
-- **Karolinská renesance:** obnova vzdělanosti v Karlově říši, nikoli renesance 15. a 16. století.
+| **západofranská** | **Karel II. Holý** | Francie |
+| **východofranská** | **Ludvík II. Němec** | Německo, Svatá říše římská |
+| **středofranská** | **Lothar I.** | pás od Severního moře do Itálie |
 
 ## Zapamatuj si
 
-**Chlodvík sjednocuje a přijímá křest → Martel 732 vítězí u Poitiers → Pipin 751 zakládá královskou vládu Karlovců → Karel Veliký je 800 korunován císařem → vnuci dělí říši 843.**
+**Chlodvík I. (Merovejci) sjednotil Franky → Dagobert I. bojoval se Sámovou říší → majordomové → Karel Martel „Kladivo“ 732 u Poitiers → 751 Karlovci sesadili Merovejce, Pipin Krátký králem → Karel Veliký 800 císařem, karolinská renesance, minuskula, Cáchy → vrchnost a poddaní → Ludvík Nábožný → 843 rozdělení na tři části.**
 
 ## Paměťový obraz
 
@@ -52,7 +81,7 @@ Projdi v duchu levou věž hradu odshora dolů a u každé zastávky řekni, co 
 
 ### Opravy z poznámek
 
-Bitva Chlodvíkova potomka **Dagoberta I.** se Sámovou říší se obvykle označuje jako bitva u **Wogastisburgu**, její přesné místo a datování nejsou jisté. Vyprávění o „jednotných zákonech pro všechny obyvatele“ je pro tak rozmanitou a dlouho trvající říši příliš jednoduché. Přezdívku **Kladivo** měl Karel Martel; **Karlovskou dynastii na královském trůně** zahájil až jeho syn Pipin.
+Sešit píše, že Karel Martel „založil dynastii Karlovců“. Rod se podle něj opravdu jmenuje, ale **prvním králem** z Karlovců byl až jeho syn **Pipin Krátký** (751). Karel Martel byl majordomus, ne král. Ludvíkovi se v učebnicích říká i **Pobožný**.
 
 ## Zápis ze sešitu
 

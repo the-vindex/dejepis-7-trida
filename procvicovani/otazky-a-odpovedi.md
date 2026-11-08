@@ -4,57 +4,73 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 
 ## Byzantská říše
 
-1. Kdy zanikla Západořímská říše a co se stalo s východní částí? — **Roku 476; východní, Byzantská říše pokračovala až do roku 1453.**
-2. Proč je důležitý Justinián? — **Nechal uspořádat římské právo; za jeho vlády vznikla Hagia Sofia.**
-3. Podle čeho poznáš byzantský sloh? — **Kopule, mozaiky a ikony.**
-4. Co přinesli Konstantin a Metoděj roku 863? — **Slovanskou bohoslužbu a překlady; Konstantin vytvořil hlaholici.**
-5. Co se stalo roku 1453? — **Osmané dobyli Konstantinopol a Byzanc zanikla.**
-6. Co se stalo roku 1054? — **Velké schizma: církev v Konstantinopoli se rozešla s Římem.**
+1. Jak se jinak říká Byzantské říši? — **Východořímská říše.**
+2. Co se stalo roku 476 a co to znamenalo pro Byzanc? — **Zanikla Západořímská říše; Byzanc přežila a stala se jedinou pokračovatelkou starořímského impéria.**
+3. Kdy zažila Byzanc největší rozkvět a za koho? — **V 6. století za vlády Justiniána I.**
+4. Co nařídil sestavit Justinián I.? — **Soubor občanských zákonů.**
+5. Proč je Justiniánův soubor zákonů důležitý? — **Zachovalo se díky němu římské právo, podle kterého se později řídily evropské státy.**
+6. Jak se jmenuje Justiniánův slavný chrám a co jeho název znamená? — **Hagia Sofia, chrám Boží moudrosti, v Konstantinopoli.**
+7. Jaké jsou znaky byzantského slohu? — **Stavitelství: chrámy s kopulemi; malířství: mozaiky, ikony, miniatury; písemnictví: náboženská literatura, kroniky.**
+8. Pro které země se byzantský sloh stal vzorem? — **Pro země, které přijaly z Byzance křesťanství: Velká Morava, Bulharsko, Kyjevská Rus.**
+9. Kdo přišel roku 863 z Byzance na Velkou Moravu? — **Učení bratři Konstantin a Metoděj.**
+10. Kdy a jak zanikla Byzantská říše? — **Roku 1453, kdy Turci dobyli Konstantinopol.**
+11. Jak se Konstantinopol jmenuje dnes? — **Istanbul.**
+12. Jak se jmenovala císařovna, manželka Justiniána I.? — **Theodora.**
 
 ## Franská říše
 
-1. Kdo sjednotil Franky a přijal křesťanství? — **Chlodvík I. z rodu Merovejců.**
-2. Kdo byl majordomus? — **Správce královského dvora, který za slabých králů vykonával skutečnou moc.**
-3. Kdo zvítězil u Poitiers roku 732 a jakou dostal přezdívku? — **Karel Martel, „Kladivo“.**
-4. Kdo založil královskou vládu Karlovců roku 751? — **Pipin Krátký.**
-5. Co znamená rok 800? — **Korunovace Karla Velikého císařem.**
-6. Co je karolinská renesance? — **Rozkvět vzdělanosti za Karla Velikého; vzniklo písmo karolinská minuskula.**
-7. Co se stalo roku 843 a kdo dostal jakou část? — **Verdunská smlouva: Karel Holý západ, Lothar I. střed, Ludvík Němec východ.**
-8. Jaký dar dostal Karel Veliký od chalífy Harúna ar-Rašída? — **Slona jménem Abú al-Abbás.**
+1. Kdo je považován za zakladatele Franské říše a z jakého rodu byl? — **Chlodvík I. z rodu Merovejců.**
+2. Co Chlodvík I. dokázal? — **Sjednotil franské kmeny a na konci 5. století se stal prvním králem Franků.**
+3. Kdo z nástupců Chlodvíka bojoval se Sámovou říší? — **Dagobert I. (na počátku 7. století).**
+4. Kdo byli majordomové? — **Královští správci, kteří měli po smrti Chlodvíka skutečnou moc v říši.**
+5. Kdo byl nejznámější majordomus a co udělal roku 732? — **Karel Martel; porazil Araby v bitvě u Poitiers.**
+6. Co znamená Martel? — **Kladivo.**
+7. Co se stalo roku 751? — **Karlovci sesadili Merovejce; prvním králem z rodu Karlovců se stal Pipin III. Krátký.**
+8. Čí syn byl Pipin Krátký a čí otec? — **Syn Karla Martela, otec Karla Velikého.**
+9. Co se stalo roku 800? — **Karel Veliký byl papežem korunován císařem.**
+10. Jak se nazývá rozkvět vzdělanosti a kultury za Karla Velikého? — **Karolinská renesance.**
+11. Jaké nové písmo vzniklo za Karla Velikého? — **Karolinská minuskula, malá písmena.**
+12. Které město bylo Karlovým oblíbeným sídlem? — **Cáchy, je tam i pohřben.**
+13. Které dvě skupiny obyvatel vznikly ve Franské říši? — **Feudální vrchnost (mocní vlastníci velkých pozemků) a poddaní (závislí na vrchnosti, obdělávali její půdu).**
+14. Jak říkáme osobně nesvobodným poddaným? — **Nevolníci.**
+15. Kdo převzal říši po smrti Karla Velikého? — **Jeho syn Ludvík Nábožný (Zbožný).**
+16. Na jaké tři části se říše rozdělila a kdo je dostal? — **Západofranská: Karel II. Holý; východofranská: Ludvík II. Němec; středofranská: Lothar I.**
+17. Jaký dar dostal Karel Veliký od chalífy Harúna ar-Rašída? — **Bílého slona.**
+18. Jak vysoký byl Karel Veliký? — **Asi 184 cm, vyšší než 99 % lidí své doby.**
+19. Kdo napsal životopis Karla Velikého a jak se jmenuje? — **Einhard, Vita Karoli Magni.**
+20. Proč si Karel dával tabulky na psaní pod polštář? — **Psaní mu nešlo a chtěl ho procvičovat.**
 
 ## Arabská říše a islám
 
-1. Kdo byl Mohamed? — **Prorok islámu.**
-2. Jaká je posvátná kniha islámu? — **Korán.**
-3. Co znamená hidžra a kdy se odehrála? — **Odchod Mohameda z Mekky do Medíny roku 622.**
-4. Kdo vedl muslimskou obec po Mohamedovi? — **Chalífové.**
-5. Co je minaret? — **Věž u mešity, z níž se svolává k modlitbě.**
-6. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
-7. Který chalífa poslal slona Karlu Velikému? — **Harún ar-Rašíd.**
-8. Kdo vypráví příběhy Tisíce a jedné noci? — **Šeherezáda.**
-9. Co znamená monoteismus? — **Víra v jednoho Boha.**
-10. Proč Mohameda v Mekce pronásledovali? — **Bohatí obchodníci se báli, že přestanou chodit poutníci ke Kaabě a oni přijdou o zisky.**
-11. Co znamená slovo chalífa? — **Nástupce (Mohamedův); náboženský vůdce i vládce.**
-12. Vyjmenuj pět pilířů islámu. — **Vyznání víry, modlitba pětkrát denně, almužna, půst v ramadánu, pouť do Mekky.**
-13. Proč se Arabové rozšířili tak rychle? — **Islám spojil kmeny a Byzanc s Persií byly vyčerpané vzájemnými válkami.**
-14. Odkud má jméno Gibraltar? — **Od vojevůdce Tárika (Džabal Tárik = Tárikova hora), který tudy vedl Araby do Španělska.**
-15. Jakou přezdívku měl Karel Martel? — **Kladivo.**
-16. Která dvě města byla hlavními městy arabské říše? — **Nejdřív Damašek, později Bagdád.**
-17. Proč v mešitách nejsou obrazy lidí ani zvířat? Čím se zdobí? — **Islám zakazuje uctívat obrazy; zdobí se ornamenty (arabeskami) a kaligrafií.**
-18. Kdo svolává z minaretu k modlitbě? — **Muezzin.**
-19. Odkud pocházejí arabské číslice a co s nimi přišlo do Evropy? — **Z Indie; přišla s nimi i nula.**
-20. Uveď slova, která pocházejí z arabštiny. — **Algebra, alkohol, káva, cukr, magazín.**
-21. Jak Arabové zachránili antické vědění? — **Překládali řecké knihy (např. Aristotela) do arabštiny; Evropa je poznala z jejich překladů.**
-22. Který arabský lékař proslavil medicínu? — **Avicenna (Ibn Sína).**
-23. Jak se jmenoval slon, kterého poslal Harún ar-Rašíd Karlu Velikému? — **Abú al-Abbás.**
-24. Proč Šeherezáda vyprávěla králi každou noc příběh? — **Aby ji nepopravil; příběh vždy přerušila v nejnapínavějším místě.**
-25. Které známé postavy patří k Tisíci a jedné noci? — **Sindibád námořník, Aladin, Ali Baba.**
+1. Kdo byli beduíni? — **Kočovné arabské kmeny, tradiční pastevci velbloudů, koz a ovcí.**
+2. Co vzniklo v 7. století na Arabském poloostrově? — **Nový stát (po sjednocení beduínů) a nové náboženství, islám.**
+3. Kdo byl zakladatelem islámu a čím se živil? — **Muhammad (Mohamed), byl obchodník.**
+4. Co se stalo roku 622? — **Muhammad musel odejít z Mekky do Medíny; tímto rokem začíná muslimský letopočet.**
+5. Jaká je posvátná kniha islámu? — **Korán.**
+6. Co je mešita a co minaret? — **Mešita je muslimská svatyně, minaret štíhlá věž u ní.**
+7. Ve kterých oborech Arabové vynikali? — **Matematika, fyzika, astronomie, zeměpis, lékařství, stavitelství.**
+8. Odkud Arabové převzali arabské číslice? — **Z Indie.**
+9. Co přivezli arabští obchodníci do Evropy? — **Cukrovou třtinu, citrony, pomeranče, rýži, bavlnu.**
+10. Kdo byl Ibráhím ibn Jákúb? — **Arabsky mluvící židovský kupec, který v 10. století napsal nejstarší dochovaný popis Prahy.**
+11. Uveď slova arabského původu v češtině. — **Algebra, cifra, cukr, káva, alkohol, matrace, elixír, citron.**
+12. Který chalífa udržoval styky s Karlem Velikým a co mu poslal? — **Harún ar-Rašíd; bílého slona.**
+13. Jak se jmenuje slavná sbírka pohádek, ve které vystupuje Harún ar-Rašíd? — **Tisíc a jedna noc (Pohádky tisíce a jedné noci).**
+14. Kdo vypráví pohádky Tisíce a jedné noci? — **Šeherezáda.**
+15. Kdo porazil Araby u Poitiers roku 732? — **Franský majordomus Karel Martel.**
 
 ## Středověká společnost a církev
 
-1. Jaké jsou tři skupiny středověké společnosti? — **Duchovenstvo (modlí se), šlechta (bojuje), poddaní (pracují).**
-2. Proč byly kláštery důležité? — **Opisování knih, uchování vědomostí, vzdělávání, hospodaření, péče o nemocné.**
-3. Které řády byly žebravé? — **Františkáni a dominikáni.**
+1. Na jaké tři skupiny se dělila středověká společnost? — **Ti, kteří bojují; ti, kteří se modlí (duchovenstvo); pracující.**
+2. Kdo patřil k těm, kteří bojují? — **Panovník, šlechta, rytíři.**
+3. Kdo patřil k pracujícím? — **Řemeslníci a rolníci.**
+4. Seřaď duchovenstvo od nejvyššího. — **Papež, kardinálové, arcibiskupové, biskupové, faráři (kněží); dále mniši a jeptišky.**
+5. Kdo stál v čele mužského a kdo ženského kláštera? — **Opat a abatyše.**
+6. Co dělali mniši v písařských dílnách? — **Psali kroniky nebo opisovali knihy.**
+7. Proč bylo opisování knih tak důležité? — **Knihy se nedaly tisknout; bez opisů by se staré texty nedochovaly.**
+8. O koho se staraly jeptišky? — **O nemocné, sirotky a lidi bez domova.**
+9. Které řády žily uzavřeny v klášterech? — **Benediktini, cisterciáci, premonstráti.**
+10. Které řády byly žebravé a kde žily? — **Františkáni a dominikáni; ve městech přímo mezi lidmi.**
+11. Kdo žil ve středověkých městech? — **Měšťané (obchodníci a řemeslníci), městská chudina, nádeníci, služba.**
 
 ## Polský stát
 
@@ -116,8 +132,11 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 
 ## Velké schizma – 1054
 
-1. Co znamená velké schizma? — **Rozkol západní (římskokatolické) a východní (pravoslavné) církve, tradičně roku 1054.**
-2. Kdo stál v čele západní a kdo východní církve? — **Na západě papež v Římě, na východě patriarcha v Konstantinopoli.**
+1. Co znamená slovo schizma? — **Rozkol, rozdělení.**
+2. Co se stalo roku 1054? — **Křesťanství se rozdělilo na západní (římskokatolickou) a východní (pravoslavnou) církev.**
+3. Kdo stál v čele západní církve a kde sídlil? — **Papež v Římě.**
+4. Kdo stál v čele východní církve a kde sídlil? — **Patriarcha v Konstantinopoli.**
+5. V jakém jazyce byly bohoslužby na západě a na východě? — **Na západě v latině, na východě v řečtině.**
 
 ## Svatá říše římská
 

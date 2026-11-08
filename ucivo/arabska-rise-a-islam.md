@@ -1,80 +1,78 @@
 # Arabská říše a islám
 
-> **Ve zkratce:** V 7. století vzniklo v Arábii nové náboženství, islám. Arabové se za sto let rozšířili od Indu po Španělsko a jejich učenci rozvíjeli matematiku, lékařství i astronomii.
+> **Ve zkratce:** V 7. století se sjednotily kočovné arabské kmeny a vzniklo nové náboženství, islám. Arabové vynikali v matematice a dalších vědách, byli zdatní obchodníci a dali nám arabské číslice i mnoho slov.
 
-## Arabský poloostrov a Mohamed
+## Vznik arabské říše a islámu
 
-![Prorok Mohamed (islámská miniatura)](../docs/assets/ilustrace/mohamed.jpg)
+![Prorok Mohamed](../docs/assets/ilustrace/mohamed.jpg)
 ![Strana z Koránu](../docs/assets/ilustrace/koran.jpg)
 
-**Arabský poloostrov** je z velké části poušť. Část Arabů žila jako **kočovníci** (beduíni): putovali s velbloudy a stády od jedné studny ke druhé. Další žili v **obchodních městech**, kudy procházely **karavany** s kořením, látkami a kadidlem. Nejdůležitějším městem byla **Mekka**. Stála v ní svatyně **Kaaba**, kam se lidé chodili klanět mnoha bohům, a z poutníků měli místní obchodníci velké zisky.
+V **7. století** došlo ke **sjednocení kočovných arabských kmenů**, tzv. <mark>beduínů</mark>. Beduíni byli **tradiční pastevci velbloudů, koz a ovcí** a putovali se stády pouští. Na **Arabském poloostrově** tak vznikl **nový stát** a také **nové náboženství**, **islám**.
 
-V **7. století** začal v Mekce kázat obchodník **Mohamed (Muhammad)**. Podle muslimů mu Bůh skrze anděla **Gabriela** sděloval svá slova. Mohamed učil, že existuje **jen jeden Bůh** (arabsky **Alláh**). Taková víra v jednoho Boha se nazývá **monoteismus**, stejně jako u židů a křesťanů. Nové náboženství se jmenuje **islám** (znamená „odevzdání se Bohu“) a jeho vyznavači jsou **muslimové**. Slova, která Mohamed hlásal, byla sepsána do posvátné knihy **Koránu**.
+**Zakladatelem islámu** byl **Muhammad (Mohamed)**. Působil jako **obchodník** a hodně cestoval. V roce **622** musel odejít z **Mekky** do **Medíny**. Později byl tento rok vyhlášen jako **počátek letopočtu** podle **muslimského kalendáře**: pro muslimy je to „rok 1“.
 
-Bohatým Mekkáncům se Mohamedovo kázání nelíbilo: kdyby lidé přestali uctívat mnoho bohů, přestali by k Kaabě chodit poutníci a obchodníci by přišli o peníze. Mohameda proto pronásledovali. Roku **622** odešel se svými přívrženci z Mekky do **Medíny**. Tomuto odchodu se říká **hidžra** a rokem 622 začíná **muslimský letopočet** (u muslimů je to „rok 1“). V Medíně Mohamed získal mnoho stoupenců, později se do Mekky vrátil jako vítěz a z Kaaby dal odstranit sochy bohů. Po jeho smrti vedli muslimy **chalífové**. Slovo **chalífa** znamená „nástupce“: chalífa byl zároveň náboženský vůdce i vládce říše.
+Posvátnou knihou islámu je **Korán** (obrázek v sešitě).
 
-## Pět pilířů islámu
+![Tradiční mešita s minaretem](../docs/assets/ilustrace/mesita.jpg)
 
-Každý muslim má plnit pět hlavních povinností:
+Muslimskou svatyní je **mešita**. Štíhlá věž u ní se jmenuje **minaret**.
 
-1. **vyznání víry**: „Není boha kromě Boha a Mohamed je jeho prorok“,
-2. **modlitba pětkrát denně**, obrácen směrem k Mekce,
-3. **almužna**: pomoc chudým,
-4. **půst v měsíci ramadánu**: od východu do západu slunce se nejí ani nepije,
-5. **pouť do Mekky** aspoň jednou za život, pokud na to má zdraví a peníze.
+## Věda a vzdělanost
 
-## Arabská expanze
+Arabové **vynikali v mnoha oborech**:
 
-![Jak se arabská říše rozšiřovala](../docs/assets/mapy/arabska-rise-750.svg)
+- **matematika**: dodnes používáme **arabské číslice**, které Arabové převzali z **Indie**,
+- **fyzika**,
+- **astronomie**,
+- **zeměpis**,
+- **lékařství**,
+- **stavitelství**.
 
-<p class="hint credit" markdown="1">Mapa: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_expansion_of_Caliphate.svg) – DieBuche, volné dílo; doplněny české popisky.</p>
+**Proč je to důležité:** s arabskými číslicemi se počítá mnohem snáz než s římskými (zkus vynásobit XLVII krát XIII). Proto se jimi počítá dodnes po celém světě.
 
-Za necelých sto let po Mohamedově smrti ovládli Arabové obrovské území **od řeky Indus po Španělsko**. Rozšířili se tak rychle ze dvou důvodů: islám spojil dříve znesvářené arabské kmeny, a sousední **Byzantská** a **Perská říše** byly vyčerpané dlouhými válkami mezi sebou.
+## Obchod a arabská slova
 
-- Hlavním městem se nejdřív stal **Damašek** (dnešní Sýrie).
-- Arabové se přeplavili z Afriky do **Španělska**. Vedl je vojevůdce **Tárik** a podle něj se skála u průlivu jmenuje **Gibraltar** (z arabského *Džabal Tárik* = „Tárikova hora“). Ve Španělsku pak muslimové vládli ještě mnoho staletí.
-- **Roku 732** porazil franský vojevůdce **Karel Martel** muslimské vojsko v bitvě u **Tours/Poitiers** a zastavil jejich postup do Francie. Přezdívalo se mu **„Kladivo“**.
-- Později se hlavním městem stal nově založený **Bagdád** (dnešní Irák).
+Arabové byli také **zdatnými obchodníky**. Do Evropy přivezli například **cukrovou třtinu**, **citrony**, **pomeranče**, **rýži** a **bavlnu**.
 
-## Kultura a vzdělanost
+Arabsky mluvící židovský kupec <mark>Ibráhím ibn Jákúb</mark> v **10. století** navštívil Evropu a zanechal nám **nejstarší dochovaný písemný popis Prahy**.
 
-![Mešita s minaretem](../docs/assets/ilustrace/mesita.jpg)
+**Proč je to důležité:** je to nejstarší zpráva o Praze, kterou máme. Díky němu víme, jak Praha v 10. století vypadala.
 
-Muslimové se modlí v **mešitě**. **Minaret** je vysoká věž u mešity, z níž **muezzin** svolává věřící k modlitbě. V mešitách nejsou obrazy lidí ani zvířat, protože islám zakazuje uctívat obrazy. Místo nich se zdobí **ornamenty** z rostlin a geometrických tvarů (**arabesky**) a krásně psaným písmem (**kaligrafií**).
-
-Arabští učenci rozvíjeli **matematiku, lékařství, astronomii a zeměpis**. Řadu věcí z jejich světa používáme dodnes:
-
-- **arabské číslice** 0–9: Arabové je převzali z **Indie** a přinesli do Evropy, i s **nulou**. Předtím se v Evropě počítalo **římskými číslicemi**, se kterými se špatně násobí a dělí.
-- **algebra**: je to arabské slovo; z arabštiny pochází i **alkohol, káva, cukr** nebo **magazín** (původně „sklad“).
-- **zachování antického vědění**: v Bagdádu učenci **překládali řecké knihy** (například Aristotela) do arabštiny. Evropa mnoho z nich znovu poznala až z těchto překladů.
-- **lékařství**: lékař **Avicenna (Ibn Sína)** napsal knihu o medicíně, podle které se učili lékaři i v Evropě ještě stovky let.
+V češtině najdeme mnoho **slov arabského původu**: <mark>algebra, cifra (číslo), cukr, káva, alkohol, matrace, elixír, citron</mark>.
 
 ## Harún ar-Rašíd
 
-**Harún ar-Rašíd** byl chalífa, který vládl z **Bagdádu** v letech **786–809**. V té době byl Bagdád jedním z největších a nejbohatších měst světa. Harún udržoval přátelské styky s **Karlem Velikým** a poslal mu darem **slona** jménem **Abú al-Abbás**. Takové zvíře v západní Evropě nikdo neviděl.
+Jedním z nejvýznamnějších **chalífů** (vládců arabské říše) byl **Harún ar-Rašíd**. Udržoval **diplomatické styky** se dvorem **Karla Velikého** a poslal mu neobvyklý dar: **bílého slona**.
 
-Harún vystupuje i v pohádkách ze sbírky **Tisíc a jedna noc**. Vypráví je **Šeherezáda**: krutý král se chystal ji popravit, a tak mu každou noc vyprávěla příběh, který přerušila v nejnapínavějším místě. Král chtěl slyšet pokračování, a proto ji nechal žít, až se nakonec rozhodl ji ušetřit. K této sbírce patří i příběhy o **Sindibádovi námořníkovi**, **Aladinovi** a **Ali Babovi**.
+Harún je také častým hrdinou slavné sbírky pohádek a příběhů **Tisíc a jedna noc** (*Pohádky tisíce a jedné noci*), která vznikala od 8. do 16. století. Pohádky v knize vypráví moudrá **Šeherezáda**.
+
+Souvislost: roku **732** porazil Araby franský majordomus **Karel Martel** u **Poitiers** (téma Franská říše).
 
 ## Zapamatuj si
 
-**Mohamed hlásal víru v jednoho Boha → islám, posvátná kniha Korán → 622 hidžra (útěk z Mekky do Medíny) → chalífové → říše od Indu po Španělsko → 732 Poitiers. Arabové předali Evropě číslice s nulou a antické vědění.**
+**7. století: beduíni se sjednotili → nový stát a islám → Muhammad, obchodník → 622 z Mekky do Medíny = začátek muslimského letopočtu → Korán, mešita s minaretem → arabské číslice z Indie, fyzika, astronomie, zeměpis, lékařství, stavitelství → obchod (cukrová třtina, citrony, pomeranče, rýže, bavlna) → Ibráhím ibn Jákúb: nejstarší popis Prahy → Harún ar-Rašíd: bílý slon pro Karla Velikého, Šeherezáda.**
 
 ## Paměťový obraz
 
-- **Karavana v poušti:** Mohamed, Mekka, islám, Korán, rok 622, Medína.
-- **Slon u Karla Velikého:** Harún ar-Rašíd, diplomacie, Tisíc a jedna noc.
-- **Tárikova hora:** Gibraltar, cesta do Španělska; Karel „Kladivo“ Martel zastaví Araby u Poitiers 732.
-- **Kalkulačka s nulou:** arabské číslice z Indie, algebra, překlady řeckých knih v Bagdádu.
+- **Karavana velbloudů:** beduíni se sjednotí, Muhammad obchodník jede z Mekky do Medíny roku 622.
+- **Kalkulačka s nulou:** arabské číslice z Indie.
+- **Loď plná citronů a cukru:** arabští obchodníci, slova cukr, káva, citron.
+- **Kupec s pergamenem na Pražském hradě:** Ibráhím ibn Jákúb popisuje Prahu.
+- **Bílý slon u Karla Velikého:** Harún ar-Rašíd, Tisíc a jedna noc, Šeherezáda.
 
 ### Ověření proti zápiskům
 
-Rok 622 **není** datum okamžitého vzniku islámu; je to rok hidžry. Náboženství se rozvíjelo již dříve. Datum 732 je spojeno s bitvou u Tours/Poitiers, nikoli se zastavením všech dalších muslimských vojenských akcí v Evropě.
+Rok 622 **není** rok vzniku islámu. Je to rok odchodu Muhammada z Mekky do Medíny (tzv. **hidžra**). Muhammad kázal už předtím.
 
 ## Zápis ze sešitu
 
 <details markdown="1">
 <summary>Fotky stránek sešitu</summary>
 
-![Původní zápis – arabská říše](../docs/assets/sesit-03.jpg)
+![Arabská říše](../docs/assets/sesit-03.jpg)
+
+![Pracovní list: Harún ar-Rašíd](../docs/assets/sesit-04.jpg)
+
+![Dokončení: obchod a arabská slova](../docs/assets/sesit-02.jpg)
 
 </details>

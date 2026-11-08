@@ -2,22 +2,24 @@
 
 ![Původní fotografie](../fotografie/sesit-09.jpg)
 
-Části na pravém okraji a uprostřed jsou nečitelné; zapisujeme je v hranatých závorkách. Náčrtek obsahuje i škrty a dodatečné poznámky.
+Čitelná rekonstrukce rukopisu, ne doslovný OCR výstup. Podtržené pasáže jsou **tučně**.
 
-> Karel Veliký významně rozšířil franskou říši. Za jeho vlády došlo k rozvoji vzdělanosti a kultury. Toto období označujeme jako karolinskou renesanci. Zároveň vzniklo nové písmo – karolinská minuskula, malá písmena.
+> Karel Veliký významně rozšířil Franskou říši. Za jeho vlády došlo k rozvoji vzdělanosti a kultury. Toto období označujeme jako **karolinská renesance**. Zároveň vzniklo nové písmo – **karolinská minuskula**, malá písmena.
 
-> [Karel Martel] v bitvě dostal přezdívku Kladivo a [část nečitelná]. Martel znamená kladivo.
+> (Karel Martel) v bitvě dostal přezdívku Kladivo a založil dynastii Karlovců. Martel znamená kladivo. *(nakreslené kladivo)*
 
-> Karlovým oblíbeným sídlem byly Cáchy. [Následuje méně čitelný odstavec o životě obyvatel a rozdělení společnosti.]
+> Karlovým oblíbeným sídlem byly Cáchy, je tam i pohřben.
+>
+> Ve Franské říši vznikly dvě skupiny obyvatelstva, které později tvořily převážnou část středověku:
+> - **feudální vrchnost** (málo početná skupina mocných vlastníků velkých pozemků)
+> - **poddaní** (obyvatelé závislí na vrchnosti a obdělávající její půdu; pokud byli osobně nesvobodní, označujeme je jako tzv. nevolníky)
 
-Čitelné pojmy v prostřední části: **feudální vrchnost**, **poddaní**, **nevolníci**, **nábožný (zbožný)**. Poznámky naznačují vlastnictví půdy vrchností a závislost poddaných; jednotlivé věty nejsou natolik jasné, aby se daly bezpečně vydávat za doslovný přepis.
-
-> Po smrti Karla Velikého říši [převzal jeho syn Ludvík Pobožný]. Potom byl boj o moc a říše se rozdělila na tři části.
+> Po smrti Karla Velikého říši převzal syn **Ludvík Nábožný (Zbožný)**, potom byl boj o moc a říše se rozdělila na 3 části:
 
 | Část v sešitě | Vnuk Karla Velikého |
 |---|---|
-| Západofranská říše | Karel II. Holý |
-| Východofranská říše | Ludvík Němec |
-| Středofranská říše | Lothar I. |
+| západofranská říše | Karel II. Holý |
+| východofranská říše | Ludvík II. Němec |
+| středofranská říše | Lothar I. |
 
-Studijní verze: [Franská říše](../../ucivo/franska-rise.md).
+Výklad: [Franská říše](../../ucivo/franska-rise.md).

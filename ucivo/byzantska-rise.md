@@ -1,36 +1,54 @@
 # Byzantská říše
 
-> **Ve zkratce:** Východní polovina Římské říše přežila pád Západu o tisíc let. Dala Evropě římské právo, chrámy s kopulemi a přes Konstantina a Metoděje i první slovanské písmo.
+> **Ve zkratce:** Byzantská (Východořímská) říše přežila zánik Západořímské říše roku 476 a trvala až do roku 1453. Největší rozkvět zažila za Justiniána I. a z Byzance přišli na Velkou Moravu Konstantin a Metoděj.
 
 ## Pokračování římské říše
 
-Po zániku **Západořímské říše roku 476** východní část Římské říše pokračovala. Její obyvatelé se sami pokládali za Římany. **Byzantská říše** je název používaný pozdějšími historiky. Hlavním městem byla **Konstantinopol**. Církev v Konstantinopoli se postupně vzdalovala Římu a roku **1054** se obě strany rozešly: nastalo **velké schizma**.
+**Byzantská říše** (také **Východořímská říše**) **přežila zánik Západořímské říše** v roce **476**. Stala se tak **jedinou pokračovatelkou starořímského impéria**. Hlavním městem byla **Konstantinopol**.
 
-## Justinián I. a právo
+**Proč je to důležité:** na západě Římská říše zanikla, ale na východě její vzdělanost, zákony a umění pokračovaly dalších tisíc let.
+
+## Justinián I.
 
 ![Císař Justinián I. a císařovna Theodora (mozaiky z Ravenny)](../docs/assets/ilustrace/justinian-theodora.jpg)
 
-V **6. století** zažila říše za císaře **Justiniána I.** velký mocenský a kulturní rozmach. Nechal uspořádat starší římské zákony a právní texty do souboru známého jako **Corpus iuris civilis**. Ten pomohl zachovat římské právo a později ovlivnil evropskou právní tradici. Sešitové „soubor občanských zákonů“ je školní zkratka: nešlo o dnešní občanský zákoník.
+**Největší rozkvět** zažila tato říše v **6. století** za vlády <mark>Justiniána I.</mark> Nařídil **sestavit soubor občanských zákonů**: dal dohromady staré římské zákony.
 
-## Umění, vzdělanost a Hagia Sofia
+**Proč je to důležité:** díky tomu se **římské právo zachovalo** a evropské státy podle něj později tvořily vlastní zákony.
+
+## Byzantský sloh
 
 ![Církevní stavby ovlivněné byzantským slohem](../docs/assets/ilustrace/byzantske-stavby.jpg)
 
-Byzantské umění poznáš podle **kopulí**, **mozaik** a **ikon**. V Konstantinopoli nechal Justinián postavit velkolepý chrám **Hagia Sofia**, tedy chrám Boží Moudrosti. Byzanc byla důležitým střediskem vzdělanosti a její náboženské i umělecké vlivy pronikaly do dalších zemí.
+Justinián budoval **významné stavby**, například chrám **Hagia Sofia** (= **chrám Boží moudrosti**) v hlavním městě **Konstantinopoli**.
+
+Projevem vysoké úrovně umění a vzdělanosti v Byzanci byl **byzantský sloh**. Jeho znaky:
+
+- **stavitelství:** chrámy s **kopulemi**,
+- **malířství:** **mozaiky**, **ikony**, **miniatury**,
+- **písemnictví:** **náboženská literatura**, **kroniky**.
+
+Byzantský sloh se stal **vzorem** především pro země, které přijaly **z Byzance křesťanství**: **Velká Morava**, **Bulharsko**, **Kyjevská Rus**.
+
+Církevní stavby ovlivněné byzantským slohem (obrázky v sešitě): chrám Vasilije Blaženého v Moskvě, chrám sv. Sofie v Kyjevě, palácová kaple v Cáchách (oktogon), chrám San Marco v Benátkách, chrám Hagia Sofia v Konstantinopoli, chrám San Vitale v Ravenně.
 
 ## Konstantin a Metoděj
 
 ![Konstantin (Cyril) a Metoděj se svitkem slovanského písma](../docs/assets/ilustrace/cyril-metodej.jpg)
 
-Z Byzance přišli roku **863** na Velkou Moravu bratři **Konstantin (později Cyril)** a **Metoděj**. Přinesli křesťanské texty ve slovanském jazyce. Konstantin vytvořil pro jejich zápis **hlaholici**. **Cyrilice vznikla později** v prostředí jejich žáků; obrázek v sešitě s popiskem „držící cyrilici“ je tedy zavádějící.
+Říše byla **nositelkou vzdělanosti** a ta byla dále **šířena po Evropě**. V roce **863** přišli **z Byzantské říše** na **Velkou Moravu** učení bratři **Konstantin a Metoděj**.
+
+**Proč je to důležité:** přinesli k nám vzdělanost a křesťanství ve slovanském jazyce, kterému lidé rozuměli.
 
 ## Konec říše
 
-Roku **1453** dobyli Konstantinopol **Osmanští Turci** a Byzantská říše zanikla. Tvrzení, že město bylo přesně tehdy přejmenováno na Istanbul, je nepřesné: pojmenování Istanbul se užívalo už dříve a mezinárodní úřední podoba názvu se ustálila až mnohem později.
+Byzantská říše existovala **do roku 1453**, kdy **Turci dobyli Konstantinopol**. Říše **zanikla** a Konstantinopol byla přejmenována na **Istanbul**.
+
+Souvislost: roku **1054** se církev v Konstantinopoli rozešla s Římem (téma Velké schizma).
 
 ## Zapamatuj si
 
-**476 východní Řím pokračuje → 6. století Justinián, zákony a Hagia Sofia → 863 Konstantin a Metoděj s hlaholicí → 1453 dobytí Konstantinopole.**
+**476 Západořímská říše zaniká, Byzanc pokračuje → 6. století Justinián I.: zákony a Hagia Sofia → byzantský sloh: kopule, mozaiky, ikony → 863 Konstantin a Metoděj na Velké Moravě → 1453 Turci dobyli Konstantinopol, z ní je Istanbul.**
 
 ## Paměťový obraz
 
@@ -46,6 +64,10 @@ Byzanc je pravá věž hradu: začni u rozlomeného sloupu nahoře vlevo a pak j
 | 9 | Kniha s hlaholicí | **863:** Konstantin a Metoděj přicházejí na Velkou Moravu. |
 | 10 | Brána Konstantinopole | **1453:** Osmané město dobývají, Byzanc zaniká. |
 
+
+### Ověření proti zápiskům
+
+Popisek obrázku v sešitě „držící **cyrilici**“ je zavádějící: Konstantin vytvořil **hlaholici**, cyrilice vznikla až později u jeho žáků. Jméno **Istanbul** se pro město užívalo postupně, úředně se ustálilo až mnohem později.
 
 ## Zápis ze sešitu
 

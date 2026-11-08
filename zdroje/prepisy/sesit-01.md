@@ -1,13 +1,20 @@
-# Strana 1 – Velké schizma a počátky přemyslovského státu
+# Strana 1 – Středověká společnost (pokračování): řády, pracující, měšťané
 
 ![Fotografie sešitu](../fotografie/sesit-01.jpg)
 
-## Rekonstrukce obsahu poznámek
-- **Velké schizma** – rok **1054**; rozdělení křesťanství na západní (římskokatolickou) a východní (pravoslavnou) tradici. V zápiscích je zmíněna role Konstantinopole a Říma.
-- **Přemyslovci** – v poznámkách je uveden původ českého panovnického rodu a následně začátky českého státu. V části rukopisu jsou odkazy na města, obchod a význam panovníka.
-- **Měšťané** – obyvatelé měst; ve městech byli řemeslníci, obchodníci, nádeníci i služba.
+Čitelná rekonstrukce rukopisu, ne doslovný OCR výstup. Navazuje na stranu 2.
 
-## Vysvětlení / oprava
-Rozkol křesťanství v roce 1054 nebyl jednorázovým úplným rozdělením, ale vyústěním dlouhodobých sporů. O přemyslovských knížatech je vhodné učit se v samostatné kapitole českých dějin.
+> **Nejznámější řády:**
+> - **benediktini, cisterciáci, premonstráti** → žili tradičně uzavřeni mimo svět v klášterech
+> - **františkáni, dominikáni** → tzv. žebravé řády, žili ve městech přímo mezi lidmi, často s chudinou
+>
+> **Pracující** → řemeslníci, rolníci
+>
+> **Měšťané** živící se obchodem či řemeslem
+> - městská chudina
+> - nádeníci
+> - služba
 
-> **Čitelnost:** Prostřední část rukopisného zápisu je na fotografii obtížně čitelná; tento soubor je věrná *tematická rekonstrukce*, nikoli doslovný přepis každého slova.
+Poznámka: dřívější verze tohoto přepisu uváděla velké schizma a Přemyslovce. Na této fotce nic z toho není. Schizma je na straně 4.
+
+Výklad: [Středověká společnost a církev](../../ucivo/stredoveka-spolecnost.md).

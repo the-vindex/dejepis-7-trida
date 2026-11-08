@@ -31,7 +31,7 @@ LANES = {"říše": ("rise", "Frankové a Svatá říše"), "byzanc": ("byz", "B
 CHAPTERS = {
     "byzantska-rise": ("476–1453", "byz"),
     "franska-rise": ("5. století – 843", "rise"),
-    "arabska-rise-a-islam": ("7.–9. století", "isl"),
+    "arabska-rise-a-islam": ("7.–10. století", "isl"),
     "svata-rise-rimska": ("919–1806", "rise"),
     "polsky-stat": ("10. století – 1025", "st"),
     "uherske-kralovstvi": ("10. století – 1301", "st"),

@@ -1,15 +1,25 @@
-# Strana 3 – Arabský poloostrov, Mohamed a Korán
+# Strana 3 – Arabská říše
 
 ![Fotografie sešitu](../fotografie/sesit-03.jpg)
 
-## Rekonstrukce obsahu poznámek
-- **Arabský poloostrov**; Arabové žili v obchodních městech i jako kočovníci.
-- **Mekka**, významné náboženské a obchodní město.
-- **Mohamed (Muhammad)**, prorok islámu; začátek nového náboženství v 7. století.
-- **Korán** – posvátná kniha islámu.
-- **622** – odchod Mohameda z Mekky do **Medíny**, začátek muslimského letopočtu.
-- Islám je **monoteistické** náboženství – víra v jednoho Boha.
-- Mešita a minaret souvisejí s muslimským náboženským životem.
+Čitelná rekonstrukce rukopisu, ne doslovný OCR výstup. Podtržené pasáže jsou **tučně**, přeškrtnuté vynechány.
 
-## Upřesnění
-Rok 622 označuje hidžru; není to počátek Mohamedova působení. Korán se stal základem islámského náboženství. Islám se rozšířil také mimo arabské obyvatelstvo.
+> **Arabská říše**
+>
+> V 7. století došlo ke sjednocení kočovných arabských kmenů (tzv. **beduínů**) – tradiční pastevci velbloudů, koz a ovcí. Na Arabském poloostrově vznikl nový stát a také nové náboženství.
+>
+> Zakladatelem islámu byl Muhammad, který působil jako obchodník a hodně cestoval. V roce 622 byl donucen odejít z Mekky do Medíny. Později byl tento rok vyhlášen jako počátek letopočtu podle muslimského kalendáře.
+
+*Tištěné obrázky s popisky: prorok Mohamed; strana z Koránu.*
+
+> Arabové vynikali v mnoha oborech:
+> - matematika – používáme dodnes arabské číslice (převzali je z Indie)
+> - fyzika
+> - astronomie
+> - zeměpis
+> - lékařství
+> - stavitelství
+
+*Tištěný obrázek s popiskem: tradiční mešita (muslimská svatyně) s minaretem (štíhlá věž).*
+
+Pokračování je na straně 2 nahoře (obchod, Ibráhím ibn Jákúb, arabská slova). Výklad: [Arabská říše a islám](../../ucivo/arabska-rise-a-islam.md).

@@ -10,7 +10,6 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 622 | Hidžra: Mohamed odchází z Mekky do Medíny, počátek muslimského letopočtu | islám | arabska-rise-a-islam |
 | 732 | Karel Martel poráží Araby u Poitiers | říše, islám | franska-rise, arabska-rise-a-islam |
 | 751 | Pipin Krátký králem; začíná vláda Karlovců | říše | franska-rise |
-| 786–809 | Chalífa Harún ar-Rašíd; slon pro Karla Velikého | islám, říše | arabska-rise-a-islam, franska-rise |
 | 800 | Karel Veliký korunován císařem | říše | franska-rise |
 | 843 | Verdunská smlouva: vnuci dělí Franskou říši na tři části | říše | franska-rise, svata-rise-rimska |
 | 863 | Konstantin a Metoděj přicházejí na Velkou Moravu | čechy | byzantska-rise |
