@@ -64,7 +64,7 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**.
 
 **Prvním českým panovníkem, který se stal římským císařem, byl Karel IV.**
 
-**Vratislav II.** získal roku **1085** královský titul (korunován **1086**), ale jen pro svou osobu. **Roku 1212** potvrdila **Zlatá bula sicilská** dědičný český královský titul.
+Souvislost: **roku 1212** potvrdila **Zlatá bula sicilská** českým panovníkům **dědičný královský titul**.
 
 ## Otoni a Sálovci
 
@@ -75,15 +75,7 @@ Na trůn se pak dostala <mark>sálská dynastie</mark>. Byla to **volba**, ale z
 - Císař **Jindřich III. Černý** se utkal s českým knížetem **Břetislavem I.**
 - Jeho syn **Jindřich IV.** se proslavil hlavně **bojem o investituru** s papežem **Řehořem VII.** a slavnou **pokornou cestou do Canossy**.
 
-**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění.
-
-Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich byl **Fridrich I. Barbarossa**.
-
-### Pro zajímavost
-
-- **Tři dny ve sněhu:** v Canosse stál císař tři dny bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
-- **Jak to dopadlo:** ve **Wormském konkordátu** se dohodli napůl: biskupa vybírá církev, ale půdu mu dává císař.
-- **Barbarossa** znamená „Rudovous“, měl zrzavé vousy.
+**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění. Proto se cestě říká **pokorná**: mocný císař se musel před papežem ponížit.
 
 ## Zánik říše
 

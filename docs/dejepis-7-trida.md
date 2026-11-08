@@ -219,7 +219,7 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**.
 
 **Prvním českým panovníkem, který se stal římským císařem, byl Karel IV.**
 
-**Vratislav II.** získal roku **1085** královský titul (korunován **1086**), ale jen pro svou osobu. **Roku 1212** potvrdila **Zlatá bula sicilská** dědičný český královský titul.
+Souvislost: **roku 1212** potvrdila **Zlatá bula sicilská** českým panovníkům **dědičný královský titul**.
 
 ### Otoni a Sálovci
 
@@ -230,15 +230,7 @@ Na trůn se pak dostala **sálská dynastie**. Byla to **volba**, ale zvolili S�
 - Císař **Jindřich III. Černý** se utkal s českým knížetem **Břetislavem I.**
 - Jeho syn **Jindřich IV.** se proslavil hlavně **bojem o investituru** s papežem **Řehořem VII.** a slavnou **pokornou cestou do Canossy**.
 
-**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění.
-
-Po Sálovcích vládla další rodina, **Štaufové**. Nejznámější z nich byl **Fridrich I. Barbarossa**.
-
-#### Pro zajímavost
-
-- **Tři dny ve sněhu:** v Canosse stál císař tři dny bos ve sněhu, dokud mu papež neodpustil. Proto se dodnes říká *„jít do Canossy“*, když se někdo musí ponížit a omluvit.
-- **Jak to dopadlo:** ve **Wormském konkordátu** se dohodli napůl: biskupa vybírá církev, ale půdu mu dává císař.
-- **Barbarossa** znamená „Rudovous“, měl zrzavé vousy.
+**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění. Proto se cestě říká **pokorná**: mocný císař se musel před papežem ponížit.
 
 ### Zánik říše
 
@@ -286,7 +278,7 @@ Dokonce **zaútočil na Čechy**, které chtěl **připojit ke svému knížectv
 
 **Proč je to důležité:** kdyby Boleslav vyhrál, Čechy by se staly součástí Polska. Jeho porážkou si Čechy uhájily samostatnost a vlastní panovníky.
 
-Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Podobně to bylo i v Čechách: první český král Vratislav II. měl titul jen pro sebe a dědičný se stal až roku 1212 (téma Svatá říše římská).
+Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Souvislost s Čechami: i tam se královský titul stal dědičným až později, roku 1212 (Zlatá bula sicilská, téma Svatá říše římská).
 
 ### Zapamatuj si
 
@@ -523,7 +515,6 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 1025 | Boleslav Chrabrý korunován prvním polským králem | státy | polsky-stat |
 | 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma, byzantska-rise |
 | 1066 | Vilém I. Dobyvatel vítězí u Hastingsu a stává se anglickým králem | státy | anglie |
-| 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
 | 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
 | 1222 | Ondřej II. vydává Zlatou bulu uherskou | státy | uherske-kralovstvi |
 | 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | státy | uherske-kralovstvi |
@@ -672,6 +663,5 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 16. S kým se utkal císař Jindřich III. Černý? — **S českým knížetem Břetislavem I.**
 17. Čím se proslavil Jindřich IV.? — **Bojem o investituru s papežem Řehořem VII. a pokornou cestou do Canossy.**
 18. O co šlo v boji o investituru? — **Kdo bude vybírat biskupy: císař, nebo papež.**
-19. Kdo získal roku 1085 královský titul? — **Vratislav II., ale jen pro sebe.**
-20. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
-21. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
+19. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+20. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**

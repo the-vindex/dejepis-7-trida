@@ -24,7 +24,6 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 1025 | Boleslav Chrabrý korunován prvním polským králem | státy | polsky-stat |
 | 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma, byzantska-rise |
 | 1066 | Vilém I. Dobyvatel vítězí u Hastingsu a stává se anglickým králem | státy | anglie |
-| 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
 | 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
 | 1222 | Ondřej II. vydává Zlatou bulu uherskou | státy | uherske-kralovstvi |
 | 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | státy | uherske-kralovstvi |

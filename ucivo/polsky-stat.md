@@ -27,7 +27,7 @@ Dokonce **zaútočil na Čechy**, které chtěl **připojit ke svému knížectv
 
 **Proč je to důležité:** kdyby Boleslav vyhrál, Čechy by se staly součástí Polska. Jeho porážkou si Čechy uhájily samostatnost a vlastní panovníky.
 
-Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Podobně to bylo i v Čechách: první český král Vratislav II. měl titul jen pro sebe a dědičný se stal až roku 1212 (téma Svatá říše římská).
+Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Souvislost s Čechami: i tam se královský titul stal dědičným až později, roku 1212 (Zlatá bula sicilská, téma Svatá říše římská).
 
 ## Zapamatuj si
 
