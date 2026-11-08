@@ -264,7 +264,7 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**.
 
 **Prvním českým panovníkem, který se stal římským císařem, byl Karel IV.**
 
-Souvislost: **roku 1212** potvrdila **Zlatá bula sicilská** českým panovníkům **dědičný královský titul**.
+Prvním českým králem byl **Vratislav II.** (1085, viz níže), ale jen pro sebe. Souvislost: **roku 1212** potvrdila **Zlatá bula sicilská** českým panovníkům **dědičný královský titul**.
 
 ### Otoni a Sálovci
 
@@ -275,7 +275,22 @@ Na trůn se pak dostala **sálská dynastie**. Byla to **volba**, ale zvolili S�
 - Císař **Jindřich III. Černý** se utkal s českým knížetem **Břetislavem I.**
 - Jeho syn **Jindřich IV.** se proslavil hlavně **bojem o investituru** s papežem **Řehořem VII.** a slavnou **pokornou cestou do Canossy**.
 
-**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění. Proto se cestě říká **pokorná**: mocný císař se musel před papežem ponížit.
+**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a roku **1077** jít za papežem na hrad **Canossa** prosit o odpuštění. Proto se cestě říká **pokorná**: mocný císař se musel před papežem ponížit.
+
+#### Pro zajímavost
+
+- **Dobrovolný úkol ze sešitu:** zjistit podrobnosti o cestě do Canossy a nakreslit k ní obrázek.
+- **Cesta v zimě:** Jindřich IV. šel za papežem v zimě přes zasněžené Alpy do severní Itálie, kde byl papež na hradě Canossa.
+- **Tři dny ve sněhu:** před bránou hradu stál tři dny bos, v prostém kajícném rouchu, a prosil o odpuštění. Teprve pak ho papež Řehoř VII. pustil dovnitř a klatbu zrušil.
+- **„Jít do Canossy“:** dodnes se tak říká, když se někdo musí ponížit a omluvit.
+
+### Vratislav II. a Kodex vyšehradský
+
+**Pro naše dějiny je klíčový** rok **1085**. Tehdy udělil císař Jindřich IV. českému knížeti **Vratislavovi II.** **první český královský titul**. Titul byl ale **pouze pro jeho osobu**, **nebyl dědičný**: jeho syn už byl zase jen kníže.
+
+**Proč je to důležité:** Vratislav II. byl **první český král**. Ukázalo se, že český panovník je v říši tak důležitý, že si královskou korunu zaslouží.
+
+U příležitosti jeho **korunovace** na **Pražském hradě** roku **1086** vznikl **Kodex vyšehradský**. Je to ručně psaná a bohatě zdobená kniha s texty evangelií a obrázky. Patří k **nejcennějším knihám** v Česku.
 
 ### Zánik říše
 
@@ -285,7 +300,7 @@ Posledním panovníkem byl **František II.** Už od roku **1804** používal i 
 
 ### Zapamatuj si
 
-**919 Jindřich Ptáčník zvolen králem → 929 Václav platí tribut míru → 955 Ota I. poráží Maďary na Lechu (s pomocí Boleslava I.) → 962 Ota I. císařem = Svatá říše římská → krále volí 7 kurfiřtů, císařem ho korunují v Římě → Otoni → Sálovci (Jindřich IV., investitura, Canossa) → 1806 zánik pod tlakem Napoleona, poslední František II.**
+**919 Jindřich Ptáčník zvolen králem → 929 Václav platí tribut míru → 955 Ota I. poráží Maďary na Lechu (s pomocí Boleslava I.) → 962 Ota I. císařem = Svatá říše římská → krále volí 7 kurfiřtů, císařem ho korunují v Římě → Otoni → Sálovci (Jindřich IV., investitura, 1077 Canossa) → 1085 Vratislav II. první český král (jen pro sebe), 1086 Kodex vyšehradský → 1806 zánik pod tlakem Napoleona, poslední František II.**
 
 ### Paměťový obraz
 
@@ -293,6 +308,7 @@ Posledním panovníkem byl **František II.** Už od roku **1804** používal i 
 - **Václav s měšcem:** roku 929 platí Jindřichovi tribut míru.
 - **Řeka, koruna a sedm voličů:** Ota I. a Boleslav I. porážejí Maďary na Lechu 955, Ota získává císařskou korunu 962; sedm kurfiřtů volí římského krále.
 - **Bosý císař ve sněhu:** Jindřich IV. jde do Canossy za papežem Řehořem VII.
+- **Král s knihou:** Vratislav II. si roku 1085 nasadí korunu, v ruce drží zdobený Kodex vyšehradský (1086).
 - **Napoleon zhasíná svíčku:** 1806 konec říše, František II. si nasadí rakouskou korunu jako František I.
 
 #### Pozor na častou chybu
@@ -323,7 +339,7 @@ Dokonce **zaútočil na Čechy**, které chtěl **připojit ke svému knížectv
 
 **Proč je to důležité:** kdyby Boleslav vyhrál, Čechy by se staly součástí Polska. Jeho porážkou si Čechy uhájily samostatnost a vlastní panovníky.
 
-Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Souvislost s Čechami: i tam se královský titul stal dědičným až později, roku 1212 (Zlatá bula sicilská, téma Svatá říše římská).
+Roku **1025** byl Boleslav **korunován prvním polským králem**. Královská koruna znamenala, že Polsko je samostatné a silné království. Po jeho smrti ale došlo k **rozpadu jednotného Polska** a jeho nástupci si **královský titul trvale neudrželi**. Podobně to bylo i v Čechách: první český král Vratislav II. (1085) měl titul jen pro sebe a dědičný se stal až roku 1212 (téma Svatá říše římská).
 
 ### Zapamatuj si
 
@@ -579,6 +595,9 @@ Linie: **říše** = Frankové a Svatá říše římská, **byzanc** = Byzanc a
 | 1025 | Boleslav Chrabrý korunován prvním polským králem | státy | polsky-stat |
 | 1054 | Velké schizma: rozkol západní a východní církve | byzanc | velke-schizma, byzantska-rise |
 | 1066 | Vilém I. Dobyvatel vítězí u Hastingsu a stává se anglickým králem | státy | anglie |
+| 1077 | Jindřich IV. jde do Canossy prosit papeže Řehoře VII. o odpuštění | říše | svata-rise-rimska |
+| 1085 | Vratislav II. první český král (jen pro sebe) | čechy | svata-rise-rimska |
+| 1086 | Korunovace Vratislava II.; vzniká Kodex vyšehradský | čechy | svata-rise-rimska |
 | 1212 | Zlatá bula sicilská: dědičný královský titul pro Čechy | čechy | svata-rise-rimska |
 | 1222 | Ondřej II. vydává Zlatou bulu uherskou | státy | uherske-kralovstvi |
 | 1301 | Smrtí Ondřeje III. vymírají Arpádovci po meči | státy | uherske-kralovstvi |
@@ -746,5 +765,10 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 16. S kým se utkal císař Jindřich III. Černý? — **S českým knížetem Břetislavem I.**
 17. Čím se proslavil Jindřich IV.? — **Bojem o investituru s papežem Řehořem VII. a pokornou cestou do Canossy.**
 18. O co šlo v boji o investituru? — **Kdo bude vybírat biskupy: císař, nebo papež.**
-19. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
-20. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
+19. Kdy šel Jindřich IV. do Canossy a proč? — **Roku 1077, aby ho papež Řehoř VII. zbavil klatby.**
+20. Co znamená „jít do Canossy“? — **Ponížit se a omluvit; Jindřich IV. stál tři dny bos ve sněhu před hradem.**
+21. Kdo byl prvním českým králem a kdy titul získal? — **Vratislav II., roku 1085 od císaře Jindřicha IV.**
+22. Byl titul Vratislava II. dědičný? — **Ne, byl jen pro jeho osobu.**
+23. Co vzniklo u příležitosti korunovace Vratislava II. roku 1086? — **Kodex vyšehradský.**
+24. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+25. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**

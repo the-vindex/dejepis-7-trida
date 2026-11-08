@@ -3,9 +3,9 @@
 Materiály k Franské a Byzantské říši, islámu, arabské říši, středověké společnosti, velkému schizmatu, Svaté říši římské, Polskému státu, Uherskému království, Francii a Anglii.
 
 ## Obsah
-- `zdroje/fotografie/`: všech **17 fotografií sešitu**; u stránek 1–4 jsou oříznuté okraje (nohy, nábytek), text je celý.
-- `zdroje/upravene/`: upravené kopie stránek 5–17 pro lepší čitelnost.
-- `zdroje/prepisy/`: **17 Markdown rekonstrukcí zápisků**, vždy s odkazem na konkrétní fotografii. Nejde o garantovaný doslovný OCR přepis – nejasné pasáže nejsou domýšleny.
+- `zdroje/fotografie/`: všech **18 fotografií sešitu**; u stránek 1–4 jsou oříznuté okraje (nohy, nábytek), text je celý.
+- `zdroje/upravene/`: upravené kopie stránek 5–18 pro lepší čitelnost.
+- `zdroje/prepisy/`: **18 Markdown rekonstrukcí zápisků**, vždy s odkazem na konkrétní fotografii. Nejde o garantovaný doslovný OCR přepis – nejasné pasáže nejsou domýšleny.
 - `ucivo/`: **10 témat**, každé kompletní: shrnutí, výklad s ilustracemi, „Zapamatuj si“, paměťový obraz, opravy omylů a fotky sešitu. Test je vždy z jednoho tématu, proto nic není rozházené mezi soubory.
 - `procvicovani/casova-osa.md`: jedna tabulka událostí s linií a tématem (z ní je časová osa na webu).
 - `procvicovani/otazky-a-odpovedi.md`: otázky rozdělené podle témat (`## <název tématu>`).
@@ -14,6 +14,6 @@ Materiály k Franské a Byzantské říši, islámu, arabské říši, středov�
 - `docs/assets/mapy/`: mapy z Wikimedia Commons (CC BY-SA); autor a licence jsou uvedeny přímo pod mapou v textu kapitoly.
 - `docs/dejepis-7-trida.md`: celé učivo v jednom souboru pro AI asistenty (odkaz je na konci webu, sekce *Pro AI*).
 
-Stránky 07–11 jsou v pořadí: Byzantská říše; Franská říše; Franská říše – pokračování; tištěné zajímavosti o Karlu Velikém; byzantský sloh. Stránky 12–14: Polský stát; Uherské království; obrázky Ondřeje II. a Bély IV. Stránky 15–17: Francie; obrázky k Francii; Anglie. Ilustrovaný paměťový hrad (`docs/assets/pametovy-hrad.jpg`) je rozdělený do témat Franská a Byzantská říše. Opravené kopie mění jen čitelnost, původní fotografie jsou zachovány.
+Stránky 07–11 jsou v pořadí: Byzantská říše; Franská říše; Franská říše – pokračování; tištěné zajímavosti o Karlu Velikém; byzantský sloh. Stránky 12–14: Polský stát; Uherské království; obrázky Ondřeje II. a Bély IV. Stránky 15–17: Francie; obrázky k Francii; Anglie. Strana 18: Svatá říše římská – Sálovci, Vratislav II., Canossa. Ilustrovaný paměťový hrad (`docs/assets/pametovy-hrad.jpg`) je rozdělený do témat Franská a Byzantská říše. Opravené kopie mění jen čitelnost, původní fotografie jsou zachovány.
 
 Poznámka: Ilustrace vyhledané v dřívějším chatu online nebyly dostupné jako samostatné lokální soubory; ZIP obsahuje veškeré dostupné originální a zpracované snímky skutečného sešitu.

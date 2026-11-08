@@ -64,18 +64,40 @@ Pravidla volby kodifikovala **Zlatá bula Karla IV. z roku 1356**.
 
 **Prvním českým panovníkem, který se stal římským císařem, byl Karel IV.**
 
-Souvislost: **roku 1212** potvrdila **Zlatá bula sicilská** českým panovníkům **dědičný královský titul**.
+Prvním českým králem byl **Vratislav II.** (1085, viz níže), ale jen pro sebe. Souvislost: **roku 1212** potvrdila **Zlatá bula sicilská** českým panovníkům **dědičný královský titul**.
 
 ## Otoni a Sálovci
 
 Rod <mark>Oty</mark> I. se nazývá <mark>otonská dynastie</mark>. Po Otovi vládli jeho potomci: **Ota II.**, **Ota III.** a **Jindřich II.** Pak otonská dynastie **vymřela v mužské linii** (nezůstal žádný syn).
+
+![Jindřich III.](../docs/assets/ilustrace/jindrich-iii.jpg)
+![Jindřich IV.](../docs/assets/ilustrace/jindrich-iv.jpg)
 
 Na trůn se pak dostala <mark>sálská dynastie</mark>. Byla to **volba**, ale zvolili Sálovce **díky příbuzenství v ženské linii**: byli s Otony příbuzní přes ženy.
 
 - Císař **Jindřich III. Černý** se utkal s českým knížetem **Břetislavem I.**
 - Jeho syn **Jindřich IV.** se proslavil hlavně **bojem o investituru** s papežem **Řehořem VII.** a slavnou **pokornou cestou do Canossy**.
 
-**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a jít za papežem na hrad **Canossa** prosit o odpuštění. Proto se cestě říká **pokorná**: mocný císař se musel před papežem ponížit.
+**Boj o investituru** byl spor, **kdo bude vybírat biskupy**: císař, nebo papež? Biskupové totiž neměli na starosti jen víru, ale vlastnili i půdu, peníze a vojáky. Kdo je vybíral, měl velkou moc. Papež dal císaře do **klatby** (vyloučil ho z církve) a šlechtici ho přestali poslouchat. Jindřich IV. proto musel ustoupit a roku **1077** jít za papežem na hrad **Canossa** prosit o odpuštění. Proto se cestě říká **pokorná**: mocný císař se musel před papežem ponížit.
+
+![Jindřich IV. před hradem Canossa](../docs/assets/ilustrace/canossa.jpg)
+
+### Pro zajímavost
+
+- **Dobrovolný úkol ze sešitu:** zjistit podrobnosti o cestě do Canossy a nakreslit k ní obrázek.
+- **Cesta v zimě:** Jindřich IV. šel za papežem v zimě přes zasněžené Alpy do severní Itálie, kde byl papež na hradě Canossa.
+- **Tři dny ve sněhu:** před bránou hradu stál tři dny bos, v prostém kajícném rouchu, a prosil o odpuštění. Teprve pak ho papež Řehoř VII. pustil dovnitř a klatbu zrušil.
+- **„Jít do Canossy“:** dodnes se tak říká, když se někdo musí ponížit a omluvit.
+
+## Vratislav II. a Kodex vyšehradský
+
+![Kodex vyšehradský (dvě stránky)](../docs/assets/ilustrace/kodex-vysehradsky.jpg)
+
+**Pro naše dějiny je klíčový** rok <mark>1085</mark>. Tehdy udělil císař Jindřich IV. českému knížeti <mark>Vratislavovi II.</mark> <mark>první český královský titul</mark>. Titul byl ale **pouze pro jeho osobu**, **nebyl dědičný**: jeho syn už byl zase jen kníže.
+
+**Proč je to důležité:** Vratislav II. byl **první český král**. Ukázalo se, že český panovník je v říši tak důležitý, že si královskou korunu zaslouží.
+
+U příležitosti jeho **korunovace** na **Pražském hradě** roku **1086** vznikl <mark>Kodex vyšehradský</mark>. Je to ručně psaná a bohatě zdobená kniha s texty evangelií a obrázky. Patří k **nejcennějším knihám** v Česku.
 
 ## Zánik říše
 
@@ -85,7 +107,7 @@ Posledním panovníkem byl <mark>František II.</mark> Už od roku **1804** pou�
 
 ## Zapamatuj si
 
-**919 Jindřich Ptáčník zvolen králem → 929 Václav platí tribut míru → 955 Ota I. poráží Maďary na Lechu (s pomocí Boleslava I.) → 962 Ota I. císařem = Svatá říše římská → krále volí 7 kurfiřtů, císařem ho korunují v Římě → Otoni → Sálovci (Jindřich IV., investitura, Canossa) → 1806 zánik pod tlakem Napoleona, poslední František II.**
+**919 Jindřich Ptáčník zvolen králem → 929 Václav platí tribut míru → 955 Ota I. poráží Maďary na Lechu (s pomocí Boleslava I.) → 962 Ota I. císařem = Svatá říše římská → krále volí 7 kurfiřtů, císařem ho korunují v Římě → Otoni → Sálovci (Jindřich IV., investitura, 1077 Canossa) → 1085 Vratislav II. první český král (jen pro sebe), 1086 Kodex vyšehradský → 1806 zánik pod tlakem Napoleona, poslední František II.**
 
 ## Paměťový obraz
 
@@ -93,6 +115,7 @@ Posledním panovníkem byl <mark>František II.</mark> Už od roku **1804** pou�
 - **Václav s měšcem:** roku 929 platí Jindřichovi tribut míru.
 - **Řeka, koruna a sedm voličů:** Ota I. a Boleslav I. porážejí Maďary na Lechu 955, Ota získává císařskou korunu 962; sedm kurfiřtů volí římského krále.
 - **Bosý císař ve sněhu:** Jindřich IV. jde do Canossy za papežem Řehořem VII.
+- **Král s knihou:** Vratislav II. si roku 1085 nasadí korunu, v ruce drží zdobený Kodex vyšehradský (1086).
 - **Napoleon zhasíná svíčku:** 1806 konec říše, František II. si nasadí rakouskou korunu jako František I.
 
 ### Pozor na častou chybu
@@ -107,5 +130,7 @@ Posledním panovníkem byl <mark>František II.</mark> Už od roku **1804** pou�
 ![První nová stránka zápisků](../docs/assets/sesit-05.jpg)
 
 ![Druhá nová stránka zápisků](../docs/assets/sesit-06.jpg)
+
+![Sálovci, Vratislav II. a Canossa](../docs/assets/sesit-18.jpg)
 
 </details>

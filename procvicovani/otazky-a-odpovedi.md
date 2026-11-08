@@ -158,5 +158,10 @@ Otázky jsou rozdělené podle kapitol. Odpověz nejdřív nahlas, pak se podív
 16. S kým se utkal císař Jindřich III. Černý? — **S českým knížetem Břetislavem I.**
 17. Čím se proslavil Jindřich IV.? — **Bojem o investituru s papežem Řehořem VII. a pokornou cestou do Canossy.**
 18. O co šlo v boji o investituru? — **Kdo bude vybírat biskupy: císař, nebo papež.**
-19. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
-20. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
+19. Kdy šel Jindřich IV. do Canossy a proč? — **Roku 1077, aby ho papež Řehoř VII. zbavil klatby.**
+20. Co znamená „jít do Canossy“? — **Ponížit se a omluvit; Jindřich IV. stál tři dny bos ve sněhu před hradem.**
+21. Kdo byl prvním českým králem a kdy titul získal? — **Vratislav II., roku 1085 od císaře Jindřicha IV.**
+22. Byl titul Vratislava II. dědičný? — **Ne, byl jen pro jeho osobu.**
+23. Co vzniklo u příležitosti korunovace Vratislava II. roku 1086? — **Kodex vyšehradský.**
+24. Co potvrzuje Zlatá bula sicilská z roku 1212? — **Dědičný královský titul českých panovníků.**
+25. Jak se jmenuje listina Karla IV. z roku 1356? — **Zlatá bula Karla IV.**
