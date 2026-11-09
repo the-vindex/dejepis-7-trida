@@ -2,6 +2,8 @@
 
 Materiály k Franské a Byzantské říši, islámu, arabské říši, středověké společnosti, velkému schizmatu, Svaté říši římské, Polskému státu, Uherskému království, Francii a Anglii.
 
+Publikováno na GitHub Pages https://the-vindex.github.io/dejepis-7-trida/.
+
 ## Obsah
 - `zdroje/fotografie/`: všech **18 fotografií sešitu**; u stránek 1–4 jsou oříznuté okraje (nohy, nábytek), text je celý.
 - `zdroje/upravene/`: upravené kopie stránek 5–18 pro lepší čitelnost.
